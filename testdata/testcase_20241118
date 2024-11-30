@@ -1,0 +1,2816 @@
+---------------------------
+cyclononane
+Should lead to: C: 9, H: 18
+---------------------------
+nonyl 6-[propyl]arsinotetradec-5,7-dien-1-oate
+Should lead to: As: 1, C: 26, H: 49, O: 2
+---------------------------
+dinonylether
+Should lead to: C: 18, H: 38, O: 1
+---------------------------
+2-butyl-4-butyl-6-heptyl-5-heptadecyl-11-heptadecyl-2-hexyl-1-iodo-10-nonyl-3-octyl-9-octyl-4-octadecyl-11-pentyl-8-pentadecyl-7-tetradecyl-6-tridecyldodecane
+Should lead to: C: 157, H: 315, I: 1
+---------------------------
+cyclohex-3-yne
+Should lead to: C: 6, H: 8
+---------------------------
+butyloctadecyl[7-[2,3,6-triimino-1,1,9,10,12-pentaiodo-4-nonyl]dodecyl-7,8,11,14,16,18-hexafluoro]octadecylamine
+Should lead to: C: 61, F: 6, H: 111, I: 5, N: 4
+---------------------------
+6-[dihexadecyl]arsino-1,9,9-tribromo-2,2,3,4-tetrahydroxy-7-mercapto-4,7-dioctoxy-3-pentadecylnonan-5,8-dione
+Should lead to: As: 1, Br: 3, C: 72, H: 140, O: 8, S: 1
+---------------------------
+cyclohept-1,2,3,5-tetraen-6-yne
+Should lead to: C: 7, H: 2
+---------------------------
+2-ethyl-2-[4-chloro]hexadecyl-5-[chloro-2-cyclooct-4,5-dienyl-2-tetradec-1,4-dienyl]propylcyclonon-1,7,8-triyne
+Should lead to: C: 52, Cl: 2, H: 80
+---------------------------
+3,19-dibromo-17-but-1,3-dienyl-12-dodecyl-4-ethyl-2-fluoro-9-heptadecyl-8-cyclohexyl-10-hex-1,2,4,5-tetraenyl-18-hexyl-15-nonadec-11-enyl-6-cyclooctyl-7-octyl-8-octadecyl-7-octadec-2,5,14-trienyl-9-octadecyl-5-dec-4,5,6,7-tetraenoxy-17-pentadecyl-3-pentadecyl-18-pentadecyl-11,13-diphenyl-6,11,13-tri[eth-1-enyl]phosphino-16-prop-2-enyl-15-cyclopropyl-14-cyclopropyl-12-cyclotridecyl-14-tridecylnonadec-2,4,10,16-tetraen-1,19-diimine
+Should lead to: Br: 2, C: 269, F: 1, H: 468, N: 2, O: 1, P: 3
+---------------------------
+oct-1,4,5-triyn-3,3,7-tri[decyl[17-[3-octadecyl-2-tetradecyl]butyl-7-hexadecyl-1-iodo]octadecyl]arsine
+Should lead to: As: 3, C: 248, H: 486, I: 3
+---------------------------
+6-methyl-7-[3-hexoxy]nonadecyl-9-[11-chloro-13-[butyl]phosphino]pentadecylcyclododecan-1,12-diimine
+Should lead to: C: 57, Cl: 1, H: 112, N: 2, O: 1, P: 1
+---------------------------
+4,9-difluoro-5,9-diiodo-6-cyclononyl-2-pentadecyl-8-cyclotridecylcyclotridecan-1,4,6,7,7,12-hexa[ditridecyl]arsine
+Should lead to: As: 6, C: 206, F: 2, H: 410, I: 2
+---------------------------
+2-[13-heptyl-15-[2-propyl]propyl]hexadecyl-5-pentadecylheptane
+Should lead to: C: 51, H: 104
+---------------------------
+4-hexyl-2,3-diiodocyclooctan-1,8-diimine
+Should lead to: C: 14, H: 24, I: 2, N: 2
+---------------------------
+14-bromo-13-butyl-7,8,15,16-tetrachloro-4-dodec-1,5,6,7,9-pentaenyl-2-ethyl-15-eth-1-enyl-11-heptyl-8-heptyl-9-hexyl-10-cyclohexadecyl-12-iodo-10-methyl-11-methyl-3-nonyl-14-nonyl-3-pent-2,3,4-trienyl-2-cyclopentyl-13-pentyl-6-pentadec-3,9-dienyl-7-pentadec-5-enyl-5-cycloundecylhexadec-4,5,6,9,12-pentaene
+Should lead to: Br: 1, C: 148, Cl: 4, H: 252, I: 1
+---------------------------
+nonan-1-oic acid
+Should lead to: C: 9, H: 18, O: 2
+---------------------------
+pentadec-5,11,13-trien-1,7-diyn-1,9,14-tri[di[5-tridecyl]heptadecyl]amine
+Should lead to: C: 195, H: 381, N: 3
+---------------------------
+3,12-dibromo-2,15,15-trichloro-7-decyl-14-ethyl-11-ethyl-12-hexadecyl-8-methyl-4-nonyl-10-nonadecyl-9-pentadecyl-13-undecylpentadecan-1,3,6,9,11-penta[pentadecylundecyl]phosphine
+Should lead to: Br: 2, C: 230, Cl: 3, H: 462, P: 5
+---------------------------
+4,6,7-triiodo-3-[1,3-diphosphino]nonyl-3-[7,11-diphenyl]tetradecyloctan-1,2,4,5,7,8-hexathiol
+Should lead to: C: 43, H: 71, I: 3, P: 2, S: 6
+---------------------------
+[7-arsino-2,3-diundecoxy-4-tridecyl]heptyl 12-[1,2,3-triarsino-4,5,6-trimercapto]hex-4,5-dienylhexadec-2,4,9,10,11-pentaen-5,14-diyn-1,16-dioate
+Should lead to: As: 5, C: 106, H: 193, O: 8, S: 3
+---------------------------
+undecyl 8-amino-3,4,7-tri[propyl]arsino-4,7,10-trihydroxy-5,9-diimino-3-mercapto-2,10-dioxo-6,8-di[dinonadecyl]phosphinodecan-1-oate
+Should lead to: As: 3, C: 106, H: 212, N: 3, O: 7, P: 2, S: 1
+---------------------------
+13-bromo-1,3,8,8,12-pentachloro-5-[9-[2-decyl-12-ethyl]cyclopentadec-3,14-diynyl]undecyltridec-1,7,9,11-tetrayne
+Should lead to: Br: 1, C: 51, Cl: 5, H: 72
+---------------------------
+4-[5-[5-heptadecyl]nonyl-9-tridecyl]cyclotridecyloct-5,6-diyne
+Should lead to: C: 60, H: 112
+---------------------------
+1,5,10,15,16-penta[pentadecyl]amino-3,16-dichloro-8-decyl-3-decyl-7,12-difluoro-4-hept-1,4-dienyl-13-heptyl-2-hexadec-2,5,12-trienyl-5,7,9-triiodo-4,9,11-trimercapto-15-octyl-11-octyl-13-octadecyl-14-propyl-8-tetradec-5,8-dienylhexadec-2,12,14-trien-1,6,10-triol
+Should lead to: C: 192, Cl: 2, F: 2, H: 364, I: 3, N: 5, O: 3, S: 3
+---------------------------
+pent-2,3-dien-1,2,3-trithiol
+Should lead to: C: 5, H: 8, S: 3
+---------------------------
+2-[1,1-diiodo]hexyl-4-[3-hexadecyl]cyclohexyl-4-[2-[8-ethyl-10-oct-2,4,7-trienyl]heptadec-8-enyl-2-[14-bromo-4,10,11-trichloro-5-hex-1,2,4,5-tetraenyl]tetradecyl]propylpent-3-ene
+Should lead to: Br: 1, C: 83, Cl: 3, H: 142, I: 2
+---------------------------
+2-bromoeth-1-yne
+Should lead to: Br: 1, C: 2, H: 1
+---------------------------
+2-decyl-4-[2,6,10,12,13,15-hexabromo-1-phenyl]hexadecyl-5-[16-iodo-5-[1,2,6,7,9-pentachloro-7-undecyl]nonyl]nonadecyltridecan-3,5,8-tri[decyl]amine
+Should lead to: Br: 6, C: 114, Cl: 5, H: 213, I: 1, N: 3
+---------------------------
+cyclooctadecane
+Should lead to: C: 18, H: 36
+---------------------------
+2,5-di[octadecylundecyl]arsino-11-fluoro-4-hexyl-2-hydroxycycloundec-1,4,10-trien-3,6,7,8,9-pentaone
+Should lead to: As: 2, C: 75, F: 1, H: 135, O: 6
+---------------------------
+nonan-6-thiol
+Should lead to: C: 9, H: 20, S: 1
+---------------------------
+cyclohexadecan-4,6,10-tri[heptyl[1-imino-2-[12-heptyl-8,10-diimino-2,5,6,7,11-penta[decyl]phosphino]tridecyl]propyl]amine
+Should lead to: C: 256, H: 521, N: 12, P: 15
+---------------------------
+8-bromo-2-chloro-5-tetradecoxy-7-cyclopent-4-enyl-4-cyclopentadecyl-2,8-diphosphinonon-4,5,6-trien-1,9-diamide
+Should lead to: Br: 1, C: 43, Cl: 1, H: 74, N: 2, O: 3, P: 2
+---------------------------
+propyl pentan-1,5-dioate
+Should lead to: C: 11, H: 20, O: 4
+---------------------------
+butan-3,4-di[[2-dodecyl]tridecyl]phosphine
+Should lead to: C: 54, H: 112, P: 2
+---------------------------
+2-heptylcyclopropane
+Should lead to: C: 10, H: 20
+---------------------------
+2-arsinocyclononadecan-6,8,10,13-tetraol
+Should lead to: As: 1, C: 19, H: 39, O: 4
+---------------------------
+5-tetradec-6,7,8,11-tetraenylcycloheptadec-10-yn-6,8,12,12-tetraamine
+Should lead to: C: 31, H: 54, N: 4
+---------------------------
+2-dodecyl-2-cyclododecyl-1,3,4,6-tetrafluoro-4-heptadecyl-3-nonadecylcyclooctan-1,8-di[decyldodecyl]amine
+Should lead to: C: 112, F: 4, H: 220, N: 2
+---------------------------
+7-ethyl-3-[7,8-dibromo-4-[3-cyclodecyl-3-pentyl]cyclooctyl]nonylcyclooctane
+Should lead to: Br: 2, C: 42, H: 78
+---------------------------
+2,11-di[undecyl]arsinocyclohexadec-2,5,10-trien-7,8,9,12,14,15-hexaone
+Should lead to: As: 2, C: 38, H: 60, O: 6
+---------------------------
+8-amino-2,4-diarsino-3,4-dihydroxy-8-methyl-6,7-dioxo-2-cyclotetradecoxynon-5-yn-1,9-dioic acid
+Should lead to: As: 2, C: 24, H: 39, N: 1, O: 9
+---------------------------
+hexadecyl dec-5,7-dien-1-oate
+Should lead to: C: 26, H: 48, O: 2
+---------------------------
+2,16-di[4,5,6,9-tetrachloro-11-imino]octadecoxycycloheptadec-11-en-7,16-di[methyl[8-chloro]tridecyl]amine
+Should lead to: C: 81, Cl: 10, H: 150, N: 4, O: 2
+---------------------------
+6-hexadecyl-12-cyclooctyl-8-octyl-4-propyl-3-propyl-13-cycloundecyl-9-undecylcyclotetradecane
+Should lead to: C: 74, H: 144
+---------------------------
+2,4,5-triiminoheptan-1,1,3-triol
+Should lead to: C: 7, H: 13, N: 3, O: 3
+---------------------------
+3-[3,4,11-tri[decylpentyl]arsino]heptadecylheptan-5-thiol
+Should lead to: As: 3, C: 69, H: 143, S: 1
+---------------------------
+hexylundecylarsine
+Should lead to: As: 1, C: 17, H: 37
+---------------------------
+pentanoic acid
+Should lead to: C: 5, H: 10, O: 2
+---------------------------
+cyclopentane
+Should lead to: C: 5, H: 10
+---------------------------
+8-amino-13,17-dibromo-13-but-1,2,3-trienyl-15-but-2,3-dienyl-1,2,10-trifluoro-11-heptyl-10-heptadecyl-5-cycloheptadec-4,7,9,11,12-pentaenyl-2-hexyl-8-hexadecyl-9-hexadec-4,8,13-trienyl-7-imino-4,6,12,12-tetraiodo-14-nonadecyl-11-heptadecoxy-9-cyclopentadec-2,8,10-trienyl-3,14-diphenyl-6-cycloprop-1,2-dienyl-15-undecylheptadec-5-en-3,4,16,16-tetraol
+Should lead to: Br: 2, C: 181, F: 3, H: 295, I: 4, N: 2, O: 5
+---------------------------
+14-undecylnonadec-4,12,17-triene
+Should lead to: C: 30, H: 56
+---------------------------
+4,5,6-triarsino-5-hexyl-4-[5-[5,6-dichloro-9-ethyl-2-pentadecyl]dodecyl-7-hexyl]octylhexan-3-[dodecylheptadecyl]phosphine
+Should lead to: As: 3, C: 84, Cl: 2, H: 172, P: 1
+---------------------------
+7,13,13-triamino-15-[cycloundecyl]arsino-10-butyl-9-cyclohex-2,3,4-trienyl-3-iodo-1,2,14-trimercapto-8-methyl-3,4,5,6-tetraphenyl-4,5,10-triphosphino-11-propyl-7-tetradec-6,10-diynylcyclopentadec-6,8,9,11,14-pentaen-12-yn-2,15-diol
+Should lead to: As: 1, C: 78, H: 98, I: 1, N: 3, O: 2, P: 3, S: 3
+---------------------------
+propanal
+Should lead to: C: 3, H: 6, O: 1
+---------------------------
+propylphosphine
+Should lead to: C: 3, H: 9, P: 1
+---------------------------
+decyl 3-amino-2,4,6-tribromo-4,6,7-trichloro-5,7-diphenyloctan-1,8-dioate
+Should lead to: Br: 3, C: 40, Cl: 3, H: 57, N: 1, O: 4
+---------------------------
+di[5-hexadecyl-4-tetradecyl]hexylether
+Should lead to: C: 72, H: 146, O: 1
+---------------------------
+4-bromo-3,3-difluorobut-2-ynal
+Should lead to: Br: 1, C: 4, F: 2, H: 1, O: 1
+---------------------------
+butyl 2-chloroethan-1-oate
+Should lead to: C: 6, Cl: 1, H: 11, O: 2
+---------------------------
+9-amido-2-iodo-3,4,9-trioxononan-1-oic acid
+Should lead to: C: 9, H: 10, I: 1, N: 1, O: 6
+---------------------------
+6,8-di[[3-pentyl]undecyl]amino-4,11-di[dodecyl]arsinoundec-2,5,7-triynoic acid
+Should lead to: As: 2, C: 67, H: 126, N: 2, O: 2
+---------------------------
+heptyl non-3,7-diyn-1,9-dioate
+Should lead to: C: 23, H: 36, O: 4
+---------------------------
+cycloundecan-6-amine
+Should lead to: C: 11, H: 23, N: 1
+---------------------------
+dimethylamine
+Should lead to: C: 2, H: 7, N: 1
+---------------------------
+1-fluoroethan-2,2,2-triamine
+Should lead to: C: 2, F: 1, H: 8, N: 3
+---------------------------
+undec-2,6,8,10-tetrayn-1-oic acid
+Should lead to: C: 11, H: 6, O: 2
+---------------------------
+2,3-dichloro-9-hexadec-3,10-diynyl-4-[7-[7-cyclononadecyl-6-pent-3,4-dienyl]nonyl-12-propyl]pentadec-3,4,10-trienylcyclodec-8-yne
+Should lead to: C: 77, Cl: 2, H: 128
+---------------------------
+9-[nonyltetradecyl]arsino-3-bromo-3,6,8,9,12,13,14-heptachloro-6-cyclododec-2,9-diynyl-2,8,12-trifluoro-10-heptadec-7-enylimino-11-methyl-5-nonyl-5-nonadec-10,13,15-triynylcyclotetradec-4,7-diyn-2,10,11,13-tetra[dimethyl]amine
+Should lead to: As: 1, Br: 1, C: 103, Cl: 7, F: 3, H: 167, N: 5
+---------------------------
+4-[3,4-difluoro-4,6,7,7-tetraiodo-7-mercapto]heptyltridecanamide
+Should lead to: C: 20, F: 2, H: 35, I: 4, N: 1, O: 1, S: 1
+---------------------------
+pent-1,2-dien-3-yne
+Should lead to: C: 5, H: 4
+---------------------------
+tetradecyl 15-amido-2,2,7,11,11,12-hexaamino-6,6-diarsino-3-bromo-5,14-dichloro-4-decyl-14-dodecyl-12-ethyl-15-formyl-9-hydroxy-8-imino-13-nonadecyl-4,13-dipropoxy-3-phenyl-5,7,9,10,10-penta[dinonadecyl]phosphinopentadecan-1-oate
+Should lead to: As: 2, Br: 1, C: 275, Cl: 2, H: 548, N: 8, O: 7, P: 5
+---------------------------
+nonan-9-ol
+Should lead to: C: 9, H: 20, O: 1
+---------------------------
+3-tetradecylbutan-1-al
+Should lead to: C: 18, H: 36, O: 1
+---------------------------
+1,4-dibromo-5-dodecyl-9-dodecyl-8-dodecyl-11-heptadecyl-12-hexyl-2-hexadecyl-13-hexadecyl-1,8-diiodo-10-methyl-12-nonyl-14-octyl-14-tetradecyl-6-tridecyl-4-tridecylpentadecane
+Should lead to: Br: 2, C: 164, H: 326, I: 2
+---------------------------
+cyclobut-2,3-diyne
+Should lead to: C: 4
+---------------------------
+pentadecyl pentan-1-oate
+Should lead to: C: 20, H: 40, O: 2
+---------------------------
+10-[methyl]arsino-11-hexadecyl-6,12-diimino-5,15-diiodo-7-methyl-4-octadecyl-2,17-dioxo-3,5,8,11-tetradodecoxynonadecanal
+Should lead to: As: 1, C: 103, H: 199, I: 2, N: 2, O: 7
+---------------------------
+non-1,2,3-triene
+Should lead to: C: 9, H: 14
+---------------------------
+6,9-dibromo-2-[1,3,5,7-tetraamino]heptyltridec-3,7,8,10-tetraen-1,13-diamide
+Should lead to: Br: 2, C: 20, H: 34, N: 6, O: 2
+---------------------------
+octylundecylether
+Should lead to: C: 19, H: 40, O: 1
+---------------------------
+5,13-diamino-13-formyltridecan-1-oic acid
+Should lead to: C: 14, H: 28, N: 2, O: 3
+---------------------------
+hexylpentylarsine
+Should lead to: As: 1, C: 11, H: 25
+---------------------------
+propyl 2-heptyl-5-imino-4-iodo-3-mercapto-4-tetradecoxyhexan-1,6-dioate
+Should lead to: C: 33, H: 62, I: 1, N: 1, O: 5, S: 1
+---------------------------
+7-arsino-2-methylcyclodec-1,3,4-trien-3,8-di[nonadecyl]amine
+Should lead to: As: 1, C: 49, H: 95, N: 2
+---------------------------
+didecylether
+Should lead to: C: 20, H: 42, O: 1
+---------------------------
+2-mercaptoethanoic acid
+Should lead to: C: 2, H: 4, O: 2, S: 1
+---------------------------
+di[1,7,9,9-tetraiodo-10-methyl-13-[1,5,9-trifluoro-6-[[11-[4-[4-heptadecyl]heptyl]octyl-2-[2-dodecyl]propyl]dodecyl]phosphino-3-tridecyl]undecyl]hexadecylether
+Should lead to: C: 200, F: 6, H: 390, I: 8, O: 1, P: 2
+---------------------------
+dodecylhexylether
+Should lead to: C: 18, H: 38, O: 1
+---------------------------
+3-[dicyclopentyl]arsino-12-bromo-2-but-1,2,3-trienyl-5,18-dichloro-17-cyclodec-4,5,6,7-tetraenyl-6-cyclodec-1,2,4,5-tetraenyl-10-cyclododecyl-8-dodecyl-17-dodec-1,2,7-trienyl-10-ethyl-13-cycloheptyl-4,11-diiodo-6-nonyl-3-nonyl-15-non-6,8-dienyl-13-cyclononadecyl-14-cyclononadecyl-7-pentyl-11-pentadec-4,5,6-trienyl-5-cyclotetradec-2-enyl-4-tetradecylcyclooctadec-2,7,8,15,16-pentaen-12,16-di[diheptadecyl]amine
+Should lead to: As: 1, Br: 1, C: 278, Cl: 2, H: 486, I: 2, N: 2
+---------------------------
+iodopent-1,2-diene
+Should lead to: C: 5, H: 7, I: 1
+---------------------------
+12-cyclooctadecyl-8-[3-[2-chloro]ethyl]cyclooctadecyl-11-[5-[8-butyl-10-chloro-4-pentyl]decyl-8-[5-hexadecyl]oct-1,3,4-trienyl]undecylcyclotridec-3-ene
+Should lead to: C: 105, Cl: 2, H: 196
+---------------------------
+2-[heptadec-3,15-dienylpentadecyl]amino-9-but-1,2-dienyl-12-cyclodecyl-7-cyclododec-2,8-dienyl-8-dodecyl-8-hept-2-enyl-11-heptadecyl-1,3-diimino-13-iodo-5-methyl-10-non-8-enyl-6-tetradec-7-enyltridec-4,5,7,11-tetraen-1,2,6,12-tetrathiol
+Should lead to: C: 131, H: 232, I: 1, N: 3, S: 4
+---------------------------
+6,8-diphenylcyclonon-1,7-dien-4-yn-8-[hexylmethyl]amine
+Should lead to: C: 28, H: 33, N: 1
+---------------------------
+dihexylether
+Should lead to: C: 12, H: 26, O: 1
+---------------------------
+2-bromo-8-decyl-7-heptyl-3-heptyl-4-heptadec-8,12,13,15,16-pentaenyl-3-heptadecyl-11-hexyl-10-nonyl-2-octyl-9-octadecyl-4-cyclooctadecyl-11-pent-1,2,3,4-tetraenyl-8-propyl-7-tetradecylcyclododec-5,6,9-triene
+Should lead to: Br: 1, C: 151, H: 275
+---------------------------
+2,3,5,6,6-pentaphosphinoheptan-1,7-diamide
+Should lead to: C: 7, H: 19, N: 2, O: 2, P: 5
+---------------------------
+5-ethyl-6-methylheptane
+Should lead to: C: 10, H: 22
+---------------------------
+6-bromo-10-ethynyl-10-fluoro-11-heptadec-16-ynyl-8-mercapto-3-octadecyl-6,12,14-tricyclobutoxy-4-cyclopentadec-2,8-diynyl-16-[methyl]phosphino-12-tetradec-3,6,8,11-tetraynylcyclohexadec-5,11-dien-7-yn-2,13-dione
+Should lead to: Br: 1, C: 95, F: 1, H: 137, O: 5, P: 1, S: 1
+---------------------------
+[2,9-diimino-1-octadecanoyloxy]tetradecyl ethan-1-oate
+Should lead to: C: 34, H: 64, N: 2, O: 4
+---------------------------
+5-cyclooctadecyl-4-[9-dodecyl-5-[9,18-diiodo-4-cyclopentadecyl-7-propyl]octadecyl]cyclotetradecyl-6-[4-ethyl]tridecylcyclooctane
+Should lead to: C: 103, H: 198, I: 2
+---------------------------
+cycloheptadecane
+Should lead to: C: 17, H: 34
+---------------------------
+di[3-nonadecyl-5-tetradecyl]heptylphosphine
+Should lead to: C: 80, H: 163, P: 1
+---------------------------
+[8,11-diimino-1,7,7,11-tetramercapto-5,10,10-trinonadecoxy]undecyl 19-mercaptononadec-4,12,14,16-tetraen-17,18-diyn-1-oate
+Should lead to: C: 87, H: 156, N: 2, O: 5, S: 5
+---------------------------
+2-fluoroethan-1-amide
+Should lead to: C: 2, F: 1, H: 4, N: 1, O: 1
+---------------------------
+butyl hexadecan-1,16-dioate
+Should lead to: C: 24, H: 46, O: 4
+---------------------------
+6,9,12-trifluoro-16-octadecylheptadecan-1,17-diamide
+Should lead to: C: 35, F: 3, H: 67, N: 2, O: 2
+---------------------------
+14-butylchloro-5-hexyl-13-hexadecyl-2-iodo-3-methyl-4-cyclononadecyl-14-pentyl-5-cyclopropyl-3-tridecyl-9-undecylcyclopentadecane
+Should lead to: C: 93, Cl: 1, H: 180, I: 1
+---------------------------
+cyclododec-8,9,10-triyn-1,3,6,6,12-pentaphosphine
+Should lead to: C: 12, H: 17, P: 5
+---------------------------
+cyclohept-1,4-dien-2-yn-1,5,6,6,7-penta[pentyl[3-[4-ethyl-2,3,4,6,8-pentaiodo]decyl]undecyl]phosphine
+Should lead to: C: 147, H: 266, I: 25, P: 5
+---------------------------
+8,10,14,14-tetrabromo-8,10-difluoro-2,7,9-trihydroxy-2,6-diiodo-12,13-dimercapto-15-octyl-3,5,9,12-tetrapentadecoxy-3-pentadecyl-4-[undecyl]phosphino-13-tetradecyl-11-tridecyl-4-undecyl-7-undecylhexadecan-1,16-diamide
+Should lead to: Br: 4, C: 159, F: 2, H: 311, I: 2, N: 2, O: 9, P: 1, S: 2
+---------------------------
+4-[di[1,3,4,9-tetra[di[6,18-dibromo-5-[1,2,5,6,9-pentaphenyl]nonyl]nonadecyl]arsino-10-methyl-14-hexoxy]heptadecyl]arsino-14-propylheptadecan-1,17-dial
+Should lead to: As: 9, Br: 32, C: 996, H: 1327, O: 4
+---------------------------
+9,15-diimino-2,13-di[[4-chloro-5-octadecyl]nonadecyl]phosphinopentadec-4,5,7,8-tetraen-1,1,3,3,4,6,7,8,10,10,11,12,12,13,14,15-hexadecaol
+Should lead to: C: 89, Cl: 2, H: 170, N: 2, O: 16, P: 2
+---------------------------
+hexyl propan-1-oate
+Should lead to: C: 9, H: 18, O: 2
+---------------------------
+4-iodo-2-[5-[heptadecyl]arsino-4-dodecyl]pentylbut-3-yn-1,1,2-triol
+Should lead to: As: 1, C: 38, H: 74, I: 1, O: 3
+---------------------------
+dibutyl[10-[2-ethyl-3-propyl-5-tridecyl]hexyl]pentadecylarsine
+Should lead to: As: 1, C: 47, H: 97
+---------------------------
+5-[hexadecyl]amino-7-butyl-2-heptadecyl-1,1-diiodo-5-methyl-2,3,8,9-tetraheptadecoxy-4-propyl-6-propyl-6-tridecyldecan-1,3,7,9-tetrathiol
+Should lead to: C: 135, H: 271, I: 2, N: 1, O: 4, S: 4
+---------------------------
+3-fluorooctan-1-al
+Should lead to: C: 8, F: 1, H: 15, O: 1
+---------------------------
+nonadecyl undecan-1,11-dioate
+Should lead to: C: 49, H: 96, O: 4
+---------------------------
+3-bromo-2-butyl-4-ethyl-4-cyclooctadecyl-2-propyl-5-undecylcyclohexane
+Should lead to: Br: 1, C: 44, H: 85
+---------------------------
+hex-2,5-diyn-1-al
+Should lead to: C: 6, H: 4, O: 1
+---------------------------
+cyclotetradecane
+Should lead to: C: 14, H: 28
+---------------------------
+pentadecyl octan-1,8-dioate
+Should lead to: C: 38, H: 74, O: 4
+---------------------------
+hexane
+Should lead to: C: 6, H: 14
+---------------------------
+2-[1,5,6,11,11-penta[dipentyl]amino-8-pentadecyl]undecylpropan-1,1,3,3-tetrathiol
+Should lead to: C: 79, H: 165, N: 5, S: 4
+---------------------------
+2,4,6,7-tetraamino-7-iodo-8-mercapto-2,3,4-triphenyl-3,5-diphosphino-6-undecylnonan-1,9-dioic acid
+Should lead to: C: 38, H: 55, I: 1, N: 4, O: 4, P: 2, S: 1
+---------------------------
+[10-heptadecyl-16,19-diiodo-9-[8-butyl]undecyl]nonadecylarsine
+Should lead to: As: 1, C: 51, H: 103, I: 2
+---------------------------
+dec-2,3,7,8-tetraen-4,5,9-triyne
+Should lead to: C: 10, H: 2
+---------------------------
+diundecylphosphine
+Should lead to: C: 22, H: 47, P: 1
+---------------------------
+tridec-4,8,9,10-tetraene
+Should lead to: C: 13, H: 20
+---------------------------
+8,12,14-trihydroxyhexadec-2,5-dien-1-amide
+Should lead to: C: 16, H: 29, N: 1, O: 4
+---------------------------
+tridecyl 5,7-diarsino-3-chloro-3,8-difluoro-8-formyl-5-hexadecyl-7-iodo-6-nonyl-4-pentyl-2,4,6,8-tetra[pentyl]phosphinooctan-1-oate
+Should lead to: As: 2, C: 72, Cl: 1, F: 2, H: 144, I: 1, O: 3, P: 4
+---------------------------
+4,10-diarsino-6-[bromo-3-hexadecyl-2-[3-hexyl-5-tetradecyl-7-undecyl]tridecyl]butyl-12-[2-ethyl-3-propyl]dodecyltridecan-1,2,3,5,8,11,13,13-octaphosphine
+Should lead to: As: 2, Br: 1, C: 94, H: 199, P: 8
+---------------------------
+dodecyl tridecanoate
+Should lead to: C: 25, H: 50, O: 2
+---------------------------
+diheptylether
+Should lead to: C: 14, H: 30, O: 1
+---------------------------
+6-bromo-3-hexyl-5-tridecylcyclohexane
+Should lead to: Br: 1, C: 25, H: 49
+---------------------------
+nonyloctadecylether
+Should lead to: C: 27, H: 56, O: 1
+---------------------------
+3,5,7,7,8,12,13-heptaarsino-13-but-2,3-dienyl-9-chloro-6-ethyl-8-fluoro-4,6,11,12-tetrahydroxy-2,3,5-trimercapto-4,9,10-triphenyl-2-[heptylhexadecyl]phosphinotetradec-11-en-1,14-dioic acid
+Should lead to: As: 7, C: 61, Cl: 1, F: 1, H: 96, O: 8, P: 1, S: 3
+---------------------------
+ditridecylether
+Should lead to: C: 26, H: 54, O: 1
+---------------------------
+1,3,10,11,11-pentaiodo-12-oct-2,4,7-triynyl-8-[2-octadecyl-2-[12-ethyl-9-propyl]cyclotetradec-1,3,4,11-tetraenyl]propylcyclotetradec-2,4,6,9,13-pentayne
+Should lead to: C: 62, H: 77, I: 5
+---------------------------
+8,10,12-tribromo-3-butyl-1,8,12-trichloro-9-cyclodecyl-2-dec-3,4,8-trien-6-ynyl-3-ethenyl-2-hept-1,3,4-trienyl-5-hexadec-3-en-6,10,11,15-tetraynyl-11-iodo-9-octadecyl-11-octadec-4,5,10,13,14-pentaynyl-6-pentyl-5-cyclopent-2,4-dienyl-10-propyl-6-tetradecyl-4-tridec-1,4,7,9,11-pentaenyl-4-undecylcyclododec-7-yne
+Should lead to: Br: 3, C: 148, Cl: 3, H: 211, I: 1
+---------------------------
+ethylnonadecylamine
+Should lead to: C: 21, H: 45, N: 1
+---------------------------
+hexadecane
+Should lead to: C: 16, H: 34
+---------------------------
+pentadecylundecylether
+Should lead to: C: 26, H: 54, O: 1
+---------------------------
+2,4,6,7-tetrachlorocyclooctane
+Should lead to: C: 8, Cl: 4, H: 12
+---------------------------
+3,5,7,7,8,9,9-heptabromo-2-chloro-5-heptadecylnon-2,3,4,6-tetraene
+Should lead to: Br: 7, C: 26, Cl: 1, H: 38
+---------------------------
+dipropylamine
+Should lead to: C: 6, H: 15, N: 1
+---------------------------
+[4-iodo-3-phosphino]butyl decan-1-oate
+Should lead to: C: 14, H: 28, I: 1, O: 2, P: 1
+---------------------------
+12-[8-butyl-3-hexyl-7-tridecyl]non-6-enyl-7,15-dihept-2,3,5-triynoxy-4-undecylcyclononadec-2,10-diyn-1,19-diimine
+Should lead to: C: 76, H: 116, N: 2, O: 2
+---------------------------
+octyl nonan-1,9-dioate
+Should lead to: C: 25, H: 48, O: 4
+---------------------------
+cyclopropane
+Should lead to: C: 3, H: 6
+---------------------------
+2-[12-[7-methyl]tridecyl]heptadecyl-2-[2-bromo]hexylhexane
+Should lead to: Br: 1, C: 43, H: 87
+---------------------------
+propyl 2-fluoro-2,3-diiodobutan-1-oate
+Should lead to: C: 7, F: 1, H: 11, I: 2, O: 2
+---------------------------
+2-[9-[3-dodecyl]hexyl]hexadecylcyclopentan-4-one
+Should lead to: C: 39, H: 76, O: 1
+---------------------------
+3-phenylhept-2,4,6-trien-1,7-diimine
+Should lead to: C: 13, H: 12, N: 2
+---------------------------
+3,3,4,8-tetrachloro-2-dec-1,3,6-trienyl-11,12-dihydroxy-6,7,7,8,10-pentamercapto-5,12-diphenyltridec-2-en-1,13-diamide
+Should lead to: C: 35, Cl: 4, H: 42, N: 2, O: 4, S: 5
+---------------------------
+methyl hexadecan-1,16-dioate
+Should lead to: C: 18, H: 34, O: 4
+---------------------------
+hex-1,3,5-triene
+Should lead to: C: 6, H: 8
+---------------------------
+ethyl 2-formyl-2-hexadecanoyloxyethanoate
+Should lead to: C: 21, H: 38, O: 5
+---------------------------
+eth-1-ene
+Should lead to: C: 2, H: 4
+---------------------------
+undec-2,3,4-triene
+Should lead to: C: 11, H: 18
+---------------------------
+heptyl 3,10-diamino-4-decyl-7-ethyl-13-hexadecyl-2-mercapto-5-phenyl-4,6,9,12,12-pentaphosphino-11-propylpentadecan-1,15-dioate
+Should lead to: C: 66, H: 129, N: 2, O: 4, P: 5, S: 1
+---------------------------
+2-cyclooctyldec-3-en-6,8,9-triyne
+Should lead to: C: 18, H: 22
+---------------------------
+1,1,5,7,9,9-hexahydroxy-2,4,5-tri[2,3,5,5,6-pentafluoro]heptoxynonan-3,8-dione
+Should lead to: C: 30, F: 15, H: 43, O: 11
+---------------------------
+decyltetradecylarsine
+Should lead to: As: 1, C: 24, H: 51
+---------------------------
+8-[10-[7-nonoxy-2-propyl]decyl-8-[7-butyl-1,3,5,7,8-pentachloro-2,3,4,5,10,10,11-heptaphosphino]undecyl]cyclohexadecyl-8-[16,18-diarsino]cyclononadecylcyclodecan-1,10-diimine
+Should lead to: As: 2, C: 82, Cl: 5, H: 162, N: 2, O: 1, P: 7
+---------------------------
+pentan-1-al
+Should lead to: C: 5, H: 10, O: 1
+---------------------------
+8-bromo-12-but-3-enyl-15-cyclobutyl-8-cyclododecyl-3-ethyl-2-eth-1-enyl-6-heptadec-2,6,8,13-tetraen-9,10,11-triynyl-3-hexyl-13-hexadecyl-1-iodo-10-methyl-17-methyl-15-methyl-10-methyl-11-nonyl-9-nonadec-2,3,5,9-tetraenyl-6-octyl-2-oct-4,5,6-trienyl-7-octadecyl-14-prop-2-ynyl-4-tetradecyl-7-tridec-3,4,5-triynyl-4-cycloundec-3-enylnonadec-5,16,18-triyne
+Should lead to: Br: 1, C: 189, H: 304, I: 1
+---------------------------
+4,16,18-tri[nonyl]arsino-6-cyclotridecylcyclononadec-2,8-diyn-1,19-diimine
+Should lead to: As: 3, C: 59, H: 109, N: 2
+---------------------------
+dodecyl 2,3,3-tribromo-4-phenyl-6,7-diphosphinooct-2,5,6-trien-1,8-dioate
+Should lead to: Br: 3, C: 38, H: 59, O: 4, P: 2
+---------------------------
+hexyldipentylamine
+Should lead to: C: 16, H: 35, N: 1
+---------------------------
+7-methylcycloundecan-6,7,9,11-tetra[[iodo]methyl]amine
+Should lead to: C: 16, H: 32, I: 4, N: 4
+---------------------------
+heptadecyl[15-[propyl]arsino-10-chloro-12-[4-hexadecyl]pentadecyl]pentadecylether
+Should lead to: As: 1, C: 66, Cl: 1, H: 134, O: 1
+---------------------------
+didodecylether
+Should lead to: C: 24, H: 50, O: 1
+---------------------------
+cyclopentadec-6,7,8,13,14-pentayne
+Should lead to: C: 15, H: 10
+---------------------------
+5-hexyl-2-[11-[3-[dodecylpentadecyl]phosphino]dodecyl-5-[10-dodecyl-8-hexyl]dodecyl-6,8-di[butylpentadecyl]phosphino]tetradecyl-4-[11-hexyl]tetradecylheptanimine
+Should lead to: C: 154, H: 312, N: 1, P: 3
+---------------------------
+didecylether
+Should lead to: C: 20, H: 42, O: 1
+---------------------------
+[4-bromo-3-pentadecoxy]hexyl 2-amidoethan-1-oate
+Should lead to: Br: 1, C: 23, H: 44, N: 1, O: 4
+---------------------------
+[11-mercapto]pentadecyl 4-bromo-3,4-dimercaptobutanoate
+Should lead to: Br: 1, C: 19, H: 37, O: 2, S: 3
+---------------------------
+hexyl 2,2-dibromopropan-1-oate
+Should lead to: Br: 2, C: 9, H: 16, O: 2
+---------------------------
+cyclopentan-4-ol
+Should lead to: C: 5, H: 10, O: 1
+---------------------------
+[1,4-diformyl-2-oxo-4-phenyl]butyl 2-chloro-7,8-difluorododec-4,6,8-trien-1,12-dioate
+Should lead to: C: 36, Cl: 1, F: 2, H: 33, O: 10
+---------------------------
+decanamide
+Should lead to: C: 10, H: 21, N: 1, O: 1
+---------------------------
+11-[1,4,4,5,7,8,11-heptabromo]undecylcyclopentadec-1,10-diyne
+Should lead to: Br: 7, C: 26, H: 37
+---------------------------
+ethane
+Should lead to: C: 2, H: 6
+---------------------------
+1,4-di[pentyl]amino-1-arsino-3-dodecyl-6-fluoro-2,5-dimercapto-4-octadecyl-2-phosphinocyclohexan-3,5-diol
+Should lead to: As: 1, C: 46, F: 1, H: 95, N: 2, O: 2, P: 1, S: 2
+---------------------------
+cycloheptadecan-13,17-diol
+Should lead to: C: 17, H: 34, O: 2
+---------------------------
+15-pentylnonadecan-1-amide
+Should lead to: C: 24, H: 49, N: 1, O: 1
+---------------------------
+octyl 7-amino-2-arsino-3-bromo-5,6,7,8-tetrachloro-3-fluoro-6-hydroxy-4,9,11-triimino-2-nonadecyl-10-oxododec-8-en-1,12-dioate
+Should lead to: As: 1, Br: 1, C: 47, Cl: 4, F: 1, H: 81, N: 4, O: 6
+---------------------------
+7-[16-heptyl-7-[ditetradecyl]phosphino]heptadecylcyclooct-2,3-diyn-1,8-diimine
+Should lead to: C: 60, H: 111, N: 2, P: 1
+---------------------------
+nonan-1,2,8,8,9-pentaol
+Should lead to: C: 9, H: 20, O: 5
+---------------------------
+decan-1,10-diimine
+Should lead to: C: 10, H: 20, N: 2
+---------------------------
+di[5-[15-tetradecyl]nonadecyl-7-[9,16-dibromo-8-dodecyl-7-heptadecyl]nonadecyl]tetradecylarsine
+Should lead to: As: 1, Br: 4, C: 190, H: 379
+---------------------------
+3,4,6-triiodocyclohex-3,5-dien-2-one
+Should lead to: C: 6, H: 3, I: 3, O: 1
+---------------------------
+4-butyl-7-butyl-9-eth-1-ynyl-10-heptyl-6-cycloheptyl-3-nonyl-10-octyl-8-cyclooctadec-8,14,15-triynyl-5-pent-2,4-diynyl-3-cyclopentyl-5-pentadec-2,7,11-triynyltridec-1,2,11,12-tetrayne
+Should lead to: C: 97, H: 138
+---------------------------
+2-[2-[didodecyl]phosphino]ethyl-2,10,12,12-tetrafluoro-5,6,7,8,10,13-hexaiodocyclotridecan-1-imine
+Should lead to: C: 39, F: 4, H: 68, I: 6, N: 1, P: 1
+---------------------------
+3,5,7,8,9,11,13-heptachloro-11-[13-[8-decyl-4-propyl]nonyl-12-[11,12-diiodo-14-pentyl]nonadecyl-10-[8-heptadecyl-6-octyl]nonadecyl]heptadecylnonadecane
+Should lead to: C: 126, Cl: 7, H: 245, I: 2
+---------------------------
+3,5,9,11,11-pentabromo-2-decyl-10-ethyl-7-ethyl-9-heptyl-2-heptadecyl-8-heptadecyl-5-nonadecyl-4-nonadecyl-8-octyl-7-octadecylundecane
+Should lead to: Br: 5, C: 130, H: 257
+---------------------------
+4-iminobutan-1-oic acid
+Should lead to: C: 4, H: 7, N: 1, O: 2
+---------------------------
+heptadecane
+Should lead to: C: 17, H: 36
+---------------------------
+2-chloro-3-hydroxy-3-phenylpropan-1-oic acid
+Should lead to: C: 9, Cl: 1, H: 9, O: 3
+---------------------------
+3-bromoprop-1,2-diyne
+Should lead to: Br: 1, C: 3, H: -1
+---------------------------
+di[5-[4,5,13,15-tetraarsino-10,13-dichloro]pentadecyl-4,5,6-triphenyl-1,2,7-tri[tetradecyl]phosphino]heptylether
+Should lead to: As: 8, C: 164, Cl: 4, H: 292, O: 1, P: 6
+---------------------------
+methyl 4-cyclododec-7,10-diynyl-14-hexadecyl-7,14-dihydroxy-2,3,8,18-tetraimino-6,15-dimercapto-13-oxo-12-tridecoxy-4,6,7,10,12-pentaphenylnonadec-5,9-dien-11,16,17-triyn-1,19-dioate
+Should lead to: C: 92, H: 110, N: 4, O: 8, S: 2
+---------------------------
+di[2,4-dibromo-1,1,2,5,6,7-hexaphenyl]heptyl[2-butyl-9,15-diiodo-2-[1,9,10,13,13-pentafluoro-1,10-diiodo-6,6,8,11,14-penta[[3-bromo-2,4-diiodo]butyl[4,5,6,10,10-pentabromo]dodecyl]phosphino]tetradecyl]octadecylamine
+Should lead to: Br: 34, C: 202, F: 5, H: 263, I: 14, N: 1, P: 5
+---------------------------
+4-[9-[2-decyl-3-octyl]butyl]decyl-4,5,6,8,13,15-hexapentoxycyclohexadecan-1,2,9,11-tetrathiol
+Should lead to: C: 78, H: 156, O: 6, S: 4
+---------------------------
+decyloctylphosphine
+Should lead to: C: 18, H: 39, P: 1
+---------------------------
+[7,9,10-trichloro-1,6-diimino]dodecylpentylamine
+Should lead to: C: 17, Cl: 3, H: 32, N: 3
+---------------------------
+cycloheptan-1,7-diimine
+Should lead to: C: 7, H: 12, N: 2
+---------------------------
+1,2,3,4-tetrachloro-2-decyl-3-decyl-4-decyl-5-iodocyclopentane
+Should lead to: C: 35, Cl: 4, H: 65, I: 1
+---------------------------
+11-fluoroundecan-5-ol
+Should lead to: C: 11, F: 1, H: 23, O: 1
+---------------------------
+cyclononan-1-imine
+Should lead to: C: 9, H: 17, N: 1
+---------------------------
+5,11-diamino-6-butyl-2,11-difluoro-8-hydroxy-7-imino-4-nonadecyl-6-pentadec-14-enyldodec-3,9,10-triyn-1,12-dial
+Should lead to: C: 50, F: 2, H: 83, N: 3, O: 3
+---------------------------
+6-[2-chloro-3,11,16-trioxo]octadecoxycarbonyl-2,3,5-tri[[4,5-di[[1,17-di[2-[1,17-di[3,4,6,12-tetraoxo[2-imino]propanoyloxy]dodecoxycarbonyl]heptadecyl-5,5-diphosphino]pentoxycarbonyl]heptadecyl]amino-12-iodo-3,7-dioxo]dodecyl]phosphino-4-[11-mercapto-8-octadecoxy]undecylhexan-1-oic acid
+Should lead to: C: 852, Cl: 1, H: 1377, I: 3, N: 30, O: 230, P: 27, S: 1
+---------------------------
+cyclooctane
+Should lead to: C: 8, H: 16
+---------------------------
+1-bromo-3,5,6,8,11,13-hexachloro-12-cyclohexadecyl-1,2,14-triiodo-9-nonyl-8-nonadec-2,18-dienyl-6-cycloprop-2-ynyl-13-tetradec-4,5,9,11-tetraenyl-11-cyclotridecylcyclotetradec-4,7,10-triyn-2,3,9,12,14-penta[octyl]amine
+Should lead to: Br: 1, C: 128, Cl: 6, H: 217, I: 3, N: 5
+---------------------------
+[8-[1,7,7-tribromo-5-ethyl-12-pentadecyl]pentadecyl-1,2,4,5,6,9,9-heptaphenyl]nonyltridecylether
+Should lead to: Br: 3, C: 96, H: 135, O: 1
+---------------------------
+hexadecyl 3-[amido-9-chloro-4,6-diphenyl]nonylhexadecan-1,16-dioate
+Should lead to: C: 69, Cl: 1, H: 118, N: 1, O: 5
+---------------------------
+hexylpentylphosphine
+Should lead to: C: 11, H: 25, P: 1
+---------------------------
+oct-7-en-2,3,5-triyne
+Should lead to: C: 8, H: 4
+---------------------------
+6,7-dihydroxy-5-methyl-4-phenyloctan-1,8-diamide
+Should lead to: C: 15, H: 22, N: 2, O: 4
+---------------------------
+butyl 4,5-di[hexyl]amino-4-fluoro-8-hexyl-5-hydroxy-3,8-dimercapto-6-nonadecyl-2,7-dioxo-3-pentadecylnonan-1,9-dioate
+Should lead to: C: 69, F: 1, H: 133, N: 2, O: 7, S: 2
+---------------------------
+2-decylcyclodecan-2,3,5,6,8-penta[[2-dodecyl-2-[2-dodecyl-4,5,6,6-tetraiodo]heptyl-3-[1,3,5,16,17-pentafluoro-2-nonyl-15-octyl]heptadecyl]butyl[8-pentyl-10-[3-bromo-2-dodecyl]propyl]tridecyl]arsine
+Should lead to: As: 5, Br: 5, C: 530, F: 25, H: 1015, I: 20
+---------------------------
+octadec-4,5,11-triynoic acid
+Should lead to: C: 18, H: 24, O: 2
+---------------------------
+heptadecyl 2,2,7,8-tetra[dodecyl]arsino-4-chloro-6-ethyl-6,8-difluoro-5,5,9,9,9-pentahydroxy-3-mercapto-7-cyclotridec-4,6-dienylnon-4-en-1-oate
+Should lead to: As: 4, C: 89, Cl: 1, F: 2, H: 171, O: 7, S: 1
+---------------------------
+methyl heptan-1,7-dioate
+Should lead to: C: 9, H: 16, O: 4
+---------------------------
+methyl dodecan-1,12-dioate
+Should lead to: C: 14, H: 26, O: 4
+---------------------------
+tritetradecylarsine
+Should lead to: As: 1, C: 42, H: 87
+---------------------------
+5-[5-cyclododecyl]cyclohexylcycloheptane
+Should lead to: C: 25, H: 46
+---------------------------
+4-octylcyclononane
+Should lead to: C: 17, H: 34
+---------------------------
+ethane
+Should lead to: C: 2, H: 6
+---------------------------
+[9-chloro-1-formyl]tetradecyl nonadec-2,10,16-trien-1-oate
+Should lead to: C: 34, Cl: 1, H: 59, O: 3
+---------------------------
+6-[5-[9-octadecyl]dodecyl]octylcycloheptane
+Should lead to: C: 45, H: 90
+---------------------------
+4,5,7,13,16-penta[hexyl]arsino-16-chloro-14-decyl-3-ethyl-16-formyl-6-hydroxy-8,12-diimino-10-iodo-10-mercapto-11-methyl-3-octadecyl-2,9-dioxo-14,15-diphenyl-7,15-di[ethyl]phosphino-13-propyl-5-tridecyl-4-tridecyl-6-undecylhexadecanamide
+Should lead to: As: 5, C: 134, Cl: 1, H: 250, I: 1, N: 3, O: 5, P: 2, S: 1
+---------------------------
+7-hexadecyl-6-[2-bromo-16-[3-nonadecyl-3-tetradecyl]butyl-5-[1-bromo]ethyl]cyclononadecylcyclododecane
+Should lead to: Br: 2, C: 86, H: 168
+---------------------------
+[3-[nonyloctyl]amino-2,2,3-trihydroxy]propyl 10-amido-2-tridecyldecan-1-oate
+Should lead to: C: 43, H: 86, N: 2, O: 6
+---------------------------
+9-chloro-4-decyl-3-decyl-1,10,10-trifluoro-5-heptadecyl-4-hexyl-3-methyl-2-methyl-5-methyl-8-methyl-6-octyl-2-octadecyl-7-undecyldecan-6,7,8,9-tetra[tridecyl]phosphine
+Should lead to: C: 146, Cl: 1, F: 3, H: 294, P: 4
+---------------------------
+2,6,7,13-tetrabromotridecan-1,13-diimine
+Should lead to: Br: 4, C: 13, H: 22, N: 2
+---------------------------
+2-methanoyloxyethanoic acid
+Should lead to: C: 3, H: 4, O: 4
+---------------------------
+10-[decyl]amino-4-bromo-4,10,11,15-tetrachloro-2,9-difluoro-13-imino-3,7,9,14,15-pentamercapto-5,6,8,12-tetraoxo-3,11,14-trimethoxy-2-[dioctyl]phosphinohexadecan-1,16-dioic acid
+Should lead to: Br: 1, C: 45, Cl: 4, F: 2, H: 74, N: 2, O: 11, P: 1, S: 5
+---------------------------
+2-ethylprop-1,2-dien-1-thiol
+Should lead to: C: 5, H: 8, S: 1
+---------------------------
+3,4,5,8,8-pentachloro-4-[13-methyl-11-non-6-enyl-8-phenyl]pentadecylcyclodec-2,6,7-trien-1,1,2,6,9-pentathiol
+Should lead to: C: 41, Cl: 5, H: 61, S: 5
+---------------------------
+12-cyclobutyl-4-decyl-11-dodecyl-10-pentoxy-2-pentadecyl-7-undecylcyclohexadecan-3,6,14-trithiol
+Should lead to: C: 73, H: 144, O: 1, S: 3
+---------------------------
+diethylphosphine
+Should lead to: C: 4, H: 11, P: 1
+---------------------------
+[11-nonadecyl]hexadecylnonadecylpentadecylphosphine
+Should lead to: C: 69, H: 141, P: 1
+---------------------------
+but-2,3-dienoic acid
+Should lead to: C: 4, H: 4, O: 2
+---------------------------
+ethan-1-amide
+Should lead to: C: 2, H: 5, N: 1, O: 1
+---------------------------
+dihexyl[11-[2-decyl-6-heptyl-8-pentadecyl]decyl-2-[7-decyl-6-ethyl-3-methyl]octyl]hexadecylphosphine
+Should lead to: C: 91, H: 185, P: 1
+---------------------------
+cycloprop-2-yne
+Should lead to: C: 3, H: 2
+---------------------------
+octadecyldiundecylphosphine
+Should lead to: C: 40, H: 83, P: 1
+---------------------------
+13-hexyl-5-[1,12,15-tribromo-15-fluoro-14-phenyl]octadecyl-3,4,4,6,7-pentadecoxyoctadecan-1,18-diimine
+Should lead to: Br: 3, C: 98, F: 1, H: 184, N: 2, O: 5
+---------------------------
+3,4-dibromo-2-cyclobutyl-6-iodo-3-cyclononyl-5-nonyl-5-pentyl-2-pentyl-4-pentadecylcyclohexane
+Should lead to: Br: 2, C: 53, H: 99, I: 1
+---------------------------
+[3,4,5,7,8,10-hexabromo-4-heptadecyl-9-pentyl]decylheptylamine
+Should lead to: Br: 6, C: 39, H: 75, N: 1
+---------------------------
+cycloundecane
+Should lead to: C: 11, H: 22
+---------------------------
+2-hydroxyethanamide
+Should lead to: C: 2, H: 5, N: 1, O: 2
+---------------------------
+4-heptylhex-1,2-dien-3,4,5,5,6-penta[[3,4,8-tribromo-3-[7-iodo-11-pentyl]tetradecyl]undecyl]arsine
+Should lead to: As: 5, Br: 15, C: 163, H: 309, I: 5
+---------------------------
+ditridecylether
+Should lead to: C: 26, H: 54, O: 1
+---------------------------
+6,11-dibromo-7-butyl-4-decyl-5-heptyl-9-heptadecyl-5-hexadecyl-9-methyl-3-nonyl-8-nonadecyl-8-octyl-2-octyl-4-pentadecyl-3-pentadecyl-6-tridecyl-7-undecylundecane
+Should lead to: Br: 2, C: 164, H: 328
+---------------------------
+octyl undecan-1-oate
+Should lead to: C: 19, H: 38, O: 2
+---------------------------
+cyclohexadecane
+Should lead to: C: 16, H: 32
+---------------------------
+ethan-2,2-dithiol
+Should lead to: C: 2, H: 6, S: 2
+---------------------------
+heptadec-5,6,10,11-tetrayn-1,17-dial
+Should lead to: C: 17, H: 16, O: 2
+---------------------------
+ethylamine
+Should lead to: C: 2, H: 7, N: 1
+---------------------------
+hexyl prop-2-yn-1-oate
+Should lead to: C: 9, H: 14, O: 2
+---------------------------
+dec-2,6,8-triyn-1-oic acid
+Should lead to: C: 10, H: 8, O: 2
+---------------------------
+13-chloro-3,3,4,5-tetramercapto-14-[3-iodo]heptoxyhexadecan-1,16-dioic acid
+Should lead to: C: 23, Cl: 1, H: 42, I: 1, O: 5, S: 4
+---------------------------
+2-[pentadecyl]arsinoethan-1-al
+Should lead to: As: 1, C: 17, H: 35, O: 1
+---------------------------
+11-heptadecyl-9-[14-methyl-2-[dipentadecyl]phosphino]pentadecylpentadecan-12-thiol
+Should lead to: C: 78, H: 159, P: 1, S: 1
+---------------------------
+cyclododec-5,7,9-triyn-3,11-dithiol
+Should lead to: C: 12, H: 12, S: 2
+---------------------------
+11-arsino-3,7-dibromo-2,9-dichloro-2-decyl-6,10,12-trifluoro-10-hexadecyl-4,5-diimino-1-iodo-9-octyl-7-cyclooctadecyl-13-phenyl-3-phosphino-8-propyl-11-tridecyl-8-cyclotridecyl-6-tridecyl-12-undecylcyclotridecan-1-thiol
+Should lead to: As: 1, Br: 2, C: 124, Cl: 2, F: 3, H: 228, I: 1, N: 2, P: 1, S: 1
+---------------------------
+cycloheptane
+Should lead to: C: 7, H: 14
+---------------------------
+3,3,6-tribromocycloheptadec-1-en-1,4,12,17-tetra[pentylpentadecyl]amine
+Should lead to: Br: 3, C: 97, H: 193, N: 4
+---------------------------
+14-but-1,3-dienyl-2-but-3-ynyl-13-cyclodec-4-en-2,9-diynyl-2-eth-1-enyl-8-ethyl-6-cyclohex-2,4-diynyl-14-cyclohex-1,3-dienyl-11-hexadecyl-10-hexadecyl-16-iodo-12-methyl-7-octadec-9,11-dienyl-11-cyclopentyl-13-prop-2-enyl-7-cyclotetradec-3,7,8,10,13-pentaynyl-12-cyclotetradec-1,3,5,7,9-pentaen-13-ynyl-8-undecylhexadec-3,4,5,9,15-pentayne
+Should lead to: C: 148, H: 193, I: 1
+---------------------------
+[19-[dinonadecyl]arsino]nonadecyl oct-3-yn-1,8-dioate
+Should lead to: As: 2, C: 122, H: 240, O: 4
+---------------------------
+dodecan-1,7,7-trithiol
+Should lead to: C: 12, H: 26, S: 3
+---------------------------
+2,3,4,5,8,9-hexabromo-1,1,2,5,7-pentachloro-8-cyclononyl-6-propyl-7-tetradecyl-3-tetradecyl-6-tridecyl-4-undecylcyclononane
+Should lead to: Br: 6, C: 73, Cl: 5, H: 133
+---------------------------
+tri[1,2,3-triarsino-2-[2-dodecyl-4-nonyl]pentyl]propylphosphine
+Should lead to: As: 9, C: 87, H: 186, P: 1
+---------------------------
+8,8,11-trichlorotetradecan-1-oic acid
+Should lead to: C: 14, Cl: 3, H: 25, O: 2
+---------------------------
+6-butyl-3,4,6,7-tetrachloro-4,7-dihydroxy-5-imino-3-mercapto-2-nonadecyl-2-dodecoxyheptanal
+Should lead to: C: 42, Cl: 4, H: 79, N: 1, O: 4, S: 1
+---------------------------
+8-[7-[1,6-dibromo-3-nonadecyl-5-tetradec-5,11-dienyl]hex-1,2,3,5-tetraenyl-2,3,4,6,7,9-hexahexadec-1,7-dienoxy]decyl-2,4-diphosphinocycloundec-3,4,9-trien-1,11-diimine
+Should lead to: Br: 2, C: 156, H: 268, N: 2, O: 6, P: 2
+---------------------------
+1,6-dichlorocyclooctan-1,3-di[didecyl]amine
+Should lead to: C: 48, Cl: 2, H: 96, N: 2
+---------------------------
+ethan-1,2,2-trithiol
+Should lead to: C: 2, H: 6, S: 3
+---------------------------
+3-[3-ethyl-3-[2,4,6-tri[4,10,15-trichloro-15-fluoro-2-[2,4-dibromo-5-fluoro-6,7,7-triphenyl]heptyl]pentadecoxy]heptyl-1,2,4-tri[octadecyl]phosphino]pentylcyclononan-1-imine
+Should lead to: Br: 6, C: 197, Cl: 9, F: 6, H: 303, N: 1, O: 3, P: 3
+---------------------------
+[fluoro]methyl tridec-6,7,9-trien-1,13-dioate
+Should lead to: C: 15, F: 2, H: 20, O: 4
+---------------------------
+13-bromo-5-dodec-6-enyl-2-cyclododecyl-12-hept-1,2-dienyl-10-hexyl-7-hexyl-6-hexadec-5,15-dienyl-12-hexadec-3,12-dienyl-1,5,7,14-tetraiodo-3-methyl-8-non-1,3,4,8-tetraenyl-4-non-3,5,7-trienyl-3-cyclooctyl-9-cyclooctadecyl-11-pentadecyl-4-propylcyclotetradec-2,8,13-triene
+Should lead to: Br: 1, C: 152, H: 259, I: 4
+---------------------------
+4-[1,1,4-triiodo]pentylcyclopentane
+Should lead to: C: 10, H: 17, I: 3
+---------------------------
+pentadecyl 4-[di[4-[dihex-1,3-diynyl]arsino-2,9-dimercapto]hexadec-3,6,13-trienyl]phosphinopent-3-yn-1-oate
+Should lead to: As: 2, C: 76, H: 107, O: 2, P: 1, S: 4
+---------------------------
+pentadecyl 18-amido-7-amino-7,18-di[diethyl]arsino-8,17-dibromo-11,13,16-trifluoro-8-heptyl-6-hexyl-4,6,14-trihydroxy-3,12-diimino-4,17-diiodo-15,16-dimercapto-15-nonyl-2,5,9,10-tetraoxo-18-nonadecanoyloxy-11,14-diphenyloctadecanoate
+Should lead to: As: 2, Br: 2, C: 94, F: 3, H: 155, I: 2, N: 4, O: 12, S: 2
+---------------------------
+7-[10-[4-bromo-2-cycloheptadecyl]but-3-ynyl-14,15-diiodo-6-[3-bromo-2-hexadecyl]prop-1,2-dienyl]pentadecylcycloundec-2,3,5,6-tetraen-8-yne
+Should lead to: Br: 2, C: 66, H: 106, I: 2
+---------------------------
+3-cycloheptyl-2-[11-hexadecyl]tetradecylcyclobut-2-en-1,4-diimine
+Should lead to: C: 41, H: 76, N: 2
+---------------------------
+4-iminopent-2-en-1,5-diamide
+Should lead to: C: 5, H: 7, N: 3, O: 2
+---------------------------
+6-heptadec-3,5,6,8-tetraynyl-12-iodohexadec-7-yn-3,11-di[[10-[7,7-di[propyl]arsino-3-butyl]heptyl-12-iodo]tridecyl]phosphine
+Should lead to: As: 4, C: 93, H: 171, I: 3, P: 2
+---------------------------
+3,7-diphenylpentadecan-1,15-dial
+Should lead to: C: 27, H: 36, O: 2
+---------------------------
+14-amino-2,4-dichloro-9-ethyl-3-ethyl-1,1,4,11,11-pentahydroxy-1,2,14-triiodo-10-mercapto-10-nonyl-3-octyl-8-pentadecyl-5,5,6,9,14-penta[nonadecyl]phosphino-12-propyl-12-tetradecyltetradecan-7,13-dione
+Should lead to: C: 162, Cl: 2, H: 323, I: 3, N: 1, O: 7, P: 5, S: 1
+---------------------------
+[1,11-diformyl-4-imino-3,7,8-triiodo]undecyl 9-amino-9-[16-ethyl]heptadecoxydecan-1,10-dioate
+Should lead to: C: 55, H: 93, I: 6, N: 3, O: 9
+---------------------------
+1,12-dibromo-6-[9-pentadecyl-12-tridec-9-ynyl]nonadecylheptadec-9-yne
+Should lead to: Br: 2, C: 64, H: 120
+---------------------------
+cycloundecane
+Should lead to: C: 11, H: 22
+---------------------------
+octan-1,8-dioic acid
+Should lead to: C: 8, H: 14, O: 4
+---------------------------
+hexadec-10-en-1,16-diamide
+Should lead to: C: 16, H: 30, N: 2, O: 2
+---------------------------
+ethan-1-oic acid
+Should lead to: C: 2, H: 4, O: 2
+---------------------------
+2-pentadecyl-3-tetradecylbut-2,3-diene
+Should lead to: C: 33, H: 64
+---------------------------
+octadec-8,17-dien-3-ol
+Should lead to: C: 18, H: 34, O: 1
+---------------------------
+11-butyl-15-chloro-2-heptyl-5-heptadec-3,5,12-trienyl-9-nonadec-4,6,11,15-tetraenyl-8-octadecyl-14-pentadecyl-13-propenyl-6-tetradecylpentadec-1,7,13-triene
+Should lead to: C: 112, Cl: 1, H: 203
+---------------------------
+1,3,9,10,10,16,19-heptabromocyclononadecane
+Should lead to: Br: 7, C: 19, H: 31
+---------------------------
+[7-heptadecyl]nonadecylphosphine
+Should lead to: C: 36, H: 75, P: 1
+---------------------------
+3,3,9-tribromo-12-chloro-10-decyl-2-dodecyl-5-heptadecyl-14-heptadecyl-9-cyclohexyl-2-hexyl-5-cyclohexadecyl-4-cyclohexadecyl-13-hexadecyl-6-methyl-8-octyl-10-pentyl-11-pentadecyl-7-cyclopropyl-7-tetradecyl-13-tridecyl-4-tridecyl-6-undecylcyclopentadecane
+Should lead to: Br: 3, C: 214, Cl: 1, H: 416
+---------------------------
+3,5,13,14-tetrabromo-3,16-di[heptyl[7,8-diamino-16-fluoro]octadecyl]phosphinohexadec-11,12-diyn-2,4,8,10,15-pentaone
+Should lead to: Br: 4, C: 66, F: 2, H: 116, N: 4, O: 5, P: 2
+---------------------------
+6-eth-1-ynyl-4,6,8,9-tetrafluorocyclonon-3,5-diyn-1,1,2,7,9-pentaphosphine
+Should lead to: C: 11, F: 4, H: 11, P: 5
+---------------------------
+2-decyl-4-decyl-2-cyclodec-1,5,6-trienyl-10-eth-1-enyl-9-cycloheptadecyl-7-hexadec-3-enyl-9-nonadecyl-7-nonadecyl-10-octyl-4-octylundec-1,3,5,6,8-pentayne
+Should lead to: C: 130, H: 228
+---------------------------
+[4-bromo]pentylundecylether
+Should lead to: Br: 1, C: 16, H: 33, O: 1
+---------------------------
+but-1,2-diyne
+Should lead to: C: 4, H: 2
+---------------------------
+dinonadecylether
+Should lead to: C: 38, H: 78, O: 1
+---------------------------
+[4-ethyl-1,5-diformyl-1-iodo]pentyl 2,4,5,7,8,9-hexachloro-4,6,11-trihydroxytridec-10-en-1,13-dioate
+Should lead to: C: 31, Cl: 6, H: 42, I: 2, O: 11
+---------------------------
+4,6,9,16-tetraiodocycloheptadec-7,13,14,15-tetrayn-1,5,17-triol
+Should lead to: C: 17, H: 14, I: 4, O: 3
+---------------------------
+heptyl 5,7,11-tri[dodecyloctadecyl]amino-17-[heptadecyl]arsino-16-bromo-16-chloro-8-ethyl-6,10,13-trifluoro-18-formyl-3-hexyl-4,7,10-trihydroxy-2,15-diimino-14-iodo-5-mercapto-11-nonyl-12-oxo-17-nonoxy-18-octadecanoyloxy-6,8,9-tri[heptylpentyl]phosphinooctadecan-1-oate
+Should lead to: As: 1, Br: 1, C: 213, Cl: 1, F: 3, H: 419, I: 1, N: 5, O: 10, P: 3, S: 1
+---------------------------
+14-[8-[4-pentyl]hexyl-3-[3-octadecyl]pentyl]decyl-2-ethylhexadecane
+Should lead to: C: 62, H: 126
+---------------------------
+butane
+Should lead to: C: 4, H: 10
+---------------------------
+6-ethyl-2-heptadecyl-9-propyl-6-undecylcyclodecan-2,7,8,10-tetra[hexadecyl]arsine
+Should lead to: As: 4, C: 107, H: 218
+---------------------------
+3-dodecyl-8-[3-[16-iodo-12-octadecyl]hexadecyl-4-methyl]pentyl-2-tetradecyloctadecane
+Should lead to: C: 84, H: 169, I: 1
+---------------------------
+3-iminopropan-1-al
+Should lead to: C: 3, H: 5, N: 1, O: 1
+---------------------------
+ethylhexylether
+Should lead to: C: 8, H: 18, O: 1
+---------------------------
+2-[2-cyclooctyl]but-1,3-dienylcycloprop-2-ene
+Should lead to: C: 15, H: 22
+---------------------------
+4-[5-[13-heptadec-2,5,14-triynyl]pentadecyl-9-[2-butyl-2-hexadec-3,8,10,11-tetraynyl]propyl]pentadecylhex-1,2,5-triyne
+Should lead to: C: 76, H: 114
+---------------------------
+5-bromo-12-butyl-13-butyl-14-decyl-3-ethyl-10-heptyl-9-heptadecyl-10-heptadecyl-8-hexadecyl-12-hexadecyl-7-methyl-2-nonadecyl-11-octadecyl-6-pentyl-4-pentyl-3-propyl-4-undecylpentadecane
+Should lead to: Br: 1, C: 170, H: 341
+---------------------------
+6-heptadecylcycloheptane
+Should lead to: C: 24, H: 48
+---------------------------
+11-[16-chloro-11-[5-chloro-8-pentyl-5-tridecyl]decyl]cycloheptadecylcyclopentadecan-1-imine
+Should lead to: C: 60, Cl: 2, H: 115, N: 1
+---------------------------
+dodecan-3,12-dithiol
+Should lead to: C: 12, H: 26, S: 2
+---------------------------
+3-[8-[5-tridecyl]octyl]nonadecylheptane
+Should lead to: C: 47, H: 96
+---------------------------
+2-[2,3,4,4,5,6-hexachloro-2-ethyl]octylcyclobutane
+Should lead to: C: 14, Cl: 6, H: 22
+---------------------------
+2-propylpropane
+Should lead to: C: 6, H: 14
+---------------------------
+2-arsinoethan-1-al
+Should lead to: As: 1, C: 2, H: 5, O: 1
+---------------------------
+[2-[3-iodo-2-[[3-[3-ethyl-3-[3,15-di[butyl[6,9-difluoro]dodecyl]arsino]heptadecyl-2-hexyl]hexyl-2-[1,2,8-triphenyl]undecyl]butyl]phosphino]propyl]propyl[2-dodecyl]propylether
+Should lead to: As: 2, C: 117, F: 4, H: 210, I: 1, O: 1, P: 1
+---------------------------
+bromo-1,6-dichloro-3-decyl-7-dodecyl-3-ethyl-4-heptadecyl-5-heptadecyl-2-hexadecyl-6,8,9,10,10-pentaiodo-8-methyl-4-octyl-5-octadecyl-2-pentyl-9-pentadecyl-7-tetradecyldecane
+Should lead to: Br: 1, C: 145, Cl: 2, H: 284, I: 5
+---------------------------
+6-[3-[12-octyl]pentadecyl]butyl-4-methylheptane
+Should lead to: C: 35, H: 72
+---------------------------
+16,16,17-trifluoro-13-[4,6,8-trioxo-7-undecyl]octylnonadecan-1-al
+Should lead to: C: 38, F: 3, H: 67, O: 4
+---------------------------
+triheptadecylamine
+Should lead to: C: 51, H: 105, N: 1
+---------------------------
+ethan-1,1,2-triphosphine
+Should lead to: C: 2, H: 9, P: 3
+---------------------------
+1,15-diamino-9-[14-hept-1,2,4,6-tetraenyl]heptadecylcyclopentadec-10,11-diyn-1,2,4,5,6,7,8,8,9,13-decathiol
+Should lead to: C: 39, H: 64, N: 2, S: 10
+---------------------------
+nonadecylphosphine
+Should lead to: C: 19, H: 41, P: 1
+---------------------------
+6-[3-bromo]cyclopropylcyclohexadecane
+Should lead to: Br: 1, C: 19, H: 35
+---------------------------
+methyl 3,6,7,8,13-pentamercapto-2,4,5-triphosphinotridec-4,6,8,9,11-pentaen-1-oate
+Should lead to: C: 14, H: 21, O: 2, P: 3, S: 5
+---------------------------
+5,8-dichloro-6-hexyl-2-nonyl-4-nonyl-5-pentadecyl-3-tetradecyl-3-tridecyloctane
+Should lead to: C: 74, Cl: 2, H: 148
+---------------------------
+3,4,6-tribromo-6-chlorocyclohex-1,5-diene
+Should lead to: Br: 3, C: 6, Cl: 1, H: 4
+---------------------------
+cyclohexadec-7,15-diyne
+Should lead to: C: 16, H: 24
+---------------------------
+2-decyl-3-ethyl-2-heptyl-3-heptadecyl-4,5-diimino-1,6-diphenylcyclohexan-6-[pentadecyl]amine
+Should lead to: C: 69, H: 121, N: 3
+---------------------------
+eth-1-yne
+Should lead to: C: 2, H: 2
+---------------------------
+2-[7-chloro]octylcyclobut-1,3-diyne
+Should lead to: C: 12, Cl: 1, H: 15
+---------------------------
+tetradecyl 3,3-di[didec-9-ynyl]arsino-7,12-dichloro-5,6,12-trifluoro-2-imino-12-[diundecyl]phosphino-4-tridec-3,5,9,10-tetraen-7-ynyldodec-5,6,7,8-tetraen-9,10,11-triyn-1-oate
+Should lead to: As: 2, C: 101, Cl: 2, F: 3, H: 151, N: 1, O: 2, P: 1
+---------------------------
+8-[8-[[5-pentadec-13-enyl-4-[4,8-dibromo]tetradecyl]hex-2-ynyl]arsino-6-hept-4-ynyl-7-nonyl]pentadecoxycyclonon-7-yn-1-imine
+Should lead to: As: 1, Br: 2, C: 75, H: 134, N: 1, O: 1
+---------------------------
+1,1,4-trichloro-3-methylcyclopent-2,3-diene
+Should lead to: C: 6, Cl: 3, H: 5
+---------------------------
+2,9,10-triiodo-4-cyclooctyl-10-cyclopentadecyl-2-pentadecyl-7-tetradecylundec-3,9-dien-1,5,6-triyne
+Should lead to: C: 63, H: 105, I: 3
+---------------------------
+cycloheptane
+Should lead to: C: 7, H: 14
+---------------------------
+tridecan-2,4,7,10,12-pentaone
+Should lead to: C: 13, H: 18, O: 5
+---------------------------
+1,6-dichloro-4-octyl-3-pentylcyclohexan-2-thiol
+Should lead to: C: 19, Cl: 2, H: 36, S: 1
+---------------------------
+ethene
+Should lead to: C: 2, H: 4
+---------------------------
+4,5,10,11,13-pentaarsinopentadec-6-yn-1-al
+Should lead to: As: 5, C: 15, H: 31, O: 1
+---------------------------
+4,7,10-tribromo-2-heptyl-6-cycloheptyl-9-cycloheptyl-3-cycloheptyl-5-cyclononyl-10-octadecyl-8-cyclopentadecyl-8-pentadecyl-5-tetradecyl-3-cyclotetradecyl-7-tridecyl-6-undecyl-4-undecylcycloundecane
+Should lead to: Br: 3, C: 159, H: 303
+---------------------------
+6,7,8,9,15,19-hexa[di[7-octyl-2-pentyl]octyl]amino-4-[2-amino]butylcyclononadecan-2,5,12,14,17-pentaone
+Should lead to: C: 275, H: 547, N: 7, O: 5
+---------------------------
+[7-mercapto]decyl heptan-1,7-dioate
+Should lead to: C: 27, H: 52, O: 4, S: 2
+---------------------------
+heptyl 2-amino-2,3,6,6-tetramercapto-3,4-dimethoxy-4,5,6-tri[dihexyl]phosphinohexanoate
+Should lead to: C: 51, H: 106, N: 1, O: 4, P: 3, S: 4
+---------------------------
+cyclopent-4-yn-2,3-dione
+Should lead to: C: 5, H: 2, O: 2
+---------------------------
+eth-1-ene
+Should lead to: C: 2, H: 4
+---------------------------
+7,8,11-tri[ditetradecyl]amino-5,8,13,15,17,18-hexaarsino-4,17,18-tribromo-5-butyl-11-chloro-9-fluoro-16-hexyl-7,10-dihydroxy-15-mercapto-4,6,10,13,16-pentanon-6-ynoxy-9-tridec-1-ynylnonadec-2,3,12,14-tetrayn-1,19-dioic acid
+Should lead to: As: 6, Br: 3, C: 171, Cl: 1, F: 1, H: 304, N: 3, O: 11, S: 1
+---------------------------
+6-imino-3-[[formyl-3-pentyl]pentyl]phosphinoheptan-1-amide
+Should lead to: C: 18, H: 35, N: 2, O: 2, P: 1
+---------------------------
+8-[2-heptadecyl]butyl-1,1,6,7,10-pentaiodo-8-[3-chloro-6-[3-nonyl-4-pentadecyl]pentyl]octyldecan-2,3,3,5,5-penta[[2-[15-pentyl-6-pentyl-14-propyl]heptadecyl]propyl]arsine
+Should lead to: As: 5, C: 233, Cl: 1, H: 467, I: 5
+---------------------------
+11-bromo-13-decyl-6-dodec-1,2,5,10-tetraenyl-2-heptyl-15-hept-2,3,4-trienyl-11-cycloheptadecyl-7-hexyl-16-iodo-12-methyl-9-nonyl-5-cyclooctyl-9-cyclooctyl-4-octadec-3,6,8-trienyl-3-pentadecyl-6-propyl-14-propyl-3-tridecyl-10-tridecyl-5-tridecyl-2-cycloundecylhexadec-7-ene
+Should lead to: Br: 1, C: 190, H: 350, I: 1
+---------------------------
+4,6,13,16-tetrafluoro-4-cyclononadecyl-16-cycloundec-4-enylheptadec-8-en-1,17-dial
+Should lead to: C: 47, F: 4, H: 80, O: 2
+---------------------------
+pentadecan-1,1,3,4,5,6,8,10,12,14,14,15-dodecaamine
+Should lead to: C: 15, H: 44, N: 12
+---------------------------
+2-iodo-3-[undec-8,9,10-trienyl]phosphinoprop-2-enoic acid
+Should lead to: C: 14, H: 20, I: 1, O: 2, P: 1
+---------------------------
+octyl propan-1-oate
+Should lead to: C: 11, H: 22, O: 2
+---------------------------
+propane
+Should lead to: C: 3, H: 8
+---------------------------
+heptadecylamine
+Should lead to: C: 17, H: 37, N: 1
+---------------------------
+ethan-1-oic acid
+Should lead to: C: 2, H: 4, O: 2
+---------------------------
+3-[5-[3-ethyl-4,10,11,12-tetraiodo]dodecyl-10,11,16-triiodo]hexadecylhexan-4,5,6-trithiol
+Should lead to: C: 36, H: 67, I: 7, S: 3
+---------------------------
+ditetradecylether
+Should lead to: C: 28, H: 58, O: 1
+---------------------------
+cyclooctane
+Should lead to: C: 8, H: 16
+---------------------------
+dipentylamine
+Should lead to: C: 10, H: 23, N: 1
+---------------------------
+cyclopent-2,3-diyne
+Should lead to: C: 5, H: 2
+---------------------------
+3,4,4-trifluorobut-3-enoic acid
+Should lead to: C: 4, F: 3, H: 3, O: 2
+---------------------------
+[2,4-diiodo]butyl[13-[heptyltetradecyl]arsino-2,2,4,4,6,14-hexachloro-13-tridecyl]pentadecyl[2-[3,5-dibromo]hexyl-2-octyl]propylphosphine
+Should lead to: As: 1, Br: 2, C: 70, Cl: 6, H: 134, I: 2, P: 1
+---------------------------
+4,6,15-trichloro-3-ethyl-16-fluoro-12-heptadecyl-5-hexyl-9-imino-3-octyl-11-butoxy-10-pentyl-8-pentadecyl-1,5,11,13-tetra[tridecyl]phosphinohexadecan-2,7,10,12,15-pentathiol
+Should lead to: C: 125, Cl: 3, F: 1, H: 251, N: 1, O: 1, P: 4, S: 5
+---------------------------
+ethyl 3-[formyl]heptoxybut-2-ynoate
+Should lead to: C: 14, H: 22, O: 4
+---------------------------
+nonyl 5,5-diamino-2,3,4,6-tetratetradecoxyoctan-1,8-dioate
+Should lead to: C: 82, H: 164, N: 2, O: 8
+---------------------------
+9,10,13-tri[octadecylpentadecyl]arsino-8-bromo-4,6,10-trichloro-5-dodecyl-12-dodecyl-4,8,9,13,15,16-hexafluoro-6-heptadecyl-14-nonyl-3-nonadecyl-14-nonadecyl-5-octadecyl-3-tetradecyl-2-tetradecyl-12-tridecyl-7-tridecyl-15-undecylcycloheptadecan-1,2,7,11,11,16,17,17-octa[dinonyl]phosphine
+Should lead to: As: 3, Br: 1, C: 431, Cl: 3, F: 6, H: 863, P: 8
+---------------------------
+6,7,14-tri[cyclononadecyl]arsinopentadec-4-en-1,15-dial
+Should lead to: As: 3, C: 72, H: 137, O: 2
+---------------------------
+[1-amido-5-[6-octadecyl-1,5,7-triphenyl]heptyl-3-heptyl]hexyl hexan-1,6-dioate
+Should lead to: C: 118, H: 184, N: 2, O: 6
+---------------------------
+hexadecylarsine
+Should lead to: As: 1, C: 16, H: 35
+---------------------------
+4,6-dibromohexan-1-oic acid
+Should lead to: Br: 2, C: 6, H: 10, O: 2
+---------------------------
+6-[4-bromo-2-[1-fluoro-8-methyl]dodecyl-3-iodo]butyl-3,4,5,9-tetrafluorocyclonon-3,5,7-trien-1,1,2,4,9-penta[hexyloctadecyl]arsine
+Should lead to: As: 5, Br: 1, C: 146, F: 5, H: 284, I: 1
+---------------------------
+dodecylpropylarsine
+Should lead to: As: 1, C: 15, H: 33
+---------------------------
+7-hexadecylcycloundec-8-ene
+Should lead to: C: 27, H: 52
+---------------------------
+dinonadecylphosphine
+Should lead to: C: 38, H: 79, P: 1
+---------------------------
+6,9,12,15-tetrabromo-10-butyl-11-chloro-2-ethyl-6-heptyl-7-heptyl-4-imino-8-iodo-3-methyl-13-methyl-11-nonyl-7-cyclopentadecyl-3,5,13-triphenyl-9-propyl-2-cyclopropyl-12-tetradecyl-14-undecyl-5-undecylcyclopentadecan-1,8,10,14,15-pentathiol
+Should lead to: Br: 4, C: 121, Cl: 1, H: 207, I: 1, N: 1, S: 5
+---------------------------
+8-[3,9,10-trichloro]tridecylcycloheptadecan-2,2,4,5,7,8,9,10,11,14,14,15,16,17,17-pentadecaol
+Should lead to: C: 30, Cl: 3, H: 57, O: 15
+---------------------------
+nonadec-2,9-dien-1,19-dial
+Should lead to: C: 19, H: 32, O: 2
+---------------------------
+ethane
+Should lead to: C: 2, H: 6
+---------------------------
+14-[3-ethyl-2-[15-iodo]pentadecyl]butyl-7-octylhexadecane
+Should lead to: C: 45, H: 91, I: 1
+---------------------------
+1,3,4,10,10,14-hexaiodo-13-[13-ethyl]pentadecylcyclopentadecane
+Should lead to: C: 32, H: 58, I: 6
+---------------------------
+12-amino-3,4,6,7,11,13-hexa[heptadecyl]arsino-5-bromo-8-chloro-9-heptyl-4-hexyl-9-hexadecyl-7,8-dihydroxy-2-imino-5,11-dimercapto-13-oxo-10,10,12-triethoxy-6-tetradecyltridecanamide
+Should lead to: As: 6, Br: 1, C: 164, Cl: 1, H: 331, N: 3, O: 7, S: 2
+---------------------------
+[1,2,4,6,9-pentaiodo-3-[2-nonyl-5-nonadecyl]octyl]decyldi[1,2,3,4,6-penta[dibutyl]arsino-4-butyl-5,7,8,9-tetraiodo]nonylphosphine
+Should lead to: As: 10, C: 152, H: 304, I: 13, P: 1
+---------------------------
+8-butylcyclodecan-2,3,4-triol
+Should lead to: C: 14, H: 28, O: 3
+---------------------------
+1,6-diamino-12-[cyclododecyl]arsino-7-bromo-2,4,13,15-tetraimino-1,7,14-triiodo-10-mercapto-12-nonadecyl-14-pentadecyl-10-tetradecylcyclopentadecan-3,5,8,9,11-pentaone
+Should lead to: As: 1, Br: 1, C: 75, H: 133, I: 3, N: 6, O: 5, S: 1
+---------------------------
+pentadecane
+Should lead to: C: 15, H: 32
+---------------------------
+pentadecyl 17-cyclobutyl-2,3,3,7,9,14,18-heptafluorononadec-4,8,12,13,16-pentayn-1-oate
+Should lead to: C: 38, F: 7, H: 47, O: 2
+---------------------------
+2-heptadecyl-2-pentylpropan-3,3,3-triarsine
+Should lead to: As: 3, C: 25, H: 55
+---------------------------
+[14-decyl-14-heptadecyl-7-tridecyl]hexadecyldi[6,7,8,9,13-pentachloro-11-[1,6,8-trichloro-9-heptadecyl]decyl]tetradecylphosphine
+Should lead to: C: 138, Cl: 16, H: 263, P: 1
+---------------------------
+hexadec-1,4,8-triyne
+Should lead to: C: 16, H: 22
+---------------------------
+decyltridecylarsine
+Should lead to: As: 1, C: 23, H: 49
+---------------------------
+12-ethyl-9-mercapto-7-[1-[dodecyloctyl]phosphino]methyltridecan-1,1,3,4,13-pentaol
+Should lead to: C: 36, H: 75, O: 5, P: 1, S: 1
+---------------------------
+cyclododecane
+Should lead to: C: 12, H: 24
+---------------------------
+10-bromo-6,9-dichloro-4,13-diimino-1-iodo-7-but-3-ynoxy-9-prop-1,2-dienyl-3-tetradec-6,8,9,13-tetraenylcyclotridec-2,5-diyn-1,7,8,10-tetra[hexyl]amine
+Should lead to: Br: 1, C: 58, Cl: 2, H: 90, I: 1, N: 6, O: 1
+---------------------------
+4-[4-chloro-2-[2-tetradec-2,6,10-trien-4,7,8-triynyl-14-tetradec-4,12-dienyl]nonadecyl-3-[10-octadec-2,4,5,8,13-pentaynyl]octadec-9-ynyl]but-1-enyl-8-dodecyl-12-heptadecyloctadec-3,5,10-trien-6,7-diyne
+Should lead to: C: 134, Cl: 1, H: 207
+---------------------------
+propane
+Should lead to: C: 3, H: 8
+---------------------------
+4-[ditridecyl]arsino-1-bromo-3-heptyl-4-phosphinobutan-1,2,2,3,4-penta[tridecyl]amine
+Should lead to: As: 1, Br: 1, C: 102, H: 212, N: 5, P: 1
+---------------------------
+2,3-di[didodecyl]arsino-4,4,5,6-tetraphenyloctan-1,8-dial
+Should lead to: As: 2, C: 80, H: 128, O: 2
+---------------------------
+propyl[8-[6,10-dichloro-8-methyl-4-pentyl]decyl-10-dodecyl-8-[1,4,6-tribromo]tetradecyl]undecylether
+Should lead to: Br: 3, C: 56, Cl: 2, H: 109, O: 1
+---------------------------
+16-amido-5,7,10,15-tetra[undecyl]amino-4,5-diarsino-16-bromo-8,11-dichloro-14-ethyl-16-formyl-6-heptyl-9-heptadecyl-12-hydroxy-13-imino-4,6,7,9,11,15-hexamercapto-12-nonadecoxy-2,3,10,14-tetraphenyl-2-[dinonadecyl]phosphinohexadecan-1-oic acid
+Should lead to: As: 2, Br: 1, C: 168, Cl: 2, H: 304, N: 6, O: 6, P: 1, S: 6
+---------------------------
+4-cyclodecylcyclododecan-1,12-diimine
+Should lead to: C: 22, H: 40, N: 2
+---------------------------
+ethanal
+Should lead to: C: 2, H: 4, O: 1
+---------------------------
+15-amino-3,4,10-tri[ethyl]arsino-1,2-dibromo-4,7,17-trichloro-12-fluoro-8-cycloheptadecyl-14-heptadecyl-15-hexyl-1,14-dihydroxy-16-iodo-6,6-dimercapto-2,3,7,12-tetradecoxy-16,17-di[butyl]phosphino-8-tridecylcycloheptadecan-5,9,11,13-tetraone
+Should lead to: As: 3, Br: 2, C: 124, Cl: 3, F: 1, H: 237, I: 1, N: 1, O: 10, P: 2, S: 2
+---------------------------
+di[5,8,8-tribromo-14-[7-ethyl-1,3,4,10,11,13-hexa[tetradecyl]phosphino-2-undecyl]tridecyl]nonadecylether
+Should lead to: Br: 6, C: 258, H: 524, O: 1, P: 12
+---------------------------
+dipentadecylether
+Should lead to: C: 30, H: 62, O: 1
+---------------------------
+didecylether
+Should lead to: C: 20, H: 42, O: 1
+---------------------------
+hexadecan-3,7-dithiol
+Should lead to: C: 16, H: 34, S: 2
+---------------------------
+butanoic acid
+Should lead to: C: 4, H: 8, O: 2
+---------------------------
+dodecylphosphine
+Should lead to: C: 12, H: 27, P: 1
+---------------------------
+6-[[1,3,9,10,13-pentaphosphino]nonadecyl[5-hexyl-7-hexadecyl-4-tetradecyl]tetradecyl]arsino-2-[2-octadecyl-3-phenyl]propylpentadecan-1,3,9,12,15-pentathiol
+Should lead to: As: 1, C: 111, H: 222, P: 5, S: 5
+---------------------------
+butyl 6-fluoro-2,5-di[1-mercapto]methoxyoct-2,3,4,6-tetraen-1,8-dioate
+Should lead to: C: 18, F: 1, H: 25, O: 6, S: 2
+---------------------------
+eth-1-en-1-imine
+Should lead to: C: 2, H: 3, N: 1
+---------------------------
+cyclotridecan-1-imine
+Should lead to: C: 13, H: 25, N: 1
+---------------------------
+ethane
+Should lead to: C: 2, H: 6
+---------------------------
+hexadecylmethylnonylamine
+Should lead to: C: 26, H: 55, N: 1
+---------------------------
+11-heptyl-4,5,6,7,12,17-hexamercaptocycloheptadecan-2,8,9,13-tetraone
+Should lead to: C: 24, H: 40, O: 4, S: 6
+---------------------------
+decan-1-al
+Should lead to: C: 10, H: 20, O: 1
+---------------------------
+4,4,5,5,9,16-hexa[cyclononadecyl]arsino-3-bromo-13-chloro-7-decyl-10-dodecyl-15-heptadecyl-6-hexadecyl-14-hexadec-11-enyl-13-hexadec-4,13-dienyl-17-iodo-11-cyclononyl-14-nonadecyl-3-octenyl-6,7,10,17-tetramethoxy-15-pent-2,3,4-trienyl-2-cyclopropyl-16-propyl-2-cyclotetradec-7,11-dienyl-11-tridecylcyclooctadec-8,12-diyn-1,18-diimine
+Should lead to: As: 6, Br: 1, C: 297, Cl: 1, H: 551, I: 1, N: 2, O: 4
+---------------------------
+hept-6-en-2,4-dione
+Should lead to: C: 7, H: 10, O: 2
+---------------------------
+2-[1,3,4,4,6-pentachloro-5-methyl-2-[5-hexyl-10-pentadecyl-6-pentadecyl]tridecyl]hexyl-8-[6-chloro-8-decyl]nonyl-7-[8-octadecyl-9-[9-cyclopentadecyl]tetradecyl]cyclotetradecylcyclohexadecane
+Should lead to: C: 152, Cl: 6, H: 294
+---------------------------
+2-[cyclodecylhexadecyl]arsino-5,6,13-trifluoro-1,4,9-triimino-2,10,13-triiodo-3-mercapto-8-pentyl-3-cyclopentadecyl-5,7,12-tri[dipentadecyl]phosphinocyclotetradecan-7,10,11,14-tetraol
+Should lead to: As: 1, C: 150, F: 3, H: 291, I: 3, N: 3, O: 4, P: 3, S: 1
+---------------------------
+5-[di[2,5,9,11-tetra[heptyl]amino-10-[15-fluoro-4,14-diiodo-9-nonadecyl]pentadecoxy-5-pentadecyl]tridecyl]aminocyclooctadecan-3,4,4,9-tetrathiol
+Should lead to: C: 198, F: 2, H: 399, I: 4, N: 9, O: 2, S: 4
+---------------------------
+heptadecan-1-amide
+Should lead to: C: 17, H: 35, N: 1, O: 1
+---------------------------
+2-hexadecylpropane
+Should lead to: C: 19, H: 40
+---------------------------
+[4-iodo-2-[nonyl]phosphino-3-undecyl]butylethylether
+Should lead to: C: 26, H: 54, I: 1, O: 1, P: 1
+---------------------------
+tetradecane
+Should lead to: C: 14, H: 30
+---------------------------
+1,2,6,7,10-penta[butyl]arsino-1,6,13-tribromo-9-butyl-10-ethyl-4-heptyl-8-hexadecyl-11-methyl-3-methyl-4-nonyl-3-nonadecyl-5-nonadecyl-7-octadecyl-5-pentyl-12-pentyl-2-tridecyltridecan-8,12,13-triphosphine
+Should lead to: As: 5, Br: 3, C: 152, H: 311, P: 3
+---------------------------
+3-[3-methyl-6-non-6,8-dienyl]dec-1,7,8-triynyl-3-[3-bromo-2-[5-dec-2,8,9-triynyl-5-iodo]cyclohexyl-2-hexadec-4,6-diynyl]cyclopropylcyclobut-2-yne
+Should lead to: Br: 1, C: 59, H: 72, I: 1
+---------------------------
+5-[[4-but-3-enyl-6-hexyl]cycloundecyl]arsino-3,8-dioxo-5,6,9-triphenylnon-2,4,7-triyn-1-amide
+Should lead to: As: 1, C: 48, H: 54, N: 1, O: 3
+---------------------------
+4-butyl-6-decyl-7-fluoro-1,4,6-triiodocyclohept-2,3-diyn-1,5,5-triarsine
+Should lead to: As: 3, C: 21, F: 1, H: 33, I: 3
+---------------------------
+1,1,2,4,11,16-hexachloro-3,3,5,7,11,13-hexaiodo-7,14-di[2-methyl]propoxyoctadecan-8,10-dione
+Should lead to: C: 26, Cl: 6, H: 38, I: 6, O: 4
+---------------------------
+11-amidoundecan-1-oic acid
+Should lead to: C: 11, H: 21, N: 1, O: 3
+---------------------------
+2-cyclobutyl-2-cyclooctylcyclopropane
+Should lead to: C: 15, H: 26
+---------------------------
+4,9,10,12,13-penta[[11,13,14-trichloro-4,10-diiodo]tetradecyl]arsinohexadecan-1,16-dioic acid
+Should lead to: As: 5, C: 86, Cl: 15, H: 150, I: 10, O: 4
+---------------------------
+dodec-10-yn-1,12-dial
+Should lead to: C: 12, H: 18, O: 2
+---------------------------
+1,6-diamino-3,8,9-trifluoro-2-cyclohexadecyl-5-nonadecyl-2,7-dicyclodecoxycyclononan-4,5,9-trithiol
+Should lead to: C: 64, F: 3, H: 121, N: 2, O: 2, S: 3
+---------------------------
+2-[2-bromo]ethyl-3-[12-ethyl-4,6,7,9,12,15-hexafluoro]heptadecylbutan-1,1,2,4,4-pentathiol
+Should lead to: Br: 1, C: 25, F: 6, H: 45, S: 5
+---------------------------
+methylundecylether
+Should lead to: C: 12, H: 26, O: 1
+---------------------------
+cycloprop-2-yne
+Should lead to: C: 3, H: 2
+---------------------------
+methyl[4,5,8-trichloro-6-heptadecyl-2-[5-hexyl]octadecyl]octylpentadecylarsine
+Should lead to: As: 1, C: 65, Cl: 3, H: 130
+---------------------------
+[amido-2,9-dibromo]undecyl hept-3,4,5-trien-1,7-dioate
+Should lead to: Br: 4, C: 29, H: 44, N: 2, O: 6
+---------------------------
+1,4,5-tribromo-5,10-dichloro-8-decyl-2-dodecyl-7-cycloheptadecyl-2,3,6-triiodo-9-methyl-9-methyl-6-nonadecyl-3-cyclooctadecyl-7-octadecyl-8-octadecyl-4-pentadecyl-10-cyclopropylcycloundecane
+Should lead to: Br: 3, C: 143, Cl: 2, H: 272, I: 3
+---------------------------
+2-[5-ethyl-2-octyl]nonyl-10-nonadecyl-7-[2-[4,5-dibromo-10-octyl]undecyl]cyclopropylcycloundecane
+Should lead to: Br: 2, C: 71, H: 138
+---------------------------
+3-octyl-2-[6-[5-hexadecyl]hexyl-4-[3,5,14,16-tetrachloro-12-methyl]hexadecyl]tridecylbutane
+Should lead to: C: 64, Cl: 4, H: 126
+---------------------------
+2-heptadecyl-3-octadecyl-3-propyl-2-propyl-4-undecylpentane
+Should lead to: C: 57, H: 116
+---------------------------
+[2-[3-chloro-2-imino]butyl]pentyl 2,10,11-tri[3-heptoxy]heptoxyhexadecan-1-oate
+Should lead to: C: 67, Cl: 1, H: 132, N: 1, O: 8
+---------------------------
+[14-undecyl]nonadecyldi[12-fluoro]tetradecylphosphine
+Should lead to: C: 58, F: 2, H: 117, P: 1
+---------------------------
+3,10-di[cycloheptadec-5,6-dienylmethyl]amino-9-bromo-10-chloro-2,4,5-trifluoro-4-hex-4-enyl-2,3,7,9-tetrahydroxy-6-cyclopentadecylundec-5,7-dien-8-yn-1,11-diamide
+Should lead to: Br: 1, C: 68, Cl: 1, F: 3, H: 109, N: 4, O: 6
+---------------------------
+8-[5,6,7-tribromo]undecylcyclododec-10-en-2,5,6-triyne
+Should lead to: Br: 3, C: 23, H: 29
+---------------------------
+undec-6,8,9-trien-1,11-dial
+Should lead to: C: 11, H: 14, O: 2
+---------------------------
+1-bromo-2-butyl-1-chloro-2-pentadecylpropane
+Should lead to: Br: 1, C: 22, Cl: 1, H: 44
+---------------------------
+4-octylcyclopent-1,2,4-triene
+Should lead to: C: 13, H: 20
+---------------------------
+ditetradecylphosphine
+Should lead to: C: 28, H: 59, P: 1
+---------------------------
+11-[diundecyl]arsino-1,6,7,9-tetrabromo-8-butyl-4-chloro-5-dodecyl-10-dodecyl-2-dodecyl-8-heptyl-12-heptadecyl-7-heptadecyl-11-hexyl-10-hexyl-5-hexadecyl-2-methyl-4-octadecyl-6-octadecyl-3-pentyl-13-pentadecyl-3-undecyltetradecan-9,12,13,14-tetraphosphine
+Should lead to: As: 1, Br: 4, C: 213, Cl: 1, H: 428, P: 4
+---------------------------
+3-[heptadecyl]arsinoprop-2-yn-1-imine
+Should lead to: As: 1, C: 20, H: 38, N: 1
+---------------------------
+prop-1-yne
+Should lead to: C: 3, H: 4
+---------------------------
+6-chloro-1,6,7-triiodo-4-nonadecyl-3-octyl-5-octadecyl-2-tetradec-7,8,10-trienylcyclohept-2,3,4,5-tetraenarsine
+Should lead to: As: 1, C: 66, Cl: 1, H: 115, I: 3
+---------------------------
+hept-1,2-dien-5,6-dione
+Should lead to: C: 7, H: 8, O: 2
+---------------------------
+3-octadecylnonan-2,3,4,6,7,8,9-hepta[[4,8-dibromo-6-[4-hexadecyl]heptadecyl-10-heptadecyl]tridecyl]arsine
+Should lead to: As: 7, Br: 14, C: 468, H: 931
+---------------------------
+5,11-di[butylhexadecyl]arsino-10-bromo-1,1,3,12-tetrachloro-9,12-difluoro-6-heptadecyl-4-imino-7-nonyl-8-nonadecyl-2-octyl-5-octadecyl-3-pentyl-1,7,9,10,11,12-hexaphenyldodecan-2,8-diamine
+Should lead to: As: 2, Br: 1, C: 164, Cl: 4, F: 2, H: 278, N: 3
+---------------------------
+9,12,15-trihydroxy-12-iodo-10,14-dioxoheptadec-2,5,13-trienamide
+Should lead to: C: 17, H: 24, I: 1, N: 1, O: 6
+---------------------------
+6-[17-tetradec-10,11-dienoxy-18-phosphino]octadecylhept-1,5-dien-3,4-dione
+Should lead to: C: 39, H: 69, O: 3, P: 1
+---------------------------
+[propyl]arsino-1,1,4-trifluoro-4-hydroxy-3-iminobutan-2-one
+Should lead to: As: 1, C: 7, F: 3, H: 11, N: 1, O: 2
+---------------------------
+6,7,10,12-tetrachloro-3-[2,3,7,7-tetrafluoro]heptyl-8-[1,4,8-tri[decyldodecyl]arsino-7-[2-heptadecyl]butyl]nonylhexadecan-1,16-diimine
+Should lead to: As: 3, C: 119, Cl: 4, F: 4, H: 233, N: 2
+---------------------------
+tetradec-1,2,3,5,6-pentaen-8,9,13-triyne
+Should lead to: C: 14, H: 8
+---------------------------
+4-bromo-6-hexyl-4,10-diiodo-5,7,10,10-tetramercapto-8-octadecyl-2,3,9-trioxo-6-hexadecoxy-5-phosphino-7-undecyldecan-1-amide
+Should lead to: Br: 1, C: 61, H: 115, I: 2, N: 1, O: 5, P: 1, S: 4
+---------------------------
+3,3,6-triphenyloctan-1,8-dioic acid
+Should lead to: C: 26, H: 26, O: 4
+---------------------------
+1-phenylcyclopropan-3-thiol
+Should lead to: C: 9, H: 10, S: 1
+---------------------------
+heptadecyl 3,5,8,8-tetrachloro-4-cycloheptylnon-5,6,7-trien-1,9-dioate
+Should lead to: C: 50, Cl: 4, H: 86, O: 4
+---------------------------
+octyl 3,16,18-triimino-10,17-diphosphinononadecan-1,19-dioate
+Should lead to: C: 35, H: 67, N: 3, O: 4, P: 2
+---------------------------
+4-pentadecyl-8-[methyl]phosphinooct-2,3,5,6-tetrayn-8-thiol
+Should lead to: C: 24, H: 35, P: 1, S: 1
+---------------------------
+non-3,5,7-triyn-1-al
+Should lead to: C: 9, H: 6, O: 1
+---------------------------
+12-non-2-enyl-9-[14-cyclononadec-5,11,13,15,17-pentaenyl-10-[14-iodo]tetradec-2,7-dienyl]pentadecylheptadec-7,13-diene
+Should lead to: C: 74, H: 127, I: 1
+---------------------------
+16-methyl-16-[9-[11-octadecyl-3-tridecyl-6-undecyl]dodecyl-8-[5-pentyl]hexyl]nonadecylheptadecane
+Should lead to: C: 102, H: 206
+---------------------------
+3-hexadec-7,8,9,11,14-pentaynyl-4-cyclohexadecyl-2-nonadec-1,2,5,9-tetraen-6,15,17,18-tetraynyl-3-cyclooctadecylpent-1-yne
+Should lead to: C: 74, H: 98
+---------------------------
+[1-formyl]octadecyl 3-[butyl]arsino-3-mercapto-2-[amido-2-[chloro-4,7,8,11,16-pentaphosphino]heptadecyl-1,3,8-triphenyl]undecylpropan-1-oate
+Should lead to: As: 1, C: 72, Cl: 1, H: 122, N: 1, O: 4, P: 5, S: 1
+---------------------------
+tridecyl 7-oxodecanoate
+Should lead to: C: 23, H: 44, O: 3
+---------------------------
+2-chloro-4-cyclododecyl-8-ethyl-13-ethyl-9-eth-1-enyl-2-hexadec-5,6,8,10-tetraenyl-3,8,14-triiodo-11-methyl-6-octyl-5-cyclooctadecyl-7-cyclopentadecyl-9-pentadecyl-7-cycloundecyltetradec-10,11,13-triene
+Should lead to: C: 116, Cl: 1, H: 206, I: 3
+---------------------------
+10-bromo-9,13,14-triiodocyclohexadecan-1,2,2,6,6,7,8,9,11,12,12,14,15,15,16-pentadecaol
+Should lead to: Br: 1, C: 16, H: 28, I: 3, O: 15
+---------------------------
+4-decyl-13-tetradecyltetradec-2,3-dien-1-[di[8-[2-decyl-7-octadecyl]hexadecyl-7-nonyl]dodecyl]phosphine
+Should lead to: C: 168, H: 335, P: 1
+---------------------------
+8,14-dichloro-10-dodecyl-7-ethyl-3-heptadecyl-11-hexyl-1,5,9,13,13-pentaiodo-6-methyl-2-nonyl-12-nonadecyl-4-nonadecyl-9-nonadecyl-8-octyl-4-octadecyl-5-propyl-7-tridecyltetradecan-1,14-diimine
+Should lead to: C: 160, Cl: 2, H: 313, I: 5, N: 2
+---------------------------
+3-[7-butyl-9-[7-decyl]octadecyl]decyl-13-ethyl-2-[1,2,5,5,7-pentachloro]octyloctadecane
+Should lead to: C: 70, Cl: 5, H: 137
+---------------------------
+di[11-fluoro-4-undecyl]pentadecylether
+Should lead to: C: 52, F: 2, H: 104, O: 1
+---------------------------
+2-cyclooct-5,7-dienylbut-2-en-1,1,3,4-tetraol
+Should lead to: C: 12, H: 18, O: 4
+---------------------------
+cycloheptadec-7,13-diyne
+Should lead to: C: 17, H: 26
+---------------------------
+cyclobutan-1-imine
+Should lead to: C: 4, H: 7, N: 1
+---------------------------
+5-butyl-5-octyl-4-phosphinohexan-2-one
+Should lead to: C: 18, H: 37, O: 1, P: 1
+---------------------------
+octane
+Should lead to: C: 8, H: 18
+---------------------------
+2,3,11,13,14,15-hexachloroheptadecane
+Should lead to: C: 17, Cl: 6, H: 30
+---------------------------
+dinonylnonadecylphosphine
+Should lead to: C: 37, H: 77, P: 1
+---------------------------
+5-[2-methyl-2-[2-dodecyl-4-nonyl]cyclopentyl]propyl-4-[1,10,10-trichloro-4,5,5,11-tetraiodo]undecylcyclooctadecan-2,10,18-tri[[4,6,9,14,18-pentabromo-1,17-difluoro-15-[4-butyl-5-heptyl]heptyl]octadecyl]arsine
+Should lead to: As: 3, Br: 15, C: 167, Cl: 3, F: 6, H: 307, I: 4
+---------------------------
+8-bromo-2,6,11-trichloro-3-octylundec-10-yne
+Should lead to: Br: 1, C: 19, Cl: 3, H: 32
+---------------------------
+diundecylether
+Should lead to: C: 22, H: 46, O: 1
+---------------------------
+[hexyl]amino-13-[10-iodo-9-methyl]dodecyl-3-[1-fluoro-2-[5-heptadecyl]tridecyl]pentylcyclooctadecan-7,11,15-triol
+Should lead to: C: 72, F: 1, H: 143, I: 1, N: 1, O: 3
+---------------------------
+15-[pentyl]amino-12-phenylcyclohexadecan-4,6,10-trithiol
+Should lead to: C: 27, H: 47, N: 1, S: 3
+---------------------------
+2,7,17,18-tetraamino-1,10,14-tribromo-8-chloro-5-cyclodecyl-2-dodecyl-5-dodecyl-7-ethyl-14-ethyl-17-fluoro-18-cycloheptyl-9-heptadecyl-8-hexadecyl-11,12-diimino-19-iodo-9-pentyl-4-cyclopropyl-10-cyclotridecyl-4-undecylcyclononadecan-3,6,13,15,16-pentaone
+Should lead to: Br: 3, C: 129, Cl: 1, F: 1, H: 236, I: 1, N: 6, O: 5
+---------------------------
+chloro-1,10-diimino-19-phosphinononadecan-7-thiol
+Should lead to: C: 19, Cl: 1, H: 38, N: 2, P: 1, S: 1
+---------------------------
+methyl octadec-3,10-dien-1,18-dioate
+Should lead to: C: 20, H: 34, O: 4
+---------------------------
+butyl 7-fluoro-12-hydroxy-2,10-diimino-13-hexanoyloxy-6,11-diphenyl-3-[undecyl]phosphinotridec-4-ynoate
+Should lead to: C: 46, F: 1, H: 68, N: 2, O: 5, P: 1
+---------------------------
+cyclohexadecan-3-one
+Should lead to: C: 16, H: 30, O: 1
+---------------------------
+di[7,17-di[butyl]arsino]nonadecylundecylphosphine
+Should lead to: As: 4, C: 65, H: 137, P: 1
+---------------------------
+4-cyclobutyl-12-decyl-10-cyclodec-5,7-dienyl-10-cyclodec-4,6-dienyl-8-cycloheptadec-12-enyl-11-hexadecyl-2-nonadec-2-enyl-4-cyclooctyl-7-cyclooctyl-7-octadecyl-6-cyclopentadecyl-6-tridecyl-12-undecyltridec-1,2,3,5,11-pentaene
+Should lead to: C: 172, H: 310
+---------------------------
+prop-1,2-diene
+Should lead to: C: 3, H: 4
+---------------------------
+2,2,5,5,6-penta[butylmethyl]arsino-1,4-difluoro-6-[3-nonyl-4-[4,7-diiodo]tridecyl]cycloheptylcycloheptan-7,7-diol
+Should lead to: As: 5, C: 61, F: 2, H: 121, I: 2, O: 2
+---------------------------
+octyl 5-arsino-6-bromo-4,8-difluoro-2-octyl-3,7-dioxo-6-hexoxy-2,5-diphenyl-4-phosphinononan-1,9-dioate
+Should lead to: As: 1, Br: 1, C: 51, F: 2, H: 79, O: 7, P: 1
+---------------------------
+2-[11-[4-nonadecyl]octyl-15-[2,3,7-trichloro]octyl]octadecyloctan-3,4,8-tri[[7-hexyl]octyl]arsine
+Should lead to: As: 3, C: 103, Cl: 3, H: 208
+---------------------------
+6-ethyl-6-[18-[3-nonyl-12-propyl]heptadecyl-6-undecyl]nonadecylundecane
+Should lead to: C: 72, H: 146
+---------------------------
+nonadecyl 4-[pentylpropyl]arsino-4-bromo-4-formyl-2-oxo-3-[hexyl]phosphinobutan-1-oate
+Should lead to: As: 1, Br: 1, C: 38, H: 73, O: 4, P: 1
+---------------------------
+cycloundecan-1,11-diimine
+Should lead to: C: 11, H: 20, N: 2
+---------------------------
+hexan-1-al
+Should lead to: C: 6, H: 12, O: 1
+---------------------------
+14-butyl-3,5,17-trichloro-4-heptadecyl-14-heptadecyl-9-heptadecyl-5-hexyl-2-hexadecyl-3-iodo-16-methyl-10-methyl-6-nonyl-7-nonyl-10-nonadecyl-15-nonadecyl-13-octadecyl-8-propyl-11-tridecyl-13-tridecyl-16-undecyl-9-undecyl-15-undecyl-12-undecylheptadecane
+Should lead to: C: 243, Cl: 3, H: 484, I: 1
+---------------------------
+4-[1-chloro-3-ethyl]heptyltridecane
+Should lead to: C: 22, Cl: 1, H: 45
+---------------------------
+octane
+Should lead to: C: 8, H: 18
+---------------------------
+4-bromo-4-butyl-3,7,16-trichloro-10-decyl-5-ethyl-11-hexyl-8-hexadecyl-1,8,9,12,13-pentaiodo-2-cyclononadecyl-12-octyl-5-cyclopentyl-10-cyclopentadecyl-3-tridecyl-6-tridecyl-14-tridecyl-11-undecyl-15-undecylcyclohexadecane
+Should lead to: Br: 1, C: 162, Cl: 3, H: 309, I: 5
+---------------------------
+6,7,9-triiodononan-1-al
+Should lead to: C: 9, H: 15, I: 3, O: 1
+---------------------------
+5-[15-amino-4,9,16-triiodo]octadecylcyclohept-5-en-1,2,3-triyn-6-thiol
+Should lead to: C: 25, H: 34, I: 3, N: 1, S: 1
+---------------------------
+7-cyclobutyl-7-iodo-8-nonyl-3-butoxy-8-tetradecyl-5-cyclotridecylcyclodecan-1,10-diimine
+Should lead to: C: 54, H: 101, I: 1, N: 2, O: 1
+---------------------------
+decane
+Should lead to: C: 10, H: 22
+---------------------------
+hexadec-5,9-dien-2,13,14-triyn-1-amide
+Should lead to: C: 16, H: 17, N: 1, O: 1
+---------------------------
+2,5,9,13,14-pentabromo-9-butyl-6-butyl-1,2-dichloro-5-decyl-12-ethyl-11-ethyl-8-heptyl-4-hexadecyl-8-hexadecyl-10-methyl-13-nonyl-4-nonyl-11-octadecyl-3-octadecyl-3-pentyl-12-pentadecyl-7-propyl-6-tetradecyl-10-tetradecylcyclopentadecane
+Should lead to: Br: 5, C: 182, Cl: 2, H: 357
+---------------------------
+dipentadecylether
+Should lead to: C: 30, H: 62, O: 1
+---------------------------
+ethan-1-amide
+Should lead to: C: 2, H: 5, N: 1, O: 1
+---------------------------
+3,6-dibromo-8-decyl-14-decyl-13-ethyl-7-cycloheptyl-11-heptadecyl-9-cyclohexadecyl-11-cyclononadecyl-12-octyl-14-octadecyl-2-pentyl-10-pentyl-3-pentyl-4-pentyl-7-pentyl-13-pentadecyl-2-propyl-9-cyclotetradecyl-8-tridecylcyclopentadecane
+Should lead to: Br: 2, C: 192, H: 374
+---------------------------
+cyclotetradecan-1,1,2,4,6,7,9,10,11,14-deca[di[15-[9-bromo-2,3,12-triphenyl-7-undecyl]dodecyl]heptadecyl]amine
+Should lead to: Br: 20, C: 1174, H: 1858, N: 10
+---------------------------
+undecane
+Should lead to: C: 11, H: 24
+---------------------------
+1,7-diiodo-2,7-dimercapto-1,3-diphenylhept-1,3-dien-5,6-dione
+Should lead to: C: 19, H: 14, I: 2, O: 2, S: 2
+---------------------------
+4,6,7,7,8,10,12-heptabromo-4-[3-chloro]prop-1-ynylcyclododec-1,5,9,11-tetrayne
+Should lead to: Br: 7, C: 15, Cl: 1, H: 2
+---------------------------
+6-[12-heptyl-6-[12,13,17-tribromo-8-propyl]cycloheptadecyl]cycloheptadecyl-2-methyl-4-cyclooctylcyclooctane
+Should lead to: Br: 3, C: 61, H: 113
+---------------------------
+18-[dipentyl]arsino-15-but-2-enyl-9-butyl-13,14,19-trichloro-17-decyl-3-decyl-14-dodec-3,5,7,10,11-pentaenyl-2-ethyl-10,15-difluoro-6-heptyl-6-heptadecyl-13-cyclohexyl-16-hexadecyl-12-methyl-11-methyl-9-non-3,5-dienyl-7-nonyl-12-nonadec-3,9,13,15-tetraenyl-4-nonadecyl-17-nonadec-1,8-dienyl-4-cyclopent-4-enyl-11-pentadec-4,13-dienyl-5-pentadec-10-enyl-7-propyl-10-cyclotridecyl-2-cycloundecyl-8-cycloundecyl-5-undecylcyclononadec-16,18-dien-3,8-di[decylundecyl]phosphine
+Should lead to: As: 1, C: 320, Cl: 3, F: 2, H: 588, P: 2
+---------------------------
+ethan-1,2,2-triphosphine
+Should lead to: C: 2, H: 9, P: 3
+---------------------------
+3-[10-hept-2,3,6-triynyl-13-nonyl-10-undec-7,8,9,10-tetraynyl]octadecyl-3-prop-1,2-dienylbut-1,2-diyne
+Should lead to: C: 52, H: 66
+---------------------------
+2-cycloheptyl-2-hexylcyclopropane
+Should lead to: C: 16, H: 30
+---------------------------
+propan-2-one
+Should lead to: C: 3, H: 6, O: 1
+---------------------------
+[8-heptadecyl-3,9,9-triiodo-2-methyl]nonylarsine
+Should lead to: As: 1, C: 27, H: 54, I: 3
+---------------------------
+nonane
+Should lead to: C: 9, H: 20
+---------------------------
+octan-2,3,4,6-tetraone
+Should lead to: C: 8, H: 10, O: 4
+---------------------------
+cyclooct-1,2-diene
+Should lead to: C: 8, H: 12
+---------------------------
+pentylpropylether
+Should lead to: C: 8, H: 18, O: 1
+---------------------------
+7-ethyl-3-[3-iodo]hexadecyltridecan-1,13-diimine
+Should lead to: C: 31, H: 61, I: 1, N: 2
+---------------------------
+butyl[5-methyl-9-propyl]tetradecylether
+Should lead to: C: 22, H: 46, O: 1
+---------------------------
+5-[didecyl]amino-9,11,13-tribromo-4-butyl-5-decyl-11-dodecyl-12-cycloheptyl-10-imino-4-iodo-6-octadecyl-3,13-dioxo-6,8-dinon-2,4,5,6-tetraenoxy-9-pentyl-7,8-diphenyl-7-cycloundec-1,8-dienyl-2-undec-10-enyltridec-12-en-1-al
+Should lead to: Br: 3, C: 141, H: 230, I: 1, N: 2, O: 5
+---------------------------
+cycloheptadec-2,5-diyn-8-one
+Should lead to: C: 17, H: 24, O: 1
+---------------------------
+butan-1-amide
+Should lead to: C: 4, H: 9, N: 1, O: 1
+---------------------------
+7-[heptadecylcyclopentyl]amino-1,7,18-tri[butyltetradecyl]arsino-16,17-dibromo-11,12,15-trichloro-3-decyl-5-decyl-2-dodecyl-6-ethyl-10-fluoro-8-heptyl-5-heptadecyl-13-hexyl-6-hexadecyl-4,11-diiodo-13-methyl-12-nonyl-9-cyclononadecyl-17-nonadecyl-4-cyclooctyl-14-pentadecyl-3-phenyl-10-[cyclopentadecyl]phosphino-2-tetradecyl-16-tridecylcyclooctadecan-1,9,14,15,18-pentaol
+Should lead to: As: 3, Br: 2, C: 293, Cl: 3, F: 1, H: 567, I: 2, N: 1, O: 5, P: 1
+---------------------------
+octadecane
+Should lead to: C: 18, H: 38
+---------------------------
+dimethylpropylamine
+Should lead to: C: 5, H: 13, N: 1
+---------------------------
+11,12-di[tetradecyl]arsino-5-cyclobutyl-7-chloro-4-dodecyl-10-ethyl-2-heptadecyl-2-heptadecyl-9-hexadecyl-6-methyl-15-methyl-7-nonyl-9-nonadecyl-3-cyclononadecyl-16-octyl-8-octyl-14-pentyl-13-cyclopentadecyl-8-pentadecyl-15-tridecyl-14-tridecylcycloheptadecan-10,12-diphosphine
+Should lead to: As: 2, C: 239, Cl: 1, H: 475, P: 2
+---------------------------
+3,4,5-tri[[1-chloro-2-cyclopentadecyl]decylnonyl]arsino-1,2,3-trichloro-7-fluorocycloheptan-6-thiol
+Should lead to: As: 3, C: 109, Cl: 6, F: 1, H: 208, S: 1
+---------------------------
+4-heptyl-5-[1,6-dibromo-5-fluoro]hexylnonadecan-1,19-diimine
+Should lead to: Br: 2, C: 32, F: 1, H: 61, N: 2
+---------------------------
+5,11-diamino-4-dodecyl-9-dodecyl-1,2,3,18-tetraimino-5,17-diiodo-8-mercapto-6-methyl-7-nonyl-10,10,12,19-tetraphosphino-12-undecylcyclononadec-6,8,9,14-tetraen-13,16-dione
+Should lead to: C: 64, H: 116, I: 2, N: 6, O: 2, P: 4, S: 1
+---------------------------
+4-heptadecylcyclooctadecan-1,18-diimine
+Should lead to: C: 35, H: 68, N: 2
+---------------------------
+8,9,12-tribromo-8-hydroxydodec-5,7,10,11-tetrayn-1-oic acid
+Should lead to: Br: 3, C: 12, H: 5, O: 3
+---------------------------
+9-bromo-7,11-dichloro-7-methyl-2-oxo-10-pent-4-ynyl-9,11-diphenyl-10-tetradecylundec-3,4,5,6,8-pentayn-1-al
+Should lead to: Br: 1, C: 43, Cl: 2, H: 41, O: 2
+---------------------------
+[2,7-diarsino-1,5,6,7,8,8-hexabromo-2-[3,5,9,12,17-pentaamino]nonadecyl]decyl dodecan-1-oate
+Should lead to: As: 2, Br: 6, C: 41, H: 83, N: 5, O: 2
+---------------------------
+cyclooctan-2,6,7-trione
+Should lead to: C: 8, H: 10, O: 3
+---------------------------
+4,9,10,16-tetra[pentadecyl]arsino-7,17-dibromo-13-decyl-12-decyl-13-ethyl-14,17-difluoro-8-cycloheptyl-6-heptyl-8-cyclohexyl-2-hexyl-10-hexyl-14,15,18-triiodo-6-methyl-3-methyl-2-cyclooctyl-3,16-ditetradecoxy-12-pentyl-11-pentadecyl-5-phenyl-9-cyclopropyl-11-cyclotetradecyl-7-cyclotetradecyl-5-tridecyl-4-tridecylcyclooctadecan-1-imine
+Should lead to: As: 4, Br: 2, C: 253, F: 2, H: 482, I: 3, N: 1, O: 2
+---------------------------
+7-[9-heptadecyl-11-[2-methyl-5-propyl]nonadecyl]tridecyltetradecane
+Should lead to: C: 67, H: 136
+---------------------------
+2,3-dichloro-2-dec-1,2,5,6,9-pentaen-3,7-diynyl-3-[1-iodo]propylhept-4,5-diyn-1,7-dial
+Should lead to: C: 20, Cl: 2, H: 9, I: 1, O: 2
+---------------------------
+2-cyclobutyl-4-cyclododecyl-2-cycloheptyl-6-heptadecyl-5-heptadecyl-6-cyclohexyl-9-iodo-10-octyl-7-pentyl-3-pentadecyl-8-pentadecyl-9-propyl-4-propyl-7-undecylcycloundecane
+Should lead to: C: 134, H: 259, I: 1
+---------------------------
+4,5-difluoro-3,10,14-triiodopentadecan-6,7,7,9,13-penta[pentadecyl]phosphine
+Should lead to: C: 90, F: 2, H: 182, I: 3, P: 5
+---------------------------
+4-iminopentanamide
+Should lead to: C: 5, H: 10, N: 2, O: 1
+---------------------------
+7-[undec-6-enyl]arsino-8-ethenyl-2,5,7-triiodo-6-cyclohexadec-3-enoxy-3,10-di[diprop-1,2-dienyl]phosphino-2-tetradec-2,3,5,10-tetraen-7,13-diynylcyclodec-1,9-diyn-3,5-di[tetradecyl]amine
+Should lead to: As: 1, C: 93, H: 140, I: 3, N: 2, O: 1, P: 2
+---------------------------
+13-[2-cyclododecyl-2-[7-octyl]nonyl]butylcyclohexadecane
+Should lead to: C: 49, H: 96
+---------------------------
+tri[4-[2-ethyl]dodecyl]octylphosphine
+Should lead to: C: 66, H: 135, P: 1
+---------------------------
+2,2,3,7,9-penta[pentadecyl]amino-11,12-di[cyclotridec-9-ynyl]arsino-12-bromo-4-chloro-5-hexadecyl-10-imino-4-methyl-5-cyclooct-3-ynyl-7,11-dibutoxy-12-pentadecanoyloxydodec-3-en-6,8-diynoic acid
+Should lead to: As: 2, Br: 1, C: 161, Cl: 1, H: 296, N: 6, O: 6
+---------------------------
+14-bromo-9-methyl-2-[5,8,9-trichloro-2-octyl]undecylhexadec-8,12-diene
+Should lead to: Br: 1, C: 36, Cl: 3, H: 66
+---------------------------
+[4-chloro-3-hexylmercapto]hexyl 13-[1-decanoyloxy]methylhexadecan-1-oate
+Should lead to: C: 39, Cl: 1, H: 75, O: 4, S: 1
+---------------------------
+16-amino-16-[dipentadecyl]arsino-2,12-dichloro-7-fluoro-6,13-diimino-14-mercapto-11,15,17-triphosphino-15-propynyloctadec-3,4,5,8-tetrayn-1,18-dial
+Should lead to: As: 1, C: 51, Cl: 2, F: 1, H: 80, N: 3, O: 2, P: 3, S: 1
+---------------------------
+didecylether
+Should lead to: C: 20, H: 42, O: 1
+---------------------------
+heptan-2,3,6-triol
+Should lead to: C: 7, H: 16, O: 3
+---------------------------
+eth-1-ene
+Should lead to: C: 2, H: 4
+---------------------------
+[12-butyl-6,9-dimercapto-2-[14-[dimethyl]amino-3,6,14-triimino]tetradecyl]pentadecyl 3,4-di[[5,6-dioxo]hex-2-enyl[5,5,17,19-tetrafluoro-2,3,10,19-tetraoxo]nonadecyl]aminopent-2,3-dien-1,5-dioate
+Should lead to: C: 125, F: 8, H: 206, N: 10, O: 16, S: 4
+---------------------------
+[2,3-dinonadecoxy]butyl 2,4,8,11,15-pentachlorononadec-2,5,7-trien-1,19-dioate
+Should lead to: C: 103, Cl: 5, H: 193, O: 8
+---------------------------
+dodecylpentylether
+Should lead to: C: 17, H: 36, O: 1
+---------------------------
+ethane
+Should lead to: C: 2, H: 6
+---------------------------
+heptan-1,7-dioic acid
+Should lead to: C: 7, H: 12, O: 4
+---------------------------
+1,10-dibromo-7-ethyl-8-eth-1-ynyl-3-heptadecyl-2-cyclohex-3,4,5-trienyl-1,2,5,7-tetraiodo-4-methyl-4-nonyl-5-oct-1,4,6-trienyl-8-pentadecyl-3-pentadecyl-10-undecylcycloundec-6,9-diyne
+Should lead to: Br: 2, C: 97, H: 162, I: 4
+---------------------------
+8-[[3,6,7-triimino]nonyl]amino-2,11-diimino-13-mercaptotetradecan-1,14-dioic acid
+Should lead to: C: 23, H: 40, N: 6, O: 4, S: 1
+---------------------------
+cycloprop-2-yne
+Should lead to: C: 3, H: 2
+---------------------------
+hexadecyl 2-bromo-7,9,10-trichloro-5-decyl-5,6,9-trifluoro-8-hexyl-3-oxo-6,8-dinonadecoxy-10-nonanoyloxy-4-pentyl-2-pentadecyl-4-[decyl]phosphinodecanoate
+Should lead to: Br: 1, C: 119, Cl: 3, F: 3, H: 228, O: 7, P: 1
+---------------------------
+tridecan-1,13-dial
+Should lead to: C: 13, H: 24, O: 2
+---------------------------
+7-[3-decyl-2-iodo]butyl-3-[3-[6-tridecyl]hexadecyl]octyl-3-[5-[4-cyclononyl]heptyl]cycloundecylcyclooctadecane
+Should lead to: C: 96, H: 187, I: 1
+---------------------------
+11-[butyltridecyl]arsino-2,7-dibromo-1,6,7,10-tetrachloro-8-heptadecyl-8-hydroxy-4,11,11-triiodo-10-methyl-3-nonadecyl-2,3,4,5-tetrahexoxy-5-tridecylundecan-9-one
+Should lead to: As: 1, Br: 2, C: 102, Cl: 4, H: 196, I: 3, O: 6
+---------------------------
+dec-3-ynoic acid
+Should lead to: C: 10, H: 16, O: 2
+---------------------------
+2,6,7-trichloro-3-[3-methyl-4-[8-butyl]octadecyl-2-[1,9,10,13-tetra[[6-decyl-8-hexadecyl-15-[13-ethyl]octadecyl]heptadecyl]arsino-6-hexyl-8-cyclotetradecyl]tridecyl]heptyl-3,5-diiodocyclononan-1,5,6-tri[tridecyl]phosphine
+Should lead to: As: 4, C: 363, Cl: 3, H: 726, I: 2, P: 3
+---------------------------
+nonadecan-3,3,8,12,18-pentaol
+Should lead to: C: 19, H: 40, O: 5
+---------------------------
+[2,3,9-triimino-5-octadecoxy-1-hexadecanoyloxy]nonyl 2-bromobut-3-en-1-oate
+Should lead to: Br: 1, C: 47, H: 86, N: 3, O: 5
+---------------------------
+di[3-[1-chloro]ethyl]butylether
+Should lead to: C: 12, Cl: 2, H: 24, O: 1
+---------------------------
+4-cyclobutyl-2-decyl-4,5-diiodo-3-methyl-2-nonadecyl-3-octadec-5,13,15,16-tetraenyl-5-tetradec-10-en-2,4,7-triynylcyclohept-6-yne
+Should lead to: C: 73, H: 116, I: 2
+---------------------------
+12-arsinotridec-3,6,7,9,12-pentaen-1-oic acid
+Should lead to: As: 1, C: 13, H: 17, O: 2
+---------------------------
+11-amido-7,11-di[di[2-[[9-[di[2,4-difluoro-11-iodo-1,3,4,8,10-pentamercapto]dodecyl]phosphino]hexadec-1,2,4,8-tetraen-11,13,14,15-tetraynyl]amino]octadec-1,8,13,16-tetraenyl]amino-11-formylundec-5-yn-1-oic acid
+Should lead to: C: 244, F: 16, H: 339, I: 8, N: 7, O: 4, P: 4, S: 40
+---------------------------
+3-[decyl]amino-6-arsino-11,12-dibromochloro-7-decyl-10-fluoro-2,8-diiodo-7-pentadecoxy-1,9,11-triphenyl-6,12-di[pentyl]phosphino-3-cyclotetradecyl-8-tetradecyl-4-tridecyl-5-cyclotridecyl-4-tridecylcyclododecan-5,9,10-trithiol
+Should lead to: As: 1, Br: 2, C: 142, Cl: 1, F: 1, H: 254, I: 2, N: 1, O: 1, P: 2, S: 3
+---------------------------
+cycloheptan-1,2,3,3,6-pentathiol
+Should lead to: C: 7, H: 14, S: 5
+---------------------------
+diheptadecylamine
+Should lead to: C: 34, H: 71, N: 1
+---------------------------
+butyltetradecylarsine
+Should lead to: As: 1, C: 18, H: 39
+---------------------------
+[2-[5,9-di[di[2-butyl-7-[12-bromo-11,13-difluoro]nonadecyl]heptadecyl]arsino]octadecyl]dodecyl 2-dodecylnon-7-en-1-oate
+Should lead to: As: 2, Br: 4, C: 211, F: 8, H: 410, O: 2
+---------------------------
+5-methylcyclododecane
+Should lead to: C: 13, H: 26
+---------------------------
+10-butyl-7-dodecyl-7-nonyl-12-octyl-2-octadecyl-11-pentyl-5-pentadecyltridecane
+Should lead to: C: 84, H: 170
+---------------------------
+heptyl 4-formylbutanoate
+Should lead to: C: 12, H: 22, O: 3
+---------------------------
+4,9,10,13-tetrabromo-7-[2-arsino-2-[1,3-difluoro-3-imino-2-pentadecyl]propyl]propyltridecan-3,4,6,12-tetrathiol
+Should lead to: As: 1, Br: 4, C: 34, F: 2, H: 64, N: 1, S: 4
+---------------------------
+heptadec-2,5,7,8-tetraene
+Should lead to: C: 17, H: 28
+---------------------------
+octadecylphosphine
+Should lead to: C: 18, H: 39, P: 1
+---------------------------
+1,3-di[methyl]arsinocyclobutan-1,2,2,3-tetraol
+Should lead to: As: 2, C: 6, H: 14, O: 4
+---------------------------
+cyclohexadecan-14-thiol
+Should lead to: C: 16, H: 32, S: 1
+---------------------------
+2,3-dichloro-4-phenylbutan-1-al
+Should lead to: C: 10, Cl: 2, H: 10, O: 1
+---------------------------
+[1,3,10,15,17-pentabromo-17-fluoro-6-[dihexyl]phosphino]nonadecyl 3,7,9,11-tetrahydroxydodec-2,3,5,8-tetraen-1,12-dioate
+Should lead to: Br: 10, C: 74, F: 2, H: 128, O: 8, P: 2
+---------------------------
+1,4-dibromo-3-ethyl-3-heptyl-2-cycloheptadec-7,8,13-trienylcyclobut-1,2-diene
+Should lead to: Br: 2, C: 30, H: 46
+---------------------------
+6-heptadecyl-9,15-diphenylnonadecan-14-one
+Should lead to: C: 48, H: 80, O: 1
+---------------------------
+[3-imino]dodecyl pentadec-3,5,6,8,9-pentaenoate
+Should lead to: C: 27, H: 43, N: 1, O: 2
+---------------------------
+3,6,18-tribromo-2,3,9,17,18-pentachloro-5-decyl-4-decyl-12-ethyl-15-fluoro-12-iodo-9-methyl-4-methyl-6-nonyl-16-pentyl-14-pentyl-2-pentadecyl-11-propyl-15-tetradecyl-10-tetradecyl-8-undecyloctadecan-5,7,11,14-tetraphosphine
+Should lead to: Br: 3, C: 118, Cl: 5, F: 1, H: 232, I: 1, P: 4
+---------------------------
+2-[2,3-diphosphino]pentoxyhept-6-enal
+Should lead to: C: 12, H: 24, O: 2, P: 2
+---------------------------
+undecane
+Should lead to: C: 11, H: 24
+---------------------------
+6-butyl-4,12-dichloro-6-ethyl-8-ethyl-5-cycloheptadecyl-1,11-diiodo-11-nonadec-1,8,16-trienyl-7-octadec-2-enyl-3-cyclopentyl-2-pentyl-9-pentadecyl-4-cyclopentadec-7,8-dienyl-8-propyl-10-tetradecyltridec-5,7,9,12-tetraen-2,3,10-tri[butyloctyl]phosphine
+Should lead to: C: 168, Cl: 2, H: 311, I: 2, P: 3
+---------------------------
+hexadecan-3,8,11,15,16-pentaol
+Should lead to: C: 16, H: 34, O: 5
+---------------------------
+5-bromo-6-nonadecylheptan-2,3-dione
+Should lead to: Br: 1, C: 26, H: 49, O: 2
+---------------------------
+heptan-4,5-dione
+Should lead to: C: 7, H: 12, O: 2
+---------------------------
+5-[3-[3-octyl]hexadecyl-8-hexadecyl]cyclonon-2,3,7-trienyl-10-[2-[4-nonadec-12,14-dienyl-6-undecyl]octyl]propylpentadec-7,9,11,14-tetraen-1,15-diimine
+Should lead to: C: 105, H: 190, N: 2
+---------------------------
+nonadec-11,12-diyn-1,19-dioic acid
+Should lead to: C: 19, H: 28, O: 4
+---------------------------
+6-cycloheptyl-3-cyclononyl-4-cyclononadecyl-5-pentylcyclooctane
+Should lead to: C: 48, H: 90
+---------------------------
+2-imino-8-[3,5,5-trichloro-4-methyl]pentoxy-1,1,6,7,9-penta[[12,13-di[[3,6-dibromo]hexyl]phosphino]tridecyl]phosphinotridecan-3-one
+Should lead to: Br: 20, C: 144, Cl: 3, H: 279, N: 1, O: 2, P: 15
+---------------------------
+3-[12-phenyl-14-[6-[[4,8-diamino-6-[3,5-dichloro-2-ethyl-4-[12-hexyl-4-[9-octyl-8-[[3,4,6-tribromo-1,5,7,7-tetrafluoro-2-[8-[pentadecyl]arsino]nonyl]cycloheptyl]phosphino]undecyl]nonadecyl]pentyl]octyl]amino-5,10-dibromo-8-ethyl]tetradecyl]octadecyl-4-[2,3-diarsino]cyclopentyl-2-phosphinocyclopentan-1,1,4,5,5-pentaol
+Should lead to: As: 3, Br: 5, C: 140, Cl: 2, F: 4, H: 265, N: 3, O: 5, P: 2
+---------------------------
+butylditridecylarsine
+Should lead to: As: 1, C: 30, H: 63
+---------------------------
+7-chlorononanoic acid
+Should lead to: C: 9, Cl: 1, H: 17, O: 2
+---------------------------
+[5,7,10,11,12-pentafluoro-1-heptanoyloxy]pentadecyl 8,9,11,12,14-pentaimino-7-pentylpentadecan-1,15-dioate
+Should lead to: C: 64, F: 10, H: 107, N: 5, O: 8
+---------------------------
+6-dodec-2,4,10-triynyl-4-ethyl-2-ethyl-2-propylcyclooct-1,3,7-triyne
+Should lead to: C: 27, H: 30
+---------------------------
+undec-2,4,8,9-tetraen-1,11-dioic acid
+Should lead to: C: 11, H: 12, O: 4
+---------------------------
+4-imino-3,4-diphenylbutan-1-amide
+Should lead to: C: 16, H: 16, N: 2, O: 1
+---------------------------
+tritetradecylphosphine
+Should lead to: C: 42, H: 87, P: 1
+---------------------------
+heptadec-3,9,15-triyn-5,11-diol
+Should lead to: C: 17, H: 24, O: 2
+---------------------------
+12-amido-2,7,7,10-tetraphenyldodec-3,4,6,11-tetraen-1-oic acid
+Should lead to: C: 36, H: 31, N: 1, O: 3
+---------------------------
+5-decyl-7-iodo-4-methylcyclohept-1,2-diyne
+Should lead to: C: 18, H: 27, I: 1
+---------------------------
+heptadec-8-yn-4,6-dione
+Should lead to: C: 17, H: 28, O: 2
+---------------------------
+hexan-2,3-diamine
+Should lead to: C: 6, H: 16, N: 2
+---------------------------
+2,11-dibromo-6-chloro-8-decyl-2-fluoro-5-hept-2,6-diynyl-11-iodo-6-propyl-5-tridecylcyclotridec-1,4,7,12-tetrayn-3,9,10-trione
+Should lead to: Br: 2, C: 46, Cl: 1, F: 1, H: 57, I: 1, O: 3
+---------------------------
+5-fluoroheptadecan-1,17-dial
+Should lead to: C: 17, F: 1, H: 31, O: 2
+---------------------------
+[15-mercapto]pentadecyl 2,10-dihydroxypentadec-6,7,8,11,12-pentaen-1,15-dioate
+Should lead to: C: 45, H: 78, O: 6, S: 2
+---------------------------
+3-arsino-4-dodecyl-10-fluoro-10-formyl-5-cyclohex-4-ynyl-5-hexadec-3,8,10,11,12-pentaynyl-2-hydroxy-4-heptoxy-2,3,7,8,8,10-hexaphenyldec-6,9-diyn-1-amide
+Should lead to: As: 1, C: 88, F: 1, H: 93, N: 1, O: 4
+---------------------------
+1,3,4-tribromo-3-[14-octyl]heptadecylbutan-1,2-di[[3,11,15-trifluoro-14-[8-pentadecyl]tetradecyl]nonadecyl]arsine
+Should lead to: As: 2, Br: 3, C: 125, F: 6, H: 245
+---------------------------
+[arsino]ethyl[7-fluoro]tetradecylether
+Should lead to: As: 1, C: 16, F: 1, H: 34, O: 1
+---------------------------
+5-chloro-11-dodecyl-7-eth-1-enyl-2-heptadec-1,12-dienyl-8-heptadec-1,5,7,8,10-pentaynyl-8-hex-1-enyl-4-cyclohexadecyl-4-hexadecyl-3-cyclohexadecyl-1,1,5,12-tetraiodo-10-methyl-9-nonadecyl-13-nonadecyl-12-oct-1,2-dien-6,7-diynyl-7-cyclopentyl-10-cyclopentadec-5,6,10-trienyl-2-cycloundecyltetradec-6-yne
+Should lead to: C: 194, Cl: 1, H: 325, I: 4
+---------------------------
+trihexylphosphine
+Should lead to: C: 18, H: 39, P: 1
+---------------------------
+11-butyl-4-[2-[12-cyclobutyl-14-heptadecyl-11-octyl]pentadecyl]butyl-12-[7-decyl-3-[1,5,6,11-tetra[[2-[9-[2-[4-[[9-cyclononyl-5-pentyl-13-undecyl]hexadecyl]arsino-11-[2-pentadecyl]decyl]heptadecyl]propyl-15-[2-[4-pentyl]octyl]cyclopropyl]octadecyl-3-[2-[1,3,4,4,5,6-hexaarsino-2-decyl]hexyl-3-[8-ethyl]hexadecyl]pentyl-5-[2,5,14-trifluoro]pentadecyl]heptyl]arsino-8-chloro-2-pentadecyl]heptadecyl]cyclodecylcyclotetradecan-1,1,2,3,5,5,6,7,7,8,12,14-dodeca[[5,11-dibromo]dodecyl[4-undecyl]nonadecyl]phosphine
+Should lead to: As: 32, Br: 24, C: 1346, Cl: 1, F: 12, H: 2679, P: 12
+---------------------------
+1,4,6,7,7,9,10-hepta[heptylheptyl]arsinobromo-5-ethyl-2-heptadecyl-2-heptadecyl-6-iodo-3,5,9-trimercapto-10-nonyl-4-methoxy-3-undecylcycloundecan-8-one
+Should lead to: As: 7, Br: 1, C: 166, H: 335, I: 1, O: 2, S: 3
+---------------------------
+4-pentadecylcyclopentane
+Should lead to: C: 20, H: 40
+---------------------------
+2-cyclododecyl-2-heptylcyclopropane
+Should lead to: C: 22, H: 42
+---------------------------
+9-bromo-6-chloro-4-decyl-3-heptyl-7-cycloheptadecyl-2-heptadecyl-4-methyl-2-nonadecyl-6-cyclononadecyl-9-pentadecyl-5-tetradecylcyclodecane
+Should lead to: Br: 1, C: 129, Cl: 1, H: 252
+---------------------------
+[2-[17-heptyl-16-hexadecyl]octadecyl-2-[1,5-dibromo-4-octyl]pentyl]butylarsine
+Should lead to: As: 1, Br: 2, C: 58, H: 117
+---------------------------
+pentane
+Should lead to: C: 5, H: 12
+---------------------------
+2-bromopropan-1-thiol
+Should lead to: Br: 1, C: 3, H: 7, S: 1
+---------------------------
+nonadecyldipentadecylamine
+Should lead to: C: 49, H: 101, N: 1
+---------------------------
+nonadecylnonadecylether
+Should lead to: C: 38, H: 78, O: 1
+---------------------------
+6-butyl-4-butyl-7-ethyl-5-heptyl-7-heptyl-9-hexadecyl-6-iodo-4-methyl-2-octyl-9-octadecyl-5-octadecyl-3-pentyl-8-pentadecyl-3-pentadecyl-8-pentadecyldecane
+Should lead to: C: 145, H: 291, I: 1
+---------------------------
+[formyl-2,4,4,6,6-pentahexadecoxy]heptyl nonan-1,9-dioate
+Should lead to: C: 185, H: 364, O: 16
+---------------------------
+16-propyl-3-[3-[2-heptadecyl-3-nonadecyl]butyl]tetradecylheptadecane
+Should lead to: C: 74, H: 150
+---------------------------
+pentylamine
+Should lead to: C: 5, H: 13, N: 1
+---------------------------
+cycloheptadecane
+Should lead to: C: 17, H: 34
+---------------------------
+9-[3,4,8,13,13-penta[[2,7-dichloro]dodecyl]arsino-1-hept-3,4,6-trienoxycarbonyl-5-undecyl]tridec-7,10,12-trienoxycarbonylnon-2,4,5,8-tetrayn-1-oic acid
+Should lead to: As: 5, C: 102, Cl: 10, H: 167, O: 6
+---------------------------
+decyl 8-heptyl-8-heptyl-7,13-diimino-4,9,12-trimercapto-3,10,14,16-tetraoxo-2,5,5,9,11,15-hexaphenyl-15-tetradecylheptadecan-1,17-dioate
+Should lead to: C: 101, H: 142, N: 2, O: 8, S: 3
+---------------------------
+8-methyl-3-tetradecyl-4-undecylcyclodec-1,5,6,9-tetrayne
+Should lead to: C: 36, H: 56
+---------------------------
+2,3,8,16-tetrabromo-5,10,14,15-tetraphenyl-2,4,4,6,6,14,15-hepta[[10,16,17-trimercapto-15-cyclotetradecyl]cyclooctadecyl]phosphinohexadec-1,3,5,9-tetraen-7-ol
+Should lead to: Br: 4, C: 264, H: 465, O: 1, P: 7, S: 21
+---------------------------
+11,15,18-tri[hept-1,6-dienyl]amino-14,15-di[tridecyl]arsino-2,7,17-tribromo-4-fluoro-9-cyclohexadecyl-3,8-dihydroxy-10-imino-5,6-dimercapto-2-octadecyl-12-oxo-7-pentyl-16-phenyl-13-[tridecyl]phosphinononadec-8-en-1,19-diamide
+Should lead to: As: 2, Br: 3, C: 124, F: 1, H: 223, N: 6, O: 5, P: 1, S: 2
+---------------------------
+5-iminocyclopentadecan-3,6,9,12-tetraone
+Should lead to: C: 15, H: 21, N: 1, O: 4
+---------------------------
+ethyl tetradec-3-en-1-oate
+Should lead to: C: 16, H: 30, O: 2
+---------------------------
+11-bromo-13-ethyl-7-cyclooctyl-8-cyclopentadecyl-4-propyl-14-tetradecylcyclohexadecane
+Should lead to: Br: 1, C: 58, H: 111
+---------------------------
+5-[5-bromo-5-[2-decyl-5-hexyl]hexyl]octylcyclododecane
+Should lead to: Br: 1, C: 42, H: 83
+---------------------------
+16-[4-nonyl-7-[3-decyl-8-ethyl-5,12-di[di[2,3,10,12,15-penta[undecyl]arsino-6,14-difluoro]pentadecyl]phosphino]tetradecyl]non-2,4,6-trienyl-4-cyclooctylnonadec-10,11,12,14,18-pentayn-1-imine
+Should lead to: As: 20, C: 351, F: 8, H: 689, N: 1, P: 2
+---------------------------
+3,12,12-trichloro-1,5,6,7,8-pentafluoro-4,6,8,9,11,13-hexaiodo-10-methyl-2,2,3,9,10,11-hexaphenyl-7-[decylpropyl]phosphino-4-tetradecyltridecan-1,13-diimine
+Should lead to: C: 77, Cl: 3, F: 5, H: 93, I: 6, N: 2, P: 1
+---------------------------
+dimethylether
+Should lead to: C: 2, H: 6, O: 1
+---------------------------
+[1-arsino-1,2-diformyl]ethyl 2-chloro-2,5-di[2-iodo-4,6,9-trioxo]decoxyhex-3,4-diyn-1,6-dioate
+Should lead to: As: 2, C: 34, Cl: 1, H: 37, I: 2, O: 16
+---------------------------
+dipropylether
+Should lead to: C: 6, H: 14, O: 1
+---------------------------
+propane
+Should lead to: C: 3, H: 8
+---------------------------
+pentadecan-1,15-diamide
+Should lead to: C: 15, H: 30, N: 2, O: 2
+---------------------------
+eth-1-ynthiol
+Should lead to: C: 2, H: 2, S: 1
+---------------------------
+2-[3-[7-octyl]cyclohexadecyl]cyclobutyl-2-[14-[1,5,7-triiodo]heptyl-8-[8-tetradecyl]heptadecyl]nonadecylcyclopentane
+Should lead to: C: 90, H: 173, I: 3
+---------------------------
+17-iodo-16,17-diphenylheptadec-3,8,10,11-tetrayn-1-al
+Should lead to: C: 29, H: 25, I: 1, O: 1
+---------------------------
+9-chloro-7-ethyl-11-heptadecyl-5-hexyl-14-hexyl-2,11,13,17-tetraiodo-6-nonadecyl-16-pentyl-4-cyclopentadecyl-4-tetradecyl-17-undecylcyclooctadecan-9,12,12,15-tetra[tridecyl]phosphine
+Should lead to: C: 165, Cl: 1, H: 327, I: 4, P: 4
+---------------------------
+hexadec-3,5,7,10-tetrayn-1,16-diamide
+Should lead to: C: 16, H: 16, N: 2, O: 2
+---------------------------
+8-decylnonane
+Should lead to: C: 19, H: 40
+---------------------------
+4-bromo-5-butyl-4-butyl-1,3,6,8,9,10,11-heptachloro-8-cycloheptadecyl-2-heptadecyl-12-heptadecyl-7-cyclohexyl-6-iodo-7-methyl-9-nonadecyl-3-pentylcyclotridecane
+Should lead to: Br: 1, C: 103, Cl: 7, H: 193, I: 1
+---------------------------
+butan-3-one
+Should lead to: C: 4, H: 8, O: 1
+---------------------------
+6-dodecyl-19-iminononadecan-5-ol
+Should lead to: C: 31, H: 63, N: 1, O: 1
+---------------------------
+5,6,10-tribromo-7-cyclobutyl-2-heptadecyl-9-heptadecyl-4,6,8,8-tetraiodo-3-methyl-7-nonyl-2-nonadecyl-4-cyclooctadecyl-9-pentadecyl-3-cyclotetradecyl-5-undecylcyclodecane
+Should lead to: Br: 3, C: 135, H: 257, I: 4
+---------------------------
+cyclopent-1,2,3,4-tetraene
+Should lead to: C: 5, H: 2
+---------------------------
+6-[3-iodo-2-[3-cyclopentyl-2-tetradec-1,4-diynyl]octyl-2-pent-3,4-dienyl]butyl-2-[3-[2-non-2,4,5,8-tetraenyl]hexyl]hexadecyl-3-[5-[2-undec-1,2,3,4,5-pentaynyl]undecyl]cyclotetradec-2,7,8,10-tetraenylcyclohept-1-yne
+Should lead to: C: 110, H: 163, I: 1
+---------------------------
+dodecylpropylamine
+Should lead to: C: 15, H: 33, N: 1
+---------------------------
+4,10-diamino-3,3,10-trichloro-6-methyldecan-1-al
+Should lead to: C: 11, Cl: 3, H: 21, N: 2, O: 1
+---------------------------
+2-decylpentan-1,5-diimine
+Should lead to: C: 15, H: 30, N: 2
+---------------------------
+2,7,8,9,12,15-hexafluoro-11-heptyl-3,10,13,15-tetraiodo-1,2,5,8,14-pentamercapto-4,11-diphenylcyclopentadecan-1,5,6,10,13-pentaol
+Should lead to: C: 34, F: 6, H: 42, I: 4, O: 5, S: 5
+---------------------------
+[3,3,4,4-tetrachloro-2-[2-fluoro-5-octadecyl]octyl-2-pentyl]butylphosphine
+Should lead to: C: 35, Cl: 4, F: 1, H: 68, P: 1
+---------------------------
+di[13-[hexyl]arsino-10-[1,4,4,5-tetraiodo-7-octyl-6-octyl]undecyl]tetradecylphosphine
+Should lead to: As: 2, C: 94, H: 185, I: 8, P: 1
+---------------------------
+pentadecyl 11,15,17-tri[dicycloprop-2-enyl]amino-4,11,14,15-tetra[didodecyl]arsino-4-chloro-8-dodecyl-2,10,14,17-tetrafluoro-3,7-diimino-6,10,13-triiodo-6,13-dimercapto-9,16-dioxo-2-pentadecyloctadec-5,12-diyn-1,18-dioate
+Should lead to: As: 4, C: 189, Cl: 1, F: 4, H: 337, I: 3, N: 5, O: 6, S: 2
+---------------------------
+16-bromo-8-nonadec-12,13,15,16-tetraenyloctadec-3,5,10,15,17-pentayne
+Should lead to: Br: 1, C: 37, H: 47
+---------------------------
+eth-1-yne
+Should lead to: C: 2, H: 2
+---------------------------
+butyldiheptylarsine
+Should lead to: As: 1, C: 18, H: 39
+---------------------------
+1,1,2,7,7,9,10-heptafluorodecan-3-one
+Should lead to: C: 10, F: 7, H: 13, O: 1
+---------------------------
+undecyl 17-amido-11,12-diiodoheptadecan-1-oate
+Should lead to: C: 28, H: 53, I: 2, N: 1, O: 3
+---------------------------
+ethanamide
+Should lead to: C: 2, H: 5, N: 1, O: 1
+---------------------------
+10-ethyl-9-methyl-9-[1,3,9-tri[undecyl]arsino-2,9,10,14-tetraiodo]pentadecyltridecan-8-[[6-hexyl-5-[2-dodecyl-2-tetradecyl]propyl]nonadecyl]amine
+Should lead to: As: 3, C: 118, H: 238, I: 4, N: 1
+---------------------------
+prop-2-enoic acid
+Should lead to: C: 3, H: 4, O: 2
+---------------------------
+cyclooctadec-2,5,9,10-tetrayn-7-one
+Should lead to: C: 18, H: 18, O: 1
+---------------------------
+4-[4-bromo-2-[16-butyl-14-pentadecyl]cycloheptadec-5,8,14-trienyl]cyclononadecylcyclohexadec-1,2-diyne
+Should lead to: Br: 1, C: 71, H: 123
+---------------------------
+cyclododecan-1,12-diimine
+Should lead to: C: 12, H: 22, N: 2
+---------------------------
+nonyl 4,8,9,13-tetrabromo-13-formyl-5,11-dimercapto-10-oxo-7,9,12-tricyclohept-1,4-dienoxy-3-propyltridec-3,4,12-trienoate
+Should lead to: Br: 4, C: 47, H: 62, O: 7, S: 2
+---------------------------
+Molecule has been set to: 5-chloro-2-decyl-5-octadecyl-3-octadecyl-4-pentyl-2-pentadecyl-3-tetradecyl-4-undecylhexane
+---------------------------
+5-chloro-2-decyl-5-octadecyl-3-octadecyl-4-pentyl-2-pentadecyl-3-tetradecyl-4-undecylhexane
+Should lead to: C: 97, Cl: 1, H: 195
+Molecule has been set to: 3-chloro-2-cyclononadecylcycloprop-2-ene
+---------------------------
+3-chloro-2-cyclononadecylcycloprop-2-ene
+Should lead to: C: 22, Cl: 1, H: 39
+Molecule has been set to: 7-imino-3-phenyldec-5,6-dien-1,10-dial
+---------------------------
+7-imino-3-phenyldec-5,6-dien-1,10-dial
+Should lead to: C: 16, H: 17, N: 1, O: 2
+Molecule has been set to: ethylarsine
+---------------------------
+ethylarsine
+Should lead to: As: 1, C: 2, H: 7
+Molecule has been set to: undecan-2,3,7,9,11-penta[[3-nonadecyl-2-[4-dodecyl]octyl]butyl[8,8,15-tribromo-12-imino-10-[4-octadecyl-4-propyl-2-undecyl]pentyl]hexadecyl]amine
+---------------------------
+undecan-2,3,7,9,11-penta[[3-nonadecyl-2-[4-dodecyl]octyl]butyl[8,8,15-tribromo-12-imino-10-[4-octadecyl-4-propyl-2-undecyl]pentyl]hexadecyl]amine
+Should lead to: Br: 15, C: 491, H: 969, N: 10
+Molecule has been set to: propylarsine
+---------------------------
+propylarsine
+Should lead to: As: 1, C: 3, H: 9
+Molecule has been set to: 2-dodecyl-2-pentylcycloprop-1-ene
+---------------------------
+2-dodecyl-2-pentylcycloprop-1-ene
+Should lead to: C: 20, H: 38
+Molecule has been set to: cyclotetradecane
+---------------------------
+cyclotetradecane
+Should lead to: C: 14, H: 28
+Molecule has been set to: 5-[1-iodo]cyclobutylcycloheptadecan-1,17-diimine
+---------------------------
+5-[1-iodo]cyclobutylcycloheptadecan-1,17-diimine
+Should lead to: C: 21, H: 37, I: 1, N: 2
+Molecule has been set to: heptylpentadecylether
+---------------------------
+heptylpentadecylether
+Should lead to: C: 22, H: 46, O: 1
+Molecule has been set to: cyclotridecan-2,3,5,6,7,8,10-heptaone
+---------------------------
+cyclotridecan-2,3,5,6,7,8,10-heptaone
+Should lead to: C: 13, H: 12, O: 7
+Molecule has been set to: 4-ethylhex-1,2,3-triene
+---------------------------
+4-ethylhex-1,2,3-triene
+Should lead to: C: 8, H: 12
+Molecule has been set to: pentylphosphine
+---------------------------
+pentylphosphine
+Should lead to: C: 5, H: 13, P: 1
+Molecule has been set to: cyclononadecan-8,12,13-triol
+---------------------------
+cyclononadecan-8,12,13-triol
+Should lead to: C: 19, H: 38, O: 3
+Molecule has been set to: hex-1,3,5-triyne
+---------------------------
+hex-1,3,5-triyne
+Should lead to: C: 6, H: 2
+Molecule has been set to: butan-1-oic acid
+---------------------------
+butan-1-oic acid
+Should lead to: C: 4, H: 8, O: 2
+Molecule has been set to: 3-[5-chloro-4-[5-bromo]octyl-1-phenyl]hexyl-4-[4-hexyl]nonylpentan-1-imine
+---------------------------
+3-[5-chloro-4-[5-bromo]octyl-1-phenyl]hexyl-4-[4-hexyl]nonylpentan-1-imine
+Should lead to: Br: 1, C: 40, Cl: 1, H: 71, N: 1
+Molecule has been set to: 5-[4-[[[1,2,4,7,7-pentaamino-1,6,6,7-tetraphenyl]heptyltetradecyl]amino-2,3,4-trihydroxy-2,5,6,7,8-pentamercapto]octyl-2-oxo]octylhexadecan-1-amide
+---------------------------
+5-[4-[[[1,2,4,7,7-pentaamino-1,6,6,7-tetraphenyl]heptyltetradecyl]amino-2,3,4-trihydroxy-2,5,6,7,8-pentamercapto]octyl-2-oxo]octylhexadecan-1-amide
+Should lead to: C: 77, H: 127, N: 7, O: 5, S: 5
+Molecule has been set to: 9,13-dibromo-14-butyl-1,11,15,16-tetrachloro-14-decyl-4,6,9,18-tetrafluoro-18-heptyl-5-heptyl-7-heptadecyl-7-heptadecyl-10-hexyl-6-hexyl-8,13,17,19-tetraiodo-2-nonyl-8-nonyl-17-nonadecyl-5-nonadecyl-15-octyl-12-octadecyl-2,12,16-triundecoxy-3,4,11-triphenyl-10-tridecylnonadecan-1,19-diimine
+---------------------------
+9,13-dibromo-14-butyl-1,11,15,16-tetrachloro-14-decyl-4,6,9,18-tetrafluoro-18-heptyl-5-heptyl-7-heptadecyl-7-heptadecyl-10-hexyl-6-hexyl-8,13,17,19-tetraiodo-2-nonyl-8-nonyl-17-nonadecyl-5-nonadecyl-15-octyl-12-octadecyl-2,12,16-triundecoxy-3,4,11-triphenyl-10-tridecylnonadecan-1,19-diimine
+Should lead to: Br: 2, C: 239, Cl: 4, F: 4, H: 440, I: 4, N: 2, O: 3
+Molecule has been set to: 1,2-dibromopentane
+---------------------------
+1,2-dibromopentane
+Should lead to: Br: 2, C: 5, H: 10
+Molecule has been set to: 3-[12-[6-nonadecyl-5-propyl]hexadecyl]tetradecylcyclopentane
+---------------------------
+3-[12-[6-nonadecyl-5-propyl]hexadecyl]tetradecylcyclopentane
+Should lead to: C: 57, H: 114
+Molecule has been set to: 4,5,7-tribromo-3-dodecyl-6-hexadecyl-3-pentadecyl-2-cyclotridecylcyclooctan-2,5,6,7,8-penta[pentylpentadecyl]arsine
+---------------------------
+4,5,7-tribromo-3-dodecyl-6-hexadecyl-3-pentadecyl-2-cyclotridecylcyclooctan-2,5,6,7,8-penta[pentylpentadecyl]arsine
+Should lead to: As: 5, Br: 3, C: 164, H: 328
+Molecule has been set to: [1-formyl]octadecyl ethan-1-oate
+---------------------------
+[1-formyl]octadecyl ethan-1-oate
+Should lead to: C: 21, H: 40, O: 3
+Molecule has been set to: 18-tridecylcyclononadec-2,4-dien-5,6,7,11-tetrayn-1,19-diimine
+---------------------------
+18-tridecylcyclononadec-2,4-dien-5,6,7,11-tetrayn-1,19-diimine
+Should lead to: C: 32, H: 42, N: 2
+Molecule has been set to: 3-cyclobut-2,3-dienyl-3-dodecyl-2-ethenyl-6-heptyl-4-cyclotridec-5,6,7,8,10-pentaenylcyclohept-4,6-dienyne
+---------------------------
+3-cyclobut-2,3-dienyl-3-dodecyl-2-ethenyl-6-heptyl-4-cyclotridec-5,6,7,8,10-pentaenylcyclohept-4,6-dienyne
+Should lead to: C: 45, H: 62
+Molecule has been set to: 14-[13-[2-octyl-2-undecyl]pentyl]hexadecyl-8-cyclooctadecyl-4-cyclooctadecylcyclononadecan-15-arsine
+---------------------------
+14-[13-[2-octyl-2-undecyl]pentyl]hexadecyl-8-cyclooctadecyl-4-cyclooctadecylcyclononadecan-15-arsine
+Should lead to: As: 1, C: 95, H: 187
+Molecule has been set to: 6-fluorocyclooctadecan-4,7,18-triphosphine
+---------------------------
+6-fluorocyclooctadecan-4,7,18-triphosphine
+Should lead to: C: 18, F: 1, H: 38, P: 3
+Molecule has been set to: cyclononadec-9,15-diyn-4,6,11,17-tetraol
+---------------------------
+cyclononadec-9,15-diyn-4,6,11,17-tetraol
+Should lead to: C: 19, H: 30, O: 4
+Molecule has been set to: di[11-bromo-7-heptyl-9-nonadecyl]heptadecylether
+---------------------------
+di[11-bromo-7-heptyl-9-nonadecyl]heptadecylether
+Should lead to: Br: 2, C: 86, H: 172, O: 1
+Molecule has been set to: 2-[3-heptyl]decylcyclobut-1-en-1,2,3,3,4-penta[[2-[2-nonadecyl-3-tridecyl]octyl]propyl]phosphine
+---------------------------
+2-[3-heptyl]decylcyclobut-1-en-1,2,3,3,4-penta[[2-[2-nonadecyl-3-tridecyl]octyl]propyl]phosphine
+Should lead to: C: 236, H: 475, P: 5
+Molecule has been set to: 4-imino-2-iodo-3,4-diphosphinobutanal
+---------------------------
+4-imino-2-iodo-3,4-diphosphinobutanal
+Should lead to: C: 4, H: 8, I: 1, N: 1, O: 1, P: 2
+Molecule has been set to: 12-[6-ethyl-9-cyclopropyl]dec-5,6,7-trienyl-10-[7-[4-octadec-10,15,16,17-tetraenyl]cyclodec-3,6,8,9-tetraynyl]nonylpentadec-2,6-diyne
+---------------------------
+12-[6-ethyl-9-cyclopropyl]dec-5,6,7-trienyl-10-[7-[4-octadec-10,15,16,17-tetraenyl]cyclodec-3,6,8,9-tetraynyl]nonylpentadec-2,6-diyne
+Should lead to: C: 67, H: 94
+Molecule has been set to: 18-formyl-15-[9-[2-[cyclobutylhexadec-1,9,11,13-tetraynyl]amino]ethyl-5-oxo]hexadec-7,13-dienyl-14-mercaptooctadec-5,7,9,13,15-pentaen-16-ynamide
+---------------------------
+18-formyl-15-[9-[2-[cyclobutylhexadec-1,9,11,13-tetraynyl]amino]ethyl-5-oxo]hexadec-7,13-dienyl-14-mercaptooctadec-5,7,9,13,15-pentaen-16-ynamide
+Should lead to: C: 57, H: 76, N: 2, O: 3, S: 1
+Molecule has been set to: 1,2,3,5,6-pentachloro-3,6,8-triiodo-5-octadecylcyclooctan-1,2,4,7-tetra[tridecyltridecyl]phosphine
+---------------------------
+1,2,3,5,6-pentachloro-3,6,8-triiodo-5-octadecylcyclooctan-1,2,4,7-tetra[tridecyltridecyl]phosphine
+Should lead to: C: 130, Cl: 5, H: 256, I: 3, P: 4
+Molecule has been set to: nonadecyl 2-amidoethan-1-oate
+---------------------------
+nonadecyl 2-amidoethan-1-oate
+Should lead to: C: 21, H: 41, N: 1, O: 3
+Molecule has been set to: 10-[ethylethyl]amino-6-[2-[1,5-dichloro-6-nonyl]undecyl]butyl-1,4,5,10-tetrachlorodecan-2,3,7,8,9-pentaone
+---------------------------
+10-[ethylethyl]amino-6-[2-[1,5-dichloro-6-nonyl]undecyl]butyl-1,4,5,10-tetrachlorodecan-2,3,7,8,9-pentaone
+Should lead to: C: 38, Cl: 6, H: 63, N: 1, O: 5
+Molecule has been set to: undecylarsine
+---------------------------
+undecylarsine
+Should lead to: As: 1, C: 11, H: 25
+Molecule has been set to: cycloundec-1,4,5,6,10-pentaene
+---------------------------
+cycloundec-1,4,5,6,10-pentaene
+Should lead to: C: 11, H: 12
+Molecule has been set to: 7-[2,2,4,5-tetrachloro]pentoxyoct-2,3,6-trien-4-yn-1,8-diamide
+---------------------------
+7-[2,2,4,5-tetrachloro]pentoxyoct-2,3,6-trien-4-yn-1,8-diamide
+Should lead to: C: 13, Cl: 4, H: 12, N: 2, O: 3
+Molecule has been set to: dioctadecylpropylarsine
+---------------------------
+dioctadecylpropylarsine
+Should lead to: As: 1, C: 39, H: 81
+Molecule has been set to: ethane
+---------------------------
+ethane
+Should lead to: C: 2, H: 6
+Molecule has been set to: 3-[5-iodo]cyclodecyl-3-[6-methyl-3-[4-hexyl-2-nonadec-2,3,8,13,16-pentaenyl]octyl]oct-2,4,5,7-tetraynyl-4-[4-[3-iodo-3-methyl]hex-2,4,5-triynyl]tetradecylcyclohept-2-yne
+---------------------------
+3-[5-iodo]cyclodecyl-3-[6-methyl-3-[4-hexyl-2-nonadec-2,3,8,13,16-pentaenyl]octyl]oct-2,4,5,7-tetraynyl-4-[4-[3-iodo-3-methyl]hex-2,4,5-triynyl]tetradecylcyclohept-2-yne
+Should lead to: C: 80, H: 114, I: 2
+Molecule has been set to: 3-bromo-9-cyclobutyl-6-decyl-9-heptyl-4-cyclohexyl-3-iodo-4-nonadecyl-8-octadec-7,9,10-trienyl-6-cyclotridec-6-ynyl-8-undecyldec-1,2,5,7-tetrayne
+---------------------------
+3-bromo-9-cyclobutyl-6-decyl-9-heptyl-4-cyclohexyl-3-iodo-4-nonadecyl-8-octadec-7,9,10-trienyl-6-cyclotridec-6-ynyl-8-undecyldec-1,2,5,7-tetrayne
+Should lead to: Br: 1, C: 98, H: 164, I: 1
+Molecule has been set to: tetradec-11-yne
+---------------------------
+tetradec-11-yne
+Should lead to: C: 14, H: 26
+Molecule has been set to: hexyl octadecan-1,18-dioate
+---------------------------
+hexyl octadecan-1,18-dioate
+Should lead to: C: 30, H: 58, O: 4
+Molecule has been set to: 6,6,14-tribromo-4,8-difluoro-13-hept-2,3,4-trienyl-2,4-diiodo-10-oxopentadec-8-en-5-yn-1,15-diamide
+---------------------------
+6,6,14-tribromo-4,8-difluoro-13-hept-2,3,4-trienyl-2,4-diiodo-10-oxopentadec-8-en-5-yn-1,15-diamide
+Should lead to: Br: 3, C: 22, F: 2, H: 23, I: 2, N: 2, O: 3
+Molecule has been set to: but-2,3-dien-1,4-diimine
+---------------------------
+but-2,3-dien-1,4-diimine
+Should lead to: C: 4, H: 4, N: 2
+Molecule has been set to: 10-chlorooctadecane
+---------------------------
+10-chlorooctadecane
+Should lead to: C: 18, Cl: 1, H: 37
+Molecule has been set to: undec-3,4,6,9-tetrayne
+---------------------------
+undec-3,4,6,9-tetrayne
+Should lead to: C: 11, H: 8
+Molecule has been set to: [12-chloro-11-decyl-2-phenyl]hexadecyl[12-pentyl-3-[2-decyl-3,4-difluoro-8-pentyl]undecyl]octadecylether
+---------------------------
+[12-chloro-11-decyl-2-phenyl]hexadecyl[12-pentyl-3-[2-decyl-3,4-difluoro-8-pentyl]undecyl]octadecylether
+Should lead to: C: 81, Cl: 1, F: 2, H: 153, O: 1
+Molecule has been set to: octyl 6-amidohexan-1-oate
+---------------------------
+octyl 6-amidohexan-1-oate
+Should lead to: C: 14, H: 27, N: 1, O: 3
+Molecule has been set to: 17-bromo-11-cyclodec-2-enyl-4-fluoro-5-heptyl-9-heptyl-14-hex-1,3,4-triynyl-13,15-diiodo-4-non-2-enyl-6-cyclononadecyl-10-cyclooctyl-5-cyclooctadecyl-2-undec-3,9,10-triynoxy-8-pent-2-enyl-10-cyclopentadecyl-2-cyclopentadecyl-6,8,9,14-tetraphenyl-1,17,19-triphosphino-11-tetradec-1,5,6,12,13-pentaenyl-13-undecylnonadec-3,7,12,16,18-pentayn-15-[decylpropyl]amine
+---------------------------
+17-bromo-11-cyclodec-2-enyl-4-fluoro-5-heptyl-9-heptyl-14-hex-1,3,4-triynyl-13,15-diiodo-4-non-2-enyl-6-cyclononadecyl-10-cyclooctyl-5-cyclooctadecyl-2-undec-3,9,10-triynoxy-8-pent-2-enyl-10-cyclopentadecyl-2-cyclopentadecyl-6,8,9,14-tetraphenyl-1,17,19-triphosphino-11-tetradec-1,5,6,12,13-pentaenyl-13-undecylnonadec-3,7,12,16,18-pentayn-15-[decylpropyl]amine
+Should lead to: Br: 1, C: 211, F: 1, H: 320, I: 2, N: 1, O: 1, P: 3
+Molecule has been set to: heptan-1-al
+---------------------------
+heptan-1-al
+Should lead to: C: 7, H: 14, O: 1
+Molecule has been set to: 1,3-diphenylpropan-1,2-diol
+---------------------------
+1,3-diphenylpropan-1,2-diol
+Should lead to: C: 15, H: 16, O: 2
+Molecule has been set to: didecylether
+---------------------------
+didecylether
+Should lead to: C: 20, H: 42, O: 1
+Molecule has been set to: cyclopentadec-5,11,14-triene
+---------------------------
+cyclopentadec-5,11,14-triene
+Should lead to: C: 15, H: 24
+Molecule has been set to: 7-[12-iodo-13-[2-methyl]pentyl]pentadecyltridecane
+---------------------------
+7-[12-iodo-13-[2-methyl]pentyl]pentadecyltridecane
+Should lead to: C: 34, H: 69, I: 1
+Molecule has been set to: 3-butyl-1,2-dichloro-6-dodecyl-7-heptadecyl-4-heptadecyl-5-hexyl-4-hexadecyl-2-iodo-3-pentadecyl-5-pentadecyl-6-phosphinooctan-1,8-diimine
+---------------------------
+3-butyl-1,2-dichloro-6-dodecyl-7-heptadecyl-4-heptadecyl-5-hexyl-4-hexadecyl-2-iodo-3-pentadecyl-5-pentadecyl-6-phosphinooctan-1,8-diimine
+Should lead to: C: 110, Cl: 2, H: 218, I: 1, N: 2, P: 1
+Molecule has been set to: 8-[9-methyl-11-tetradecyl]cyclotridecylnon-1,3,4,5-tetrayne
+---------------------------
+8-[9-methyl-11-tetradecyl]cyclotridecylnon-1,3,4,5-tetrayne
+Should lead to: C: 37, H: 58
+Molecule has been set to: 3-chloro-2-methylcyclopropan-1-arsine
+---------------------------
+3-chloro-2-methylcyclopropan-1-arsine
+Should lead to: As: 1, C: 4, Cl: 1, H: 8
+Molecule has been set to: 2-but-1,2-dienyl-6-cyclohexadecyl-7,11-diiodo-8-methyl-5-cyclononyl-3-octadec-5-enyl-2-cyclooctadecyl-7-prop-2-ynyl-9-tetradecyl-10-undecylcyclododec-1,4-diyne
+---------------------------
+2-but-1,2-dienyl-6-cyclohexadecyl-7,11-diiodo-8-methyl-5-cyclononyl-3-octadec-5-enyl-2-cyclooctadecyl-7-prop-2-ynyl-9-tetradecyl-10-undecylcyclododec-1,4-diyne
+Should lead to: C: 106, H: 186, I: 2
+Molecule has been set to: 7-nonadecyl-8-[2-[1-chloro]methyl-4-[9-nonadecyl]tridecyl]pentyl-6-[6-[2-nonyl]butyl-9-[3-nonyl-5-nonyl]hexyl]pentadecylnonane
+---------------------------
+7-nonadecyl-8-[2-[1-chloro]methyl-4-[9-nonadecyl]tridecyl]pentyl-6-[6-[2-nonyl]butyl-9-[3-nonyl-5-nonyl]hexyl]pentadecylnonane
+Should lead to: C: 118, Cl: 1, H: 237
+Molecule has been set to: 6-chloro-2,9,13,15-tetraiminohexadecan-1,16-diamide
+---------------------------
+6-chloro-2,9,13,15-tetraiminohexadecan-1,16-diamide
+Should lead to: C: 16, Cl: 1, H: 27, N: 6, O: 2
+Molecule has been set to: 9-dodecyl-7-ethyl-3,10-difluoro-6-hexyl-8-hexyl-5-hexadecyl-11-hexadecyl-7-hexadecyl-8-nonadecyl-4-octyl-6,12-diphenyl-5-propyltridecan-1,13-diimine
+---------------------------
+9-dodecyl-7-ethyl-3,10-difluoro-6-hexyl-8-hexyl-5-hexadecyl-11-hexadecyl-7-hexadecyl-8-nonadecyl-4-octyl-6,12-diphenyl-5-propyltridecan-1,13-diimine
+Should lead to: C: 129, F: 2, H: 240, N: 2
+Molecule has been set to: non-3,6-dien-1,9-diamide
+---------------------------
+non-3,6-dien-1,9-diamide
+Should lead to: C: 9, H: 14, N: 2, O: 2
+Molecule has been set to: 6-[4,7-dibromo-13-[4-cyclononadecyl]hexyl-10-undecyl]nonadecyl-4-[2-ethyl-8-ethyl]cyclotridecylcycloheptadecane
+---------------------------
+6-[4,7-dibromo-13-[4-cyclononadecyl]hexyl-10-undecyl]nonadecyl-4-[2-ethyl-8-ethyl]cyclotridecylcycloheptadecane
+Should lead to: Br: 2, C: 89, H: 172
+Molecule has been set to: 8,18-dibromo-16-ethyl-14-hexyl-11-hexadecyl-13-hydroxy-7-imino-6,17-dioxo-2,5,9,10,12,14-hexapentoxy-5,10,13,15,18-pentaphenyloctadecan-1-amide
+---------------------------
+8,18-dibromo-16-ethyl-14-hexyl-11-hexadecyl-13-hydroxy-7-imino-6,17-dioxo-2,5,9,10,12,14-hexapentoxy-5,10,13,15,18-pentaphenyloctadecan-1-amide
+Should lead to: Br: 2, C: 102, H: 158, N: 2, O: 10
+Molecule has been set to: 4,6,8,10,10-pentaiodo-5-cyclodec-3,5,8,9-tetraenoxydec-1,3,5,6-tetraen-1,8-dithiol
+---------------------------
+4,6,8,10,10-pentaiodo-5-cyclodec-3,5,8,9-tetraenoxydec-1,3,5,6-tetraen-1,8-dithiol
+Should lead to: C: 20, H: 19, I: 5, O: 1, S: 2
+Molecule has been set to: 2-chloro-5-cycloundecylcyclohex-1,2,3,5-tetraene
+---------------------------
+2-chloro-5-cycloundecylcyclohex-1,2,3,5-tetraene
+Should lead to: C: 17, Cl: 1, H: 23
+Molecule has been set to: 5-[dibutyl]amino-4,9,10-trichloro-4-dodecyl-2,7,11,12-tetrafluoro-5-hydroxy-12-nonadecyl-8-octadecyl-6-oxo-2,3,10,11-tetrahexoxytridecan-1,13-diamide
+---------------------------
+5-[dibutyl]amino-4,9,10-trichloro-4-dodecyl-2,7,11,12-tetrafluoro-5-hydroxy-12-nonadecyl-8-octadecyl-6-oxo-2,3,10,11-tetrahexoxytridecan-1,13-diamide
+Should lead to: C: 94, Cl: 3, F: 4, H: 180, N: 3, O: 8
+Molecule has been set to: 3-[5,8-difluoro-9-iodo]cyclotetradec-2,4,6,9,13-pentaenylhex-4,5-dien-1,2,2,4,6-pentathiol
+---------------------------
+3-[5,8-difluoro-9-iodo]cyclotetradec-2,4,6,9,13-pentaenylhex-4,5-dien-1,2,2,4,6-pentathiol
+Should lead to: C: 20, F: 2, H: 23, I: 1, S: 5
+Molecule has been set to: methyl[2,5,5-triarsino-7-fluoro-6-pentadecyl]nonylether
+---------------------------
+methyl[2,5,5-triarsino-7-fluoro-6-pentadecyl]nonylether
+Should lead to: As: 3, C: 25, F: 1, H: 54, O: 1
+Molecule has been set to: ethyl 2,4,6-tribromo-2,3,5-trifluoro-3-nonadecyl-7-pentyloctan-1,8-dioate
+---------------------------
+ethyl 2,4,6-tribromo-2,3,5-trifluoro-3-nonadecyl-7-pentyloctan-1,8-dioate
+Should lead to: Br: 3, C: 36, F: 3, H: 64, O: 4
+Molecule has been set to: 3-nonadecyl-2-pentyl-3-[8-methyl-9-[3-nonyl]undecyl]tridecyldodecane
+---------------------------
+3-nonadecyl-2-pentyl-3-[8-methyl-9-[3-nonyl]undecyl]tridecyldodecane
+Should lead to: C: 70, H: 142
+Molecule has been set to: 7-bromo-1,3,4,10,11,12-hexaiodoheptadecan-5,9-dione
+---------------------------
+7-bromo-1,3,4,10,11,12-hexaiodoheptadecan-5,9-dione
+Should lead to: Br: 1, C: 17, H: 25, I: 6, O: 2
+Molecule has been set to: 5-ethyl-11-hexyl-16-hexyl-13-hexadecyl-2,3,9,10,12,14,14-heptaiodo-6-nonyl-9-octadecyl-18-octadecyl-8-pentadecylnonadecane
+---------------------------
+5-ethyl-11-hexyl-16-hexyl-13-hexadecyl-2,3,9,10,12,14,14-heptaiodo-6-nonyl-9-octadecyl-18-octadecyl-8-pentadecylnonadecane
+Should lead to: C: 109, H: 213, I: 7
+Molecule has been set to: hex-4,5-diyne
+---------------------------
+hex-4,5-diyne
+Should lead to: C: 6, H: 6
+Molecule has been set to: 6-[[3,4,5,10-tetraphosphino]decyl[2-pentadecyl]propyl]amino-2,5,7-triimino-7-octadecoxycarbonylheptan-1-oic acid
+---------------------------
+6-[[3,4,5,10-tetraphosphino]decyl[2-pentadecyl]propyl]amino-2,5,7-triimino-7-octadecoxycarbonylheptan-1-oic acid
+Should lead to: C: 54, H: 108, N: 4, O: 4, P: 4
+Molecule has been set to: 2-dodecyl-2-tetradecylcyclopropanimine
+---------------------------
+2-dodecyl-2-tetradecylcyclopropanimine
+Should lead to: C: 29, H: 57, N: 1
+Molecule has been set to: [2-pentadecyl-3-[15-bromo-13-hexyl-5-iodo]pentadecyl]pentylphosphine
+---------------------------
+[2-pentadecyl-3-[15-bromo-13-hexyl-5-iodo]pentadecyl]pentylphosphine
+Should lead to: Br: 1, C: 41, H: 83, I: 1, P: 1
+Molecule has been set to: trimethylphosphine
+---------------------------
+trimethylphosphine
+Should lead to: C: 3, H: 9, P: 1
+Molecule has been set to: 2-arsino-4,5-dihydroxy-3,5,5-triiodopent-2,4-dien-1-oic acid
+---------------------------
+2-arsino-4,5-dihydroxy-3,5,5-triiodopent-2,4-dien-1-oic acid
+Should lead to: As: 1, C: 5, H: 4, I: 3, O: 4
+Molecule has been set to: cyclobutane
+---------------------------
+cyclobutane
+Should lead to: C: 4, H: 8
+Molecule has been set to: 6,6,8-trichloro-7-cyclohept-3,4,5-trienyl-16-oct-2,5,6,7-tetraenylcycloheptadec-2-yn-17-[[1,2,4,5,6-pentaarsino-5-chloro-4-pentadecyl]hexylmethyl]phosphine
+---------------------------
+6,6,8-trichloro-7-cyclohept-3,4,5-trienyl-16-oct-2,5,6,7-tetraenylcycloheptadec-2-yn-17-[[1,2,4,5,6-pentaarsino-5-chloro-4-pentadecyl]hexylmethyl]phosphine
+Should lead to: As: 5, C: 54, Cl: 4, H: 90, P: 1
+Molecule has been set to: 5-arsino-3,7,8,9,13-pentabromo-5-but-1,2-diynyl-10-but-2,3-diynyl-11-decyl-10-dodec-10-en-5,6,7,8,11-pentaynyl-4-cyclohept-2,6-diynyl-4-cyclohept-6-enyl-11-cycloheptadecyl-3-hexadec-1,3,6,10,15-pentaenyl-9-nonadecyl-7,8-dipropoxy-13-[dicyclonon-4-en-2-ynyl]phosphino-6-propynyl-6-tetradecyl-2-undecylcyclotridec-12-yn-1-imine
+---------------------------
+5-arsino-3,7,8,9,13-pentabromo-5-but-1,2-diynyl-10-but-2,3-diynyl-11-decyl-10-dodec-10-en-5,6,7,8,11-pentaynyl-4-cyclohept-2,6-diynyl-4-cyclohept-6-enyl-11-cycloheptadecyl-3-hexadec-1,3,6,10,15-pentaenyl-9-nonadecyl-7,8-dipropoxy-13-[dicyclonon-4-en-2-ynyl]phosphino-6-propynyl-6-tetradecyl-2-undecylcyclotridec-12-yn-1-imine
+Should lead to: As: 1, Br: 5, C: 161, H: 230, N: 1, O: 2, P: 1
+Molecule has been set to: pentadecan-3,6,8,11,12-pentaone
+---------------------------
+pentadecan-3,6,8,11,12-pentaone
+Should lead to: C: 15, H: 22, O: 5
+Molecule has been set to: decan-6-thiol
+---------------------------
+decan-6-thiol
+Should lead to: C: 10, H: 22, S: 1
+Molecule has been set to: 2,6-diamino-4-[pentyl]arsino-5-oxo-6,7,7-triphenyloctan-1,8-dioic acid
+---------------------------
+2,6-diamino-4-[pentyl]arsino-5-oxo-6,7,7-triphenyloctan-1,8-dioic acid
+Should lead to: As: 1, C: 31, H: 37, N: 2, O: 5
+Molecule has been set to: 2-[4-non-1,3-dienyl-7-[10-decyl]cyclononadec-2,3,4,16,17-pentaen-5,6,12,13,18-pentaynyl]nonadec-4-en-2,5,13,18-tetraynylbut-3-yne
+---------------------------
+2-[4-non-1,3-dienyl-7-[10-decyl]cyclononadec-2,3,4,16,17-pentaen-5,6,12,13,18-pentaynyl]nonadec-4-en-2,5,13,18-tetraynylbut-3-yne
+Should lead to: C: 61, H: 66
+Molecule has been set to: dodec-1,2,4-triyn-9,12-diol
+---------------------------
+dodec-1,2,4-triyn-9,12-diol
+Should lead to: C: 12, H: 14, O: 2
+Molecule has been set to: 2-ethyl-4-iminobutan-3-ol
+---------------------------
+2-ethyl-4-iminobutan-3-ol
+Should lead to: C: 6, H: 13, N: 1, O: 1
+Molecule has been set to: tri[3-[4-butyl]heptadecyl-5-[13-chloro-1,9,9-trifluoro]heptadecyl]hexylarsine
+---------------------------
+tri[3-[4-butyl]heptadecyl-5-[13-chloro-1,9,9-trifluoro]heptadecyl]hexylarsine
+Should lead to: As: 1, C: 132, Cl: 3, F: 9, H: 255
+Molecule has been set to: [1-amido-10-[nonylpropyl]amino-6-phenyl]hexadecyl propan-1-oate
+---------------------------
+[1-amido-10-[nonylpropyl]amino-6-phenyl]hexadecyl propan-1-oate
+Should lead to: C: 37, H: 66, N: 2, O: 3
+Molecule has been set to: dodec-10-yne
+---------------------------
+dodec-10-yne
+Should lead to: C: 12, H: 22
+Molecule has been set to: di[3-octadecyl]butylether
+---------------------------
+di[3-octadecyl]butylether
+Should lead to: C: 44, H: 90, O: 1
+Molecule has been set to: propan-1,2,2,3-tetra[[2-[[di[4-[bromo-2-iodo]ethyl-3,3,5,5-tetra[3,7-difluoro]nonoxy-2-[1,3-diphosphino]propyl]hexyl]phosphino]octyl]butyl]amine
+---------------------------
+propan-1,2,2,3-tetra[[2-[[di[4-[bromo-2-iodo]ethyl-3,3,5,5-tetra[3,7-difluoro]nonoxy-2-[1,3-diphosphino]propyl]hexyl]phosphino]octyl]butyl]amine
+Should lead to: Br: 8, C: 427, F: 64, H: 800, I: 8, N: 4, O: 32, P: 20
+Molecule has been set to: 8-[tetradecyl]arsino-11,15-dibromo-6,7,10,11,13-pentachloro-15-fluoro-7-hydroxy-2,4,5,9,12,14-hexaimino-3-methyl-8-nonadecyl-3,13-didecoxy-10-pentylhexadecan-1,16-diamide
+---------------------------
+8-[tetradecyl]arsino-11,15-dibromo-6,7,10,11,13-pentachloro-15-fluoro-7-hydroxy-2,4,5,9,12,14-hexaimino-3-methyl-8-nonadecyl-3,13-didecoxy-10-pentylhexadecan-1,16-diamide
+Should lead to: As: 1, Br: 2, C: 75, Cl: 5, F: 1, H: 137, N: 8, O: 5
+Molecule has been set to: 17-imino-5-[2-chloro-3-pentadecyl]cyclobutoxy-12-pentadecylcyclooctadecan-1,12,18-triol
+---------------------------
+17-imino-5-[2-chloro-3-pentadecyl]cyclobutoxy-12-pentadecylcyclooctadecan-1,12,18-triol
+Should lead to: C: 52, Cl: 1, H: 100, N: 1, O: 4
+Molecule has been set to: 8-methylcycloundecan-1,11-diimine
+---------------------------
+8-methylcycloundecan-1,11-diimine
+Should lead to: C: 12, H: 22, N: 2
+Molecule has been set to: 2-heptadecyliodo-3-cyclononadecyl-4-propyl-4-cyclotridecylcycloheptane
+---------------------------
+2-heptadecyliodo-3-cyclononadecyl-4-propyl-4-cyclotridecylcycloheptane
+Should lead to: C: 59, H: 113, I: 1
+Molecule has been set to: [2,10-di[nonadecyloctyl]arsino-3,9-dichloro]decyldecyl[7-[1,3,4-tribromo-4-iodo-2-tridecyl]butyl-1,2,6-trifluoro-9-hexyl]undecylphosphine
+---------------------------
+[2,10-di[nonadecyloctyl]arsino-3,9-dichloro]decyldecyl[7-[1,3,4-tribromo-4-iodo-2-tridecyl]butyl-1,2,6-trifluoro-9-hexyl]undecylphosphine
+Should lead to: As: 2, Br: 3, C: 108, Cl: 2, F: 3, H: 212, I: 1, P: 1
+Molecule has been set to: [1-amido-11-bromo-6,11-dihydroxy]pentadecyl pentan-1,5-dioate
+---------------------------
+[1-amido-11-bromo-6,11-dihydroxy]pentadecyl pentan-1,5-dioate
+Should lead to: Br: 2, C: 35, H: 64, N: 2, O: 10
+Molecule has been set to: heptadecyl 17-amido-8-[dicyclobut-2,3-dienyl]amino-10-[cyclododecylcyclotridecyl]arsino-13,14-dibromo-10-chloro-12-cyclododec-1,4,5,9-tetraenyl-17-formyl-13,17-dihydroxy-7-imino-2,12,14-triiodo-3-mercapto-2-methyl-4,5,16-trioxo-15-phenyl-9-[tetradecyl]phosphinoheptadec-3,8,15-trien-6,11-diyn-1-oate
+---------------------------
+heptadecyl 17-amido-8-[dicyclobut-2,3-dienyl]amino-10-[cyclododecylcyclotridecyl]arsino-13,14-dibromo-10-chloro-12-cyclododec-1,4,5,9-tetraenyl-17-formyl-13,17-dihydroxy-7-imino-2,12,14-triiodo-3-mercapto-2-methyl-4,5,16-trioxo-15-phenyl-9-[tetradecyl]phosphinoheptadec-3,8,15-trien-6,11-diyn-1-oate
+Should lead to: As: 1, Br: 2, C: 101, Cl: 1, H: 141, I: 3, N: 3, O: 9, P: 1, S: 1
+Molecule has been set to: cyclodecan-1,10-diimine
+---------------------------
+cyclodecan-1,10-diimine
+Should lead to: C: 10, H: 18, N: 2
+Molecule has been set to: [5-fluoro]pentyl nonan-1-oate
+---------------------------
+[5-fluoro]pentyl nonan-1-oate
+Should lead to: C: 14, F: 1, H: 27, O: 2
+Molecule has been set to: 9,17-diamino-5-bromo-16,19-difluoro-16-heptadecyl-5,13-diiodo-18-mercapto-11-nonyl-4-octyl-12,14,15-triphenyl-2-phosphinocyclononadecan-2-ol
+---------------------------
+9,17-diamino-5-bromo-16,19-difluoro-16-heptadecyl-5,13-diiodo-18-mercapto-11-nonyl-4-octyl-12,14,15-triphenyl-2-phosphinocyclononadecan-2-ol
+Should lead to: Br: 1, C: 71, F: 2, H: 116, I: 2, N: 2, O: 1, P: 1, S: 1
+Molecule has been set to: heptadecan-1,17-diamide
+---------------------------
+heptadecan-1,17-diamide
+Should lead to: C: 17, H: 34, N: 2, O: 2
+Molecule has been set to: tetradec-5,8,11-trienoic acid
+---------------------------
+tetradec-5,8,11-trienoic acid
+Should lead to: C: 14, H: 22, O: 2
+Molecule has been set to: cyclodecane
+---------------------------
+cyclodecane
+Should lead to: C: 10, H: 20
+Molecule has been set to: [bromo-2-nonyl-2-tridecyl]pentylphosphine
+---------------------------
+[bromo-2-nonyl-2-tridecyl]pentylphosphine
+Should lead to: Br: 1, C: 27, H: 56, P: 1
+Molecule has been set to: tri[7-methyl-9-[7-chloro-2-hexyl-8-pentadecyl]tetradecyl]undecylphosphine
+---------------------------
+tri[7-methyl-9-[7-chloro-2-hexyl-8-pentadecyl]tetradecyl]undecylphosphine
+Should lead to: C: 141, Cl: 3, H: 282, P: 1
+Molecule has been set to: 5,6,8,8,11-pentaarsino-1,2,2,13-tetrabromo-10-butyl-4-ethyl-3,11-difluoro-12-hexyl-3-nonadecyl-5-octadecyl-9-tetradecyl-10-undecyltridecan-1,13-diimine
+---------------------------
+5,6,8,8,11-pentaarsino-1,2,2,13-tetrabromo-10-butyl-4-ethyl-3,11-difluoro-12-hexyl-3-nonadecyl-5-octadecyl-9-tetradecyl-10-undecyltridecan-1,13-diimine
+Should lead to: As: 5, Br: 4, C: 87, F: 2, H: 173, N: 2
+Molecule has been set to: [2-[2,3,5-tri[[13-[3-[14-nonyl-15-[di[3-[decylnonadecyl]arsino-3-bromo-2-[8-[4-[8,9-dichloro-4-[6-ethyl-3,6,7-triiodo]heptyl]hexadecyl-7-pentadecyl]decyl-12-[6-[5-heptyl-4,6-diiodo-1,2,5,6,6-pentaphenyl]hexyl]octyl-10-octadecyl]heptadecyl]propyl]phosphino]pentadecyl]butyl-2,5,8,13-tetra[[9-fluoro-6-nonyl-3-phenyl]nonylundecyl]phosphino]tetradecyl]arsino-4-fluoro-4-undecyl]pentyl]propyl[11-[3,5-diphosphino]heptyl]tridecylether
+---------------------------
+[2-[2,3,5-tri[[13-[3-[14-nonyl-15-[di[3-[decylnonadecyl]arsino-3-bromo-2-[8-[4-[8,9-dichloro-4-[6-ethyl-3,6,7-triiodo]heptyl]hexadecyl-7-pentadecyl]decyl-12-[6-[5-heptyl-4,6-diiodo-1,2,5,6,6-pentaphenyl]hexyl]octyl-10-octadecyl]heptadecyl]propyl]phosphino]pentadecyl]butyl-2,5,8,13-tetra[[9-fluoro-6-nonyl-3-phenyl]nonylundecyl]phosphino]tetradecyl]arsino-4-fluoro-4-undecyl]pentyl]propyl[11-[3,5-diphosphino]heptyl]tridecylether
+Should lead to: As: 9, Br: 6, C: 1593, Cl: 12, F: 13, H: 2817, I: 30, O: 1, P: 17
+Molecule has been set to: 5,6-di[3,12-di[ditetradec-2,5,11-trienyl]arsino-2,5,17,19-tetrabromo-14-cyclopentyl]cyclononadec-2,5,9,17-tetraenoxyhept-3,5-dien-1,7-diimine
+---------------------------
+5,6-di[3,12-di[ditetradec-2,5,11-trienyl]arsino-2,5,17,19-tetrabromo-14-cyclopentyl]cyclononadec-2,5,9,17-tetraenoxyhept-3,5-dien-1,7-diimine
+Should lead to: As: 4, Br: 8, C: 167, H: 254, N: 2, O: 2
+Molecule has been set to: 1,4,5,9-tetrabromo-8-butyl-3-cyclobutyl-7-ethyl-7-cyclononadecyl-4-nonadecyl-2-octyl-6-octadecyl-6-pentyl-3-pentadecyl-9-propyl-5-tetradecyl-8-undecyl-2-undecylcyclodecane
+---------------------------
+1,4,5,9-tetrabromo-8-butyl-3-cyclobutyl-7-ethyl-7-cyclononadecyl-4-nonadecyl-2-octyl-6-octadecyl-6-pentyl-3-pentadecyl-9-propyl-5-tetradecyl-8-undecyl-2-undecylcyclodecane
+Should lead to: Br: 4, C: 143, H: 278
+Molecule has been set to: tetradec-1,2,3,4,13-pentayn-9-ol
+---------------------------
+tetradec-1,2,3,4,13-pentayn-9-ol
+Should lead to: C: 14, H: 10, O: 1
+Molecule has been set to: 5-[1,4-difluoro]pentylcyclonon-1,2,3,7-tetraen-1,3,4,6,9-penta[di[7-chloro]pentadecyl]amine
+---------------------------
+5-[1,4-difluoro]pentylcyclonon-1,2,3,7-tetraen-1,3,4,6,9-penta[di[7-chloro]pentadecyl]amine
+Should lead to: C: 164, Cl: 10, F: 2, H: 313, N: 5
+Molecule has been set to: 3,4,10,17-tetrachloro-15-decyl-2-heptyl-6-hept-1,3,4,5,6-pentaenyl-4-hexadecyl-8-iodo-6-non-7-en-8-ynyl-8-nonadecyl-13-oct-7-enyl-10-octadec-14-enyl-5-pent-1-ynyl-3-cyclopentadecyl-2-pentadecyl-5-pentadecyl-15-tetradecyl-13-cyclotetradecyl-9-tridecyl-9-tridecylheptadec-7,11,12,14,16-pentayne
+---------------------------
+3,4,10,17-tetrachloro-15-decyl-2-heptyl-6-hept-1,3,4,5,6-pentaenyl-4-hexadecyl-8-iodo-6-non-7-en-8-ynyl-8-nonadecyl-13-oct-7-enyl-10-octadec-14-enyl-5-pent-1-ynyl-3-cyclopentadecyl-2-pentadecyl-5-pentadecyl-15-tetradecyl-13-cyclotetradecyl-9-tridecyl-9-tridecylheptadec-7,11,12,14,16-pentayne
+Should lead to: C: 215, Cl: 4, H: 379, I: 1
+Molecule has been set to: 6-[2-cyclododec-4,6,11-trienyl]but-3-ynyltetradec-8-yne
+---------------------------
+6-[2-cyclododec-4,6,11-trienyl]but-3-ynyltetradec-8-yne
+Should lead to: C: 30, H: 46
+Molecule has been set to: 6-[11-bromo]nonadecyl-5-[9-bromo-4-[6-dec-2,5,8-trienyl-7-hexadecyl]decyl]tridecyldec-2-ene
+---------------------------
+6-[11-bromo]nonadecyl-5-[9-bromo-4-[6-dec-2,5,8-trienyl-7-hexadecyl]decyl]tridecyldec-2-ene
+Should lead to: Br: 2, C: 78, H: 148
+Molecule has been set to: propylarsine
+---------------------------
+propylarsine
+Should lead to: As: 1, C: 3, H: 9
+Molecule has been set to: 2-phenylethan-1-oic acid
+---------------------------
+2-phenylethan-1-oic acid
+Should lead to: C: 8, H: 8, O: 2
+Molecule has been set to: 3-ethyl-13-nonyl-12-[7-tetradecyl]octylhexadecane
+---------------------------
+3-ethyl-13-nonyl-12-[7-tetradecyl]octylhexadecane
+Should lead to: C: 49, H: 100
+Molecule has been set to: 1,1,5,6,7,9,14-heptabromo-12-butyl-3,4,6,7,9,14-hexachloro-5-dodecyl-13-dodecyl-11-heptyl-14-iodo-3-methyl-12-nonyl-8-nonyl-2-nonyl-11-nonadecyl-10-octyl-8-octadecyl-13-octadecyl-2-pentyl-10-propyl-4-undecyltetradecane
+---------------------------
+1,1,5,6,7,9,14-heptabromo-12-butyl-3,4,6,7,9,14-hexachloro-5-dodecyl-13-dodecyl-11-heptyl-14-iodo-3-methyl-12-nonyl-8-nonyl-2-nonyl-11-nonadecyl-10-octyl-8-octadecyl-13-octadecyl-2-pentyl-10-propyl-4-undecyltetradecane
+Should lead to: Br: 7, C: 159, Cl: 6, H: 306, I: 1
+Molecule has been set to: cyclooctadecane
+---------------------------
+cyclooctadecane
+Should lead to: C: 18, H: 36
+Molecule has been set to: [9,12-di[pentyl]arsino-2,3,4,7-tetramercapto-1,6,12-trioxo]dodecyl 2,9,13,14-tetramercaptononadec-4,16-diyn-1,19-dioate
+---------------------------
+[9,12-di[pentyl]arsino-2,3,4,7-tetramercapto-1,6,12-trioxo]dodecyl 2,9,13,14-tetramercaptononadec-4,16-diyn-1,19-dioate
+Should lead to: As: 4, C: 63, H: 108, O: 10, S: 12
+Molecule has been set to: 5,8-dichloro-10-hept-1,2,3,4-tetraenyl-7-hexyl-1,9,11-triiodo-3-nonadec-1,2,3,14,18-pentaynyl-12-cyclooctadecyl-4-prop-2-enyl-8-undec-2,5,8,9,10-pentaynylcyclotridec-4,5,9,12-tetraen-2-yne
+---------------------------
+5,8-dichloro-10-hept-1,2,3,4-tetraenyl-7-hexyl-1,9,11-triiodo-3-nonadec-1,2,3,14,18-pentaynyl-12-cyclooctadecyl-4-prop-2-enyl-8-undec-2,5,8,9,10-pentaynylcyclotridec-4,5,9,12-tetraen-2-yne
+Should lead to: C: 77, Cl: 2, H: 85, I: 3
+Molecule has been set to: octadec-8,15,17-triene
+---------------------------
+octadec-8,15,17-triene
+Should lead to: C: 18, H: 32
+Molecule has been set to: 4,6,17-triiodononadecan-1,19-diimine
+---------------------------
+4,6,17-triiodononadecan-1,19-diimine
+Should lead to: C: 19, H: 35, I: 3, N: 2
+Molecule has been set to: 3-chloro-3-ethyl-2,7-diimino-6-iodo-5-mercaptooct-4,6-dien-1,8-dial
+---------------------------
+3-chloro-3-ethyl-2,7-diimino-6-iodo-5-mercaptooct-4,6-dien-1,8-dial
+Should lead to: C: 10, Cl: 1, H: 10, I: 1, N: 2, O: 2, S: 1
+Molecule has been set to: dioctylether
+---------------------------
+dioctylether
+Should lead to: C: 16, H: 34, O: 1
+Molecule has been set to: 5-nonadecylcycloheptadecane
+---------------------------
+5-nonadecylcycloheptadecane
+Should lead to: C: 36, H: 72
+Molecule has been set to: 1,12-dibromo-11-butyl-2-decyl-4-hex-1,3-dienyl-2,7-diiodo-9-methyl-8-cyclononadecyl-10-pentadecyl-10-pentadecyl-6-propyl-9-tetradecyl-7-tridecylcyclododec-1,5,8,11-tetraen-3,3,4-tri[hexyl]arsine
+---------------------------
+1,12-dibromo-11-butyl-2-decyl-4-hex-1,3-dienyl-2,7-diiodo-9-methyl-8-cyclononadecyl-10-pentadecyl-10-pentadecyl-6-propyl-9-tetradecyl-7-tridecylcyclododec-1,5,8,11-tetraen-3,3,4-tri[hexyl]arsine
+Should lead to: As: 3, Br: 2, C: 130, H: 245, I: 2
+Molecule has been set to: decane
+---------------------------
+decane
+Should lead to: C: 10, H: 22
+Molecule has been set to: 2,6-dibromo-9-[4-[13-undecyl]hexadecyl]pentyl-11-[2-[5-hexyl]nonyl-4-[10-ethyl-3-methyl]tetradecyl]pentyltetradecane
+---------------------------
+2,6-dibromo-9-[4-[13-undecyl]hexadecyl]pentyl-11-[2-[5-hexyl]nonyl-4-[10-ethyl-3-methyl]tetradecyl]pentyltetradecane
+Should lead to: Br: 2, C: 83, H: 166
+Molecule has been set to: ethan-1-imine
+---------------------------
+ethan-1-imine
+Should lead to: C: 2, H: 5, N: 1
+Molecule has been set to: di[4,9,10-triphenyl]decylether
+---------------------------
+di[4,9,10-triphenyl]decylether
+Should lead to: C: 56, H: 66, O: 1
+Molecule has been set to: tetradecan-1,14-diamide
+---------------------------
+tetradecan-1,14-diamide
+Should lead to: C: 14, H: 28, N: 2, O: 2
+Molecule has been set to: heptadecane
+---------------------------
+heptadecane
+Should lead to: C: 17, H: 36
+Molecule has been set to: 9-propyl-3-[2-heptadecyl-2-undecyl]propylundecan-1,4-dithiol
+---------------------------
+9-propyl-3-[2-heptadecyl-2-undecyl]propylundecan-1,4-dithiol
+Should lead to: C: 45, H: 92, S: 2
+Molecule has been set to: 1,5-diiodohexan-3-one
+---------------------------
+1,5-diiodohexan-3-one
+Should lead to: C: 6, H: 10, I: 2, O: 1
+Molecule has been set to: 2-undecylcyclopropan-1,2,3-tri[nonyl]arsine
+---------------------------
+2-undecylcyclopropan-1,2,3-tri[nonyl]arsine
+Should lead to: As: 3, C: 41, H: 85
+Molecule has been set to: 2-heptadecyl-1-iodo-2-[2-nonadecyl]pentadecylcyclopropane
+---------------------------
+2-heptadecyl-1-iodo-2-[2-nonadecyl]pentadecylcyclopropane
+Should lead to: C: 54, H: 107, I: 1
+Molecule has been set to: hept-2,4-diyne
+---------------------------
+hept-2,4-diyne
+Should lead to: C: 7, H: 8
+Molecule has been set to: nonadecylamine
+---------------------------
+nonadecylamine
+Should lead to: C: 19, H: 41, N: 1
+Molecule has been set to: ethan-1-imine
+---------------------------
+ethan-1-imine
+Should lead to: C: 2, H: 5, N: 1
+Molecule has been set to: [4-[hexadecyloctyl]phosphino]butyl[4,7-dichloro-6-[11-nonadecyl]nonadecyl-4,10-di[hexadecyl]phosphino]dodecylether
+---------------------------
+[4-[hexadecyloctyl]phosphino]butyl[4,7-dichloro-6-[11-nonadecyl]nonadecyl-4,10-di[hexadecyl]phosphino]dodecylether
+Should lead to: C: 110, Cl: 2, H: 223, O: 1, P: 3
+Molecule has been set to: 2,10,15-tri[dibutyl]amino-11-[didecyl]arsino-4-fluoro-9,13-dihydroxy-7,14-diiodo-7,10-dipentoxypentadec-1,5,6,12-tetrayn-3-one
+---------------------------
+2,10,15-tri[dibutyl]amino-11-[didecyl]arsino-4-fluoro-9,13-dihydroxy-7,14-diiodo-7,10-dipentoxypentadec-1,5,6,12-tetrayn-3-one
+Should lead to: As: 1, C: 69, F: 1, H: 123, I: 2, N: 3, O: 5
+Molecule has been set to: 1-iodo-11-[5,6,10,17-tetrachloro-16-cyclotridec-5,7-dien-2,8,11-triynyl]cyclononadec-15-ynyl-15-[7-[6-bromo-7-pent-1,3-dienyl-1,8,12-tri[dipentadec-1,8,12-trienyl]phosphino]dodecyl]octadecylcycloheptadec-6,9,14,16-tetrayn-2,3,5,5-tetrathiol
+---------------------------
+1-iodo-11-[5,6,10,17-tetrachloro-16-cyclotridec-5,7-dien-2,8,11-triynyl]cyclononadec-15-ynyl-15-[7-[6-bromo-7-pent-1,3-dienyl-1,8,12-tri[dipentadec-1,8,12-trienyl]phosphino]dodecyl]octadecylcycloheptadec-6,9,14,16-tetrayn-2,3,5,5-tetrathiol
+Should lead to: Br: 1, C: 174, Cl: 4, H: 265, I: 1, P: 3, S: 4
+Molecule has been set to: 4-[2-[7-hexadec-10,11,13,15-tetraenyl]pentadecyl-2-[12-dec-1,2,4,5,8-pentaenyl]pentadecyl]propyl-3-[2-[4-ethyl-3-hexadecyl]pent-1,2,4-trienyl-2-prop-2-ynyl]propylcyclonon-2,8-diyne
+---------------------------
+4-[2-[7-hexadec-10,11,13,15-tetraenyl]pentadecyl-2-[12-dec-1,2,4,5,8-pentaenyl]pentadecyl]propyl-3-[2-[4-ethyl-3-hexadecyl]pent-1,2,4-trienyl-2-prop-2-ynyl]propylcyclonon-2,8-diyne
+Should lead to: C: 97, H: 158
+Molecule has been set to: 1,3-dichloro-4-cyclododecyl-2-tetradec-4,13-dienylhex-1,3,4,5-tetraene
+---------------------------
+1,3-dichloro-4-cyclododecyl-2-tetradec-4,13-dienylhex-1,3,4,5-tetraene
+Should lead to: C: 32, Cl: 2, H: 50
+Molecule has been set to: cyclopent-2-yne
+---------------------------
+cyclopent-2-yne
+Should lead to: C: 5, H: 6
+Molecule has been set to: ethanol
+---------------------------
+ethanol
+Should lead to: C: 2, H: 6, O: 1
+Molecule has been set to: 2-methyl-3-nonadecylcyclopentanimine
+---------------------------
+2-methyl-3-nonadecylcyclopentanimine
+Should lead to: C: 25, H: 49, N: 1
+Molecule has been set to: 1,12-dichloro-3-[1,6,8-trifluoro]octyldodecan-2,6,7-trithiol
+---------------------------
+1,12-dichloro-3-[1,6,8-trifluoro]octyldodecan-2,6,7-trithiol
+Should lead to: C: 20, Cl: 2, F: 3, H: 37, S: 3
+Molecule has been set to: 6-propylcyclohexadecane
+---------------------------
+6-propylcyclohexadecane
+Should lead to: C: 19, H: 38
+Molecule has been set to: butylethylphosphine
+---------------------------
+butylethylphosphine
+Should lead to: C: 6, H: 15, P: 1
+Molecule has been set to: 5,6,7,8-tetraoxononan-1-al
+---------------------------
+5,6,7,8-tetraoxononan-1-al
+Should lead to: C: 9, H: 10, O: 5
+Molecule has been set to: 8,11,12,17-tetrafluorocyclooctadec-3,5-diyn-1,18-diimine
+---------------------------
+8,11,12,17-tetrafluorocyclooctadec-3,5-diyn-1,18-diimine
+Should lead to: C: 18, F: 4, H: 22, N: 2
+Molecule has been set to: 4-arsino-6-chloro-6-heptyl-2,7-diimino-7-iodo-3,4,5-trihexoxy-3-pentadecylheptan-1-al
+---------------------------
+4-arsino-6-chloro-6-heptyl-2,7-diimino-7-iodo-3,4,5-trihexoxy-3-pentadecylheptan-1-al
+Should lead to: As: 1, C: 47, Cl: 1, H: 91, I: 1, N: 2, O: 4
+Molecule has been set to: nonadecylditetradecylarsine
+---------------------------
+nonadecylditetradecylarsine
+Should lead to: As: 1, C: 47, H: 97
+Molecule has been set to: 4-[3-[1,3,3,4,5-pentaamino-2-hexadecyl-2,6,6-triiodo]hexyl-10-[diheptadecyl]phosphino-6-undecyl]heptadecyl-3-[5,9,10-triarsino-2-[10-chloro-5,9-diimino]cyclodecyl-9-fluoro]nonadecylcyclopentadecan-5,7,11,15-tetrathiol
+---------------------------
+4-[3-[1,3,3,4,5-pentaamino-2-hexadecyl-2,6,6-triiodo]hexyl-10-[diheptadecyl]phosphino-6-undecyl]heptadecyl-3-[5,9,10-triarsino-2-[10-chloro-5,9-diimino]cyclodecyl-9-fluoro]nonadecylcyclopentadecan-5,7,11,15-tetrathiol
+Should lead to: As: 3, C: 128, Cl: 1, F: 1, H: 256, I: 3, N: 7, P: 1, S: 4
+Molecule has been set to: 6,12,17-tri[undec-7,8-dienynyl]amino-4-chloro-7,8,9,10,11,13,14-heptafluoro-17-hexadec-4,9,10-trien-11,13,14-triynyl-10-iodo-7-mercapto-2,3-dioxo-4,6,11,16-tetrahex-3-ynoxyoctadec-5,15-diyn-1,18-diamide
+---------------------------
+6,12,17-tri[undec-7,8-dienynyl]amino-4-chloro-7,8,9,10,11,13,14-heptafluoro-17-hexadec-4,9,10-trien-11,13,14-triynyl-10-iodo-7-mercapto-2,3-dioxo-4,6,11,16-tetrahex-3-ynoxyoctadec-5,15-diyn-1,18-diamide
+Should lead to: C: 91, Cl: 1, F: 7, H: 106, I: 1, N: 5, O: 8, S: 1

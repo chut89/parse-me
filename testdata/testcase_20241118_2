@@ -1,0 +1,1617 @@
+Molecule has been set to: 4-ethyl-2-heptyl-3-cycloheptadecyl-2-octadecylcyclohexan-1,6-diimine
+---------------------------
+4-ethyl-2-heptyl-3-cycloheptadecyl-2-octadecylcyclohexan-1,6-diimine
+Should lead to: C: 50, H: 96, N: 2
+Molecule has been set to: ethane
+---------------------------
+ethane
+Should lead to: C: 2, H: 6
+Molecule has been set to: 7,8,13,14,16-pentafluoro-15-[10-bromo-2,3,5,9,19-pentachloro-8-undecyl]nonadecylheptadecan-1,17-dial
+---------------------------
+7,8,13,14,16-pentafluoro-15-[10-bromo-2,3,5,9,19-pentachloro-8-undecyl]nonadecylheptadecan-1,17-dial
+Should lead to: Br: 1, C: 47, Cl: 5, F: 5, H: 81, O: 2
+Molecule has been set to: heptadecyl 12,12-di[dicycloheptadecyl]amino-7-[ethyl]arsino-10,11,13,13-tetrachloro-5,7,9-trifluoro-3,6,8-triimino-9,11-diiodo-5-mercapto-4-oxotetradec-2-yn-1,14-dioate
+---------------------------
+heptadecyl 12,12-di[dicycloheptadecyl]amino-7-[ethyl]arsino-10,11,13,13-tetrachloro-5,7,9-trifluoro-3,6,8-triimino-9,11-diiodo-5-mercapto-4-oxotetradec-2-yn-1,14-dioate
+Should lead to: As: 1, C: 118, Cl: 4, F: 3, H: 211, I: 2, N: 5, O: 5, S: 1
+Molecule has been set to: cyclobutan-1,1,2,2,3-pentaarsine
+---------------------------
+cyclobutan-1,1,2,2,3-pentaarsine
+Should lead to: As: 5, C: 4, H: 13
+Molecule has been set to: 1,15-dichloro-10-[1,1,2,6,6-penta[pentyl]arsino-3-imino-4,4-diphenyl]hexyl-6-hexadecylpentadec-2,4,11,13-tetraen-1,5,12-trithiol
+---------------------------
+1,15-dichloro-10-[1,1,2,6,6-penta[pentyl]arsino-3-imino-4,4-diphenyl]hexyl-6-hexadecylpentadec-2,4,11,13-tetraen-1,5,12-trithiol
+Should lead to: As: 5, C: 74, Cl: 2, H: 128, N: 1, S: 3
+Molecule has been set to: 3-pent-4-ynylbut-2-yn-1,4-diimine
+---------------------------
+3-pent-4-ynylbut-2-yn-1,4-diimine
+Should lead to: C: 9, H: 10, N: 2
+Molecule has been set to: [1-formyl-3-ethoxy]hexyl octan-1,8-dioate
+---------------------------
+[1-formyl-3-ethoxy]hexyl octan-1,8-dioate
+Should lead to: C: 26, H: 46, O: 8
+Molecule has been set to: ethyne
+---------------------------
+ethyne
+Should lead to: C: 2, H: 2
+Molecule has been set to: 2-but-1,2,3-trienyl-6-dodec-6-ynyl-3-dodecyl-5-heptadecyl-2-hexyl-5,7,7,9,13,13-hexaiodo-8-methyl-3,6,8,10,16-penta[hexyltetradecyl]phosphino-10-tetradecyl-16-tetradecylcycloheptadec-4,11,12,14,15-pentayn-1,17-diimine
+---------------------------
+2-but-1,2,3-trienyl-6-dodec-6-ynyl-3-dodecyl-5-heptadecyl-2-hexyl-5,7,7,9,13,13-hexaiodo-8-methyl-3,6,8,10,16-penta[hexyltetradecyl]phosphino-10-tetradecyl-16-tetradecylcycloheptadec-4,11,12,14,15-pentayn-1,17-diimine
+Should lead to: C: 197, H: 361, I: 6, N: 2, P: 5
+Molecule has been set to: octyl octan-1,8-dioate
+---------------------------
+octyl octan-1,8-dioate
+Should lead to: C: 24, H: 46, O: 4
+Molecule has been set to: prop-1,2-diyne
+---------------------------
+prop-1,2-diyne
+Should lead to: C: 3
+Molecule has been set to: 9-[butyl]amino-1,6,8,16,17-penta[octyl]arsino-11-butyl-5,12,13-trichloro-11-decyl-4-fluoro-2-heptadecyl-13-hexyl-8-hexyl-7-hexadecyl-15-iminoiodo-3-nonyl-3-nonyl-14-nonadecyl-6-nonadecyl-16-nonadecyl-10-methoxy-9-pentyl-18-phenyl-12-[dioctadecyl]phosphino-17-propyl-4-propyl-14-tetradecyl-2-tetradecyl-5-tridecyl-10-tridecyl-7-undecyloctadecanthiol
+---------------------------
+9-[butyl]amino-1,6,8,16,17-penta[octyl]arsino-11-butyl-5,12,13-trichloro-11-decyl-4-fluoro-2-heptadecyl-13-hexyl-8-hexyl-7-hexadecyl-15-iminoiodo-3-nonyl-3-nonyl-14-nonadecyl-6-nonadecyl-16-nonadecyl-10-methoxy-9-pentyl-18-phenyl-12-[dioctadecyl]phosphino-17-propyl-4-propyl-14-tetradecyl-2-tetradecyl-5-tridecyl-10-tridecyl-7-undecyloctadecanthiol
+Should lead to: As: 5, C: 315, Cl: 3, F: 1, H: 625, I: 1, N: 2, O: 1, P: 1, S: 1
+Molecule has been set to: dodec-3,7,8-trien-1-amide
+---------------------------
+dodec-3,7,8-trien-1-amide
+Should lead to: C: 12, H: 19, N: 1, O: 1
+Molecule has been set to: 2-mercaptoeth-1-yn-1-ol
+---------------------------
+2-mercaptoeth-1-yn-1-ol
+Should lead to: C: 2, H: 2, O: 1, S: 1
+Molecule has been set to: 14-[tridecyl]amino-5,8-di[cyclononyltetradec-6,7,9,10,13-pentaenyl]arsino-11-chloro-14-formyl-7-hex-1-enyl-6,8,9-trihydroxy-3-imino-4,5,10-trimercapto-4,12-ditridecoxy-11-pentyl-7-pentadecyl-2-phenyl-14-phosphino-13-tridecyl-10-cycloundecyltetradec-6,9,12,13-tetraen-1-amide
+---------------------------
+14-[tridecyl]amino-5,8-di[cyclononyltetradec-6,7,9,10,13-pentaenyl]arsino-11-chloro-14-formyl-7-hex-1-enyl-6,8,9-trihydroxy-3-imino-4,5,10-trimercapto-4,12-ditridecoxy-11-pentyl-7-pentadecyl-2-phenyl-14-phosphino-13-tridecyl-10-cycloundecyltetradec-6,9,12,13-tetraen-1-amide
+Should lead to: As: 2, C: 156, Cl: 1, H: 269, N: 3, O: 7, P: 1, S: 3
+Molecule has been set to: ethane
+---------------------------
+ethane
+Should lead to: C: 2, H: 6
+Molecule has been set to: 5-[3-[4-butyl-9-hexadecyl]pentadecyl]hexylhexan-1,1,4,6,6-pentaphosphine
+---------------------------
+5-[3-[4-butyl-9-hexadecyl]pentadecyl]hexylhexan-1,1,4,6,6-pentaphosphine
+Should lead to: C: 47, H: 101, P: 5
+Molecule has been set to: methylnonadecylamine
+---------------------------
+methylnonadecylamine
+Should lead to: C: 20, H: 43, N: 1
+Molecule has been set to: 5-[3,6,8,9-tetraiodo]cyclonon-2,8-dienylheptadec-1,3-dien-13,15-diamine
+---------------------------
+5-[3,6,8,9-tetraiodo]cyclonon-2,8-dienylheptadec-1,3-dien-13,15-diamine
+Should lead to: C: 26, H: 42, I: 4, N: 2
+Molecule has been set to: 2-hexylpentane
+---------------------------
+2-hexylpentane
+Should lead to: C: 11, H: 24
+Molecule has been set to: octadecylarsine
+---------------------------
+octadecylarsine
+Should lead to: As: 1, C: 18, H: 39
+Molecule has been set to: 9-ethyl-17-[11-[3-decyl-2-hexyl]octyl]octadecylcyclononadecane
+---------------------------
+9-ethyl-17-[11-[3-decyl-2-hexyl]octyl]octadecylcyclononadecane
+Should lead to: C: 63, H: 126
+Molecule has been set to: 3-heptadecoxy-4-phosphino-2-[5-[3-phenyl-2-cyclopropyl]heptyl-4,7,11-triphosphino]undecylcyclobutan-1,1,3,4-tetrathiol
+---------------------------
+3-heptadecoxy-4-phosphino-2-[5-[3-phenyl-2-cyclopropyl]heptyl-4,7,11-triphosphino]undecylcyclobutan-1,1,3,4-tetrathiol
+Should lead to: C: 48, H: 90, O: 1, P: 4, S: 4
+Molecule has been set to: 3-butyl-9-butyl-1,8-dichloro-6-decyl-10-decyl-8-decyl-3-dodecyl-9-ethyl-4-ethyl-10-heptyl-2-methyl-7-nonadecyl-2-nonadecyl-4-pentadecyl-6-pentadecyl-5-pentadecyl-11-propyl-7-tridecyldodecane
+---------------------------
+3-butyl-9-butyl-1,8-dichloro-6-decyl-10-decyl-8-decyl-3-dodecyl-9-ethyl-4-ethyl-10-heptyl-2-methyl-7-nonadecyl-2-nonadecyl-4-pentadecyl-6-pentadecyl-5-pentadecyl-11-propyl-7-tridecyldodecane
+Should lead to: C: 173, Cl: 2, H: 346
+Molecule has been set to: octadecan-1,18-dioic acid
+---------------------------
+octadecan-1,18-dioic acid
+Should lead to: C: 18, H: 34, O: 4
+Molecule has been set to: octadecane
+---------------------------
+octadecane
+Should lead to: C: 18, H: 38
+Molecule has been set to: butyl 13-amido-7,9-dibromo-7-fluoro-3-hexyl-10-hydroxy-12-imino-5,9,11-trimercapto-2,13-dioxo-3-[cyclodecylnonadecyl]phosphinotridec-10,11-dien-4,6,8-triyn-1-oate
+---------------------------
+butyl 13-amido-7,9-dibromo-7-fluoro-3-hexyl-10-hydroxy-12-imino-5,9,11-trimercapto-2,13-dioxo-3-[cyclodecylnonadecyl]phosphinotridec-10,11-dien-4,6,8-triyn-1-oate
+Should lead to: Br: 2, C: 52, F: 1, H: 78, N: 2, O: 6, P: 1, S: 3
+Molecule has been set to: 9,10,16,19-tetramercapto-6-[6-nonyl-4-undecyl]octoxycyclononadecan-5,14,15-trione
+---------------------------
+9,10,16,19-tetramercapto-6-[6-nonyl-4-undecyl]octoxycyclononadecan-5,14,15-trione
+Should lead to: C: 47, H: 88, O: 4, S: 4
+Molecule has been set to: 4-[4-[5-eth-1-ynyl-1,4,8,8-tetraiodo-7-octyl]oct-2,6-diynyl]hexylcyclohexadec-2-yne
+---------------------------
+4-[4-[5-eth-1-ynyl-1,4,8,8-tetraiodo-7-octyl]oct-2,6-diynyl]hexylcyclohexadec-2-yne
+Should lead to: C: 40, H: 60, I: 4
+Molecule has been set to: 4-methyl-2-nonadecyl-3-octyl-4-octadecyl-2-propyl-3-propylpentane
+---------------------------
+4-methyl-2-nonadecyl-3-octyl-4-octadecyl-2-propyl-3-propylpentane
+Should lead to: C: 57, H: 116
+Molecule has been set to: [2,4-di[tetradecyl]arsino]pentyl hexadec-8-ynoate
+---------------------------
+[2,4-di[tetradecyl]arsino]pentyl hexadec-8-ynoate
+Should lead to: As: 2, C: 49, H: 96, O: 2
+Molecule has been set to: 6-[8-butyl-5-hexadecyl]decyl-11-[2,9,11,15-tetrachloro-2-methyl]octadecyloctadecane
+---------------------------
+6-[8-butyl-5-hexadecyl]decyl-11-[2,9,11,15-tetrachloro-2-methyl]octadecyloctadecane
+Should lead to: C: 67, Cl: 4, H: 132
+Molecule has been set to: 4,4-diaminobut-3-yn-1-al
+---------------------------
+4,4-diaminobut-3-yn-1-al
+Should lead to: C: 4, H: 6, N: 2, O: 1
+Molecule has been set to: undecanamide
+---------------------------
+undecanamide
+Should lead to: C: 11, H: 23, N: 1, O: 1
+Molecule has been set to: butane
+---------------------------
+butane
+Should lead to: C: 4, H: 10
+Molecule has been set to: octadecyl 9-arsino-8,13-dibromo-10,12,14-trichloro-13-decyl-4,6-dihydroxy-7,15-diimino-11-iodo-2,12,14,16-tetraphosphinoheptadecan-1,17-dioate
+---------------------------
+octadecyl 9-arsino-8,13-dibromo-10,12,14-trichloro-13-decyl-4,6-dihydroxy-7,15-diimino-11-iodo-2,12,14,16-tetraphosphinoheptadecan-1,17-dioate
+Should lead to: As: 1, Br: 2, C: 63, Cl: 3, H: 121, I: 1, N: 2, O: 6, P: 4
+Molecule has been set to: 15-ethyl-3-[3-but-1,2,3-trienyl]hexadecylcyclooctadec-15-en-2,9-diyne
+---------------------------
+15-ethyl-3-[3-but-1,2,3-trienyl]hexadecylcyclooctadec-15-en-2,9-diyne
+Should lead to: C: 40, H: 64
+Molecule has been set to: 8-hexadecyl-3-octadecylcyclotetradecan-2,4,6,7,9,11,12,13,14-nona[[2-fluoro]heptyl]phosphine
+---------------------------
+8-hexadecyl-3-octadecylcyclotetradecan-2,4,6,7,9,11,12,13,14-nona[[2-fluoro]heptyl]phosphine
+Should lead to: C: 111, F: 9, H: 222, P: 9
+Molecule has been set to: 2-bromo-5-oxo-2,3,3,4-tetraphenylhexan-1,6-dial
+---------------------------
+2-bromo-5-oxo-2,3,3,4-tetraphenylhexan-1,6-dial
+Should lead to: Br: 1, C: 30, H: 23, O: 3
+Molecule has been set to: 14-[4-fluoro-1,5-dimercapto]hexoxycarbonyl-2,3,6,9-tetraphenyl-7-[9,14-difluoro-4-hexoxy]tetradecyltetradecanoic acid
+---------------------------
+14-[4-fluoro-1,5-dimercapto]hexoxycarbonyl-2,3,6,9-tetraphenyl-7-[9,14-difluoro-4-hexoxy]tetradecyltetradecanoic acid
+Should lead to: C: 65, F: 3, H: 93, O: 5, S: 2
+Molecule has been set to: hexadecylpentylether
+---------------------------
+hexadecylpentylether
+Should lead to: C: 21, H: 44, O: 1
+Molecule has been set to: hexyl 2,3,5-triamino-4-butoxyhex-4-en-1,6-dioate
+---------------------------
+hexyl 2,3,5-triamino-4-butoxyhex-4-en-1,6-dioate
+Should lead to: C: 22, H: 43, N: 3, O: 5
+Molecule has been set to: 4-[6-decyl-3-[9-methyl-5-propyl]octadecyl]octylcycloheptan-2-[[10-[4-chloro-2-hexyl]hexyl]undecyl]phosphine
+---------------------------
+4-[6-decyl-3-[9-methyl-5-propyl]octadecyl]octylcycloheptan-2-[[10-[4-chloro-2-hexyl]hexyl]undecyl]phosphine
+Should lead to: C: 70, Cl: 1, H: 140, P: 1
+Molecule has been set to: butan-2,2,3,4,4-penta[tetradecyltridecyl]phosphine
+---------------------------
+butan-2,2,3,4,4-penta[tetradecyltridecyl]phosphine
+Should lead to: C: 139, H: 285, P: 5
+Molecule has been set to: pentadecane
+---------------------------
+pentadecane
+Should lead to: C: 15, H: 32
+Molecule has been set to: undec-2,3,4,5,7-pentaen-1,11-dial
+---------------------------
+undec-2,3,4,5,7-pentaen-1,11-dial
+Should lead to: C: 11, H: 10, O: 2
+Molecule has been set to: eth-1-yn-1-thiol
+---------------------------
+eth-1-yn-1-thiol
+Should lead to: C: 2, H: 2, S: 1
+Molecule has been set to: octadecyl 2-decyl-3-imino-4-phenyl-4-phosphinobutanoate
+---------------------------
+octadecyl 2-decyl-3-imino-4-phenyl-4-phosphinobutanoate
+Should lead to: C: 38, H: 68, N: 1, O: 2, P: 1
+Molecule has been set to: [3-decyl]nonyl 7-imino-3,6-dimercaptododecan-1,12-dioate
+---------------------------
+[3-decyl]nonyl 7-imino-3,6-dimercaptododecan-1,12-dioate
+Should lead to: C: 50, H: 97, N: 1, O: 4, S: 2
+Molecule has been set to: 3-chloro-3-iodo-2,2-diheptadecoxypropan-1-amide
+---------------------------
+3-chloro-3-iodo-2,2-diheptadecoxypropan-1-amide
+Should lead to: C: 37, Cl: 1, H: 73, I: 1, N: 1, O: 3
+Molecule has been set to: 1,2-dibromocyclopent-2,3,4-trien-3,4,5-tri[tridecyl]phosphine
+---------------------------
+1,2-dibromocyclopent-2,3,4-trien-3,4,5-tri[tridecyl]phosphine
+Should lead to: Br: 2, C: 44, H: 83, P: 3
+Molecule has been set to: heptan-1-al
+---------------------------
+heptan-1-al
+Should lead to: C: 7, H: 14, O: 1
+Molecule has been set to: [4-[4-hexyl]hexyl-3,4,5-trimethoxy]hexyloctadecylamine
+---------------------------
+[4-[4-hexyl]hexyl-3,4,5-trimethoxy]hexyloctadecylamine
+Should lead to: C: 39, H: 81, N: 1, O: 3
+Molecule has been set to: 5-bromodichloro-4-ethyl-4-heptadecyl-3-pentyl-3-tridecyl-2-cyclotridecyl-2-tridecylcyclopentane
+---------------------------
+5-bromodichloro-4-ethyl-4-heptadecyl-3-pentyl-3-tridecyl-2-cyclotridecyl-2-tridecylcyclopentane
+Should lead to: Br: 1, C: 68, Cl: 2, H: 131
+Molecule has been set to: 7-[2-butenyl]cyclopent-3,4-dienylhexadec-7,8,9,13-tetraene
+---------------------------
+7-[2-butenyl]cyclopent-3,4-dienylhexadec-7,8,9,13-tetraene
+Should lead to: C: 25, H: 36
+Molecule has been set to: hexadecyl undecan-1,11-dioate
+---------------------------
+hexadecyl undecan-1,11-dioate
+Should lead to: C: 43, H: 84, O: 4
+Molecule has been set to: 3-fluoro-3,3-diiodopropanoic acid
+---------------------------
+3-fluoro-3,3-diiodopropanoic acid
+Should lead to: C: 3, F: 1, H: 3, I: 2, O: 2
+Molecule has been set to: 9-dodecylcyclododecane
+---------------------------
+9-dodecylcyclododecane
+Should lead to: C: 24, H: 48
+Molecule has been set to: ethane
+---------------------------
+ethane
+Should lead to: C: 2, H: 6
+Molecule has been set to: 1,3,6,7-tetrabromo-3-butyl-5-dodecyl-4-cyclononadecyl-5-tridecylcyclooctane
+---------------------------
+1,3,6,7-tetrabromo-3-butyl-5-dodecyl-4-cyclononadecyl-5-tridecylcyclooctane
+Should lead to: Br: 4, C: 56, H: 106
+Molecule has been set to: butyl[3-fluoro-4-[4-tridecyl]pentyl-2-propyl]hexylpentadecylarsine
+---------------------------
+butyl[3-fluoro-4-[4-tridecyl]pentyl-2-propyl]hexylpentadecylarsine
+Should lead to: As: 1, C: 46, F: 1, H: 94
+Molecule has been set to: 12-[6-iodo-7-[13-octyl]cyclopentadecyl]decyl-16-[4-[3-butyl-2,4,5,6-tetrachloro-6-nonadecyl]cyclooctyl]heptylcycloheptadecane
+---------------------------
+12-[6-iodo-7-[13-octyl]cyclopentadecyl]decyl-16-[4-[3-butyl-2,4,5,6-tetrachloro-6-nonadecyl]cyclooctyl]heptylcycloheptadecane
+Should lead to: C: 88, Cl: 4, H: 167, I: 1
+Molecule has been set to: 5-arsino-4,7,7,10-tetrachloro-4-fluoro-8,10-dimercapto-3-[cyclohexyl]phosphinotridec-5-en-6-yn-1,13-dioic acid
+---------------------------
+5-arsino-4,7,7,10-tetrachloro-4-fluoro-8,10-dimercapto-3-[cyclohexyl]phosphinotridec-5-en-6-yn-1,13-dioic acid
+Should lead to: As: 1, C: 19, Cl: 4, F: 1, H: 25, O: 4, P: 1, S: 2
+Molecule has been set to: [[hexyl]phosphino]methyl pentadec-7-en-1,15-dioate
+---------------------------
+[[hexyl]phosphino]methyl pentadec-7-en-1,15-dioate
+Should lead to: C: 29, H: 56, O: 4, P: 2
+Molecule has been set to: 4-hydroxy-8-nonadecyl-2-[4-phenyl]octyldecanamide
+---------------------------
+4-hydroxy-8-nonadecyl-2-[4-phenyl]octyldecanamide
+Should lead to: C: 43, H: 79, N: 1, O: 2
+Molecule has been set to: 3,3-dibromo-2-non-1,2,3,6-tetraenylprop-1,2-diene
+---------------------------
+3,3-dibromo-2-non-1,2,3,6-tetraenylprop-1,2-diene
+Should lead to: Br: 2, C: 12, H: 12
+Molecule has been set to: pentane
+---------------------------
+pentane
+Should lead to: C: 5, H: 12
+Molecule has been set to: ethyl[5-[3-dodecyl-3-nonadecyl-2-octyl]butyl-10-[5-undecyl]heptyl]nonadecylether
+---------------------------
+ethyl[5-[3-dodecyl-3-nonadecyl-2-octyl]butyl-10-[5-undecyl]heptyl]nonadecylether
+Should lead to: C: 82, H: 166, O: 1
+Molecule has been set to: 1-bromo-7,11-dichloro-9-cyclohexadecyl-2-iodo-5-nonyl-14-cyclononadecyl-12-cyclooctadecyl-5-cyclopentyl-4-propyl-4-tridecyl-8-tridecyl-6-cyclotridecylcyclohexadecane
+---------------------------
+1-bromo-7,11-dichloro-9-cyclohexadecyl-2-iodo-5-nonyl-14-cyclononadecyl-12-cyclooctadecyl-5-cyclopentyl-4-propyl-4-tridecyl-8-tridecyl-6-cyclotridecylcyclohexadecane
+Should lead to: Br: 1, C: 125, Cl: 2, H: 236, I: 1
+Molecule has been set to: cyclododecane
+---------------------------
+cyclododecane
+Should lead to: C: 12, H: 24
+Molecule has been set to: hexadecyl 5-propoxy-7-phenylpentadec-4,6,8,12-tetraen-1,15-dioate
+---------------------------
+hexadecyl 5-propoxy-7-phenylpentadec-4,6,8,12-tetraen-1,15-dioate
+Should lead to: C: 56, H: 94, O: 5
+Molecule has been set to: 1,1,1,6-tetra[pentyl]arsino-7-cyclohexyl-4,11,12-triiodo-9-nonadecyl-11-pentadecoxy-7-pent-3-enyl-12-phenyl-8,9,10,12-tetra[heptadecylheptadecyl]phosphino-4-tetradecyl-10-undecyldodec-2,3-diyn-8-thiol
+---------------------------
+1,1,1,6-tetra[pentyl]arsino-7-cyclohexyl-4,11,12-triiodo-9-nonadecyl-11-pentadecoxy-7-pent-3-enyl-12-phenyl-8,9,10,12-tetra[heptadecylheptadecyl]phosphino-4-tetradecyl-10-undecyldodec-2,3-diyn-8-thiol
+Should lead to: As: 4, C: 244, H: 475, I: 3, O: 1, P: 4, S: 1
+Molecule has been set to: methylamine
+---------------------------
+methylamine
+Should lead to: C: 1, H: 5, N: 1
+Molecule has been set to: 2-bromo-2-[4,5,7,12-tetrabromo-5-methyl]octadecylpropane
+---------------------------
+2-bromo-2-[4,5,7,12-tetrabromo-5-methyl]octadecylpropane
+Should lead to: Br: 5, C: 22, H: 41
+Molecule has been set to: pentyl 15,16-diarsino-13-bromo-10-chloro-7,17-difluoro-17-formyl-8,9,10,11,15,17-hexahydroxy-4,6-diimino-12-iodo-3-octadecyl-5-propoxy-7-phenylheptadecanoate
+---------------------------
+pentyl 15,16-diarsino-13-bromo-10-chloro-7,17-difluoro-17-formyl-8,9,10,11,15,17-hexahydroxy-4,6-diimino-12-iodo-3-octadecyl-5-propoxy-7-phenylheptadecanoate
+Should lead to: As: 2, Br: 1, C: 50, Cl: 1, F: 2, H: 85, I: 1, N: 2, O: 10
+Molecule has been set to: 1,2,3,4,5-pentafluoro-2-hexyl-4,5,7-tri[[3-pentyl-3-propyl]pentyl]phosphinoheptan-1,1,7-triol
+---------------------------
+1,2,3,4,5-pentafluoro-2-hexyl-4,5,7-tri[[3-pentyl-3-propyl]pentyl]phosphinoheptan-1,1,7-triol
+Should lead to: C: 52, F: 5, H: 104, O: 3, P: 3
+Molecule has been set to: nonane
+---------------------------
+nonane
+Should lead to: C: 9, H: 20
+Molecule has been set to: 8-chloro-2-decyl-3-nonyl-4-octyl-3-octadecyloct-1,5,6,7-tetrayne
+---------------------------
+8-chloro-2-decyl-3-nonyl-4-octyl-3-octadecyloct-1,5,6,7-tetrayne
+Should lead to: C: 53, Cl: 1, H: 91
+Molecule has been set to: 2,5,9-trihydroxy-2,5,6,10-tetranonadecoxy-4,6,11,11-tetra[[2,4,6,8-tetrahydroxy-8-oxo-2,3,3,4,5,6-hexa[11-[[2,11,19-trichloro-12-[6-[7,8-dioxo]dodecyl-4-methyl-5,9-dioxo]tetradecyl]nonadecyl]amino]tetradecoxy]octyl]phosphinotridecan-1-al
+---------------------------
+2,5,9-trihydroxy-2,5,6,10-tetranonadecoxy-4,6,11,11-tetra[[2,4,6,8-tetrahydroxy-8-oxo-2,3,3,4,5,6-hexa[11-[[2,11,19-trichloro-12-[6-[7,8-dioxo]dodecyl-4-methyl-5,9-dioxo]tetradecyl]nonadecyl]amino]tetradecoxy]octyl]phosphinotridecan-1-al
+Should lead to: C: 1561, Cl: 72, H: 2878, N: 24, O: 148, P: 4
+Molecule has been set to: 2-[11-[9-heptyl-4-nonyl-5-tetradecyl]dodecyl-4-[5-nonyl]hexyl-4-[6-ethyl-2-octadecyl]octadecyl]tetradecylbutane
+---------------------------
+2-[11-[9-heptyl-4-nonyl-5-tetradecyl]dodecyl-4-[5-nonyl]hexyl-4-[6-ethyl-2-octadecyl]octadecyl]tetradecylbutane
+Should lead to: C: 113, H: 228
+Molecule has been set to: 6-[dihex-1,3,4-trienyl]amino-2,10-diarsino-14,16-dichloro-12-cyclodecyl-11-dodecyl-5-ethyl-11-cyclohexadec-1-enyl-8-hexadec-5,7,10,12-tetraenyl-4,15,16-triimino-10-octadecyl-2-pent-1,3,4-trienyl-3,7,14-triphenyl-13-cyclopropyl-8-cyclotridecylhexadec-1,5,12-trien-9,9,13-trithiol
+---------------------------
+6-[dihex-1,3,4-trienyl]amino-2,10-diarsino-14,16-dichloro-12-cyclodecyl-11-dodecyl-5-ethyl-11-cyclohexadec-1-enyl-8-hexadec-5,7,10,12-tetraenyl-4,15,16-triimino-10-octadecyl-2-pent-1,3,4-trienyl-3,7,14-triphenyl-13-cyclopropyl-8-cyclotridecylhexadec-1,5,12-trien-9,9,13-trithiol
+Should lead to: As: 2, C: 141, Cl: 2, H: 216, N: 4, S: 3
+Molecule has been set to: 2,2,6-trichloro-5-[9-propyl-13-[4-methyl]undecyl-3-[7-dodecyl]undecyl]pentadecylhexan-1,3-di[[2-iodo]ethyl[4-butyl]pentadecyl]arsine
+---------------------------
+2,2,6-trichloro-5-[9-propyl-13-[4-methyl]undecyl-3-[7-dodecyl]undecyl]pentadecylhexan-1,3-di[[2-iodo]ethyl[4-butyl]pentadecyl]arsine
+Should lead to: As: 2, C: 101, Cl: 3, H: 201, I: 2
+Molecule has been set to: ethene
+---------------------------
+ethene
+Should lead to: C: 2, H: 4
+Molecule has been set to: octadecylundecylether
+---------------------------
+octadecylundecylether
+Should lead to: C: 29, H: 60, O: 1
+Molecule has been set to: 4-mercaptobutan-1-al
+---------------------------
+4-mercaptobutan-1-al
+Should lead to: C: 4, H: 8, O: 1, S: 1
+Molecule has been set to: cyclopropane
+---------------------------
+cyclopropane
+Should lead to: C: 3, H: 6
+Molecule has been set to: 13-hexyl-8-cyclononadecyl-2-cyclopentyl-9-tetradecyl-2-cycloundecylcyclotetradecane
+---------------------------
+13-hexyl-8-cyclononadecyl-2-cyclopentyl-9-tetradecyl-2-cycloundecylcyclotetradecane
+Should lead to: C: 69, H: 132
+Molecule has been set to: 5-heptadecyl-12-[8-cyclodecyl-7-pentadec-1,2,5,8,9-pentaenyl]tetradec-5,12,13-triynylheptadec-4,14-diyne
+---------------------------
+5-heptadecyl-12-[8-cyclodecyl-7-pentadec-1,2,5,8,9-pentaenyl]tetradec-5,12,13-triynylheptadec-4,14-diyne
+Should lead to: C: 73, H: 116
+Molecule has been set to: [5-heptadecyl-4-[2-ethyl-5-heptyl-4,4,6-triphenyl]hexyl]heptylamine
+---------------------------
+[5-heptadecyl-4-[2-ethyl-5-heptyl-4,4,6-triphenyl]hexyl]heptylamine
+Should lead to: C: 57, H: 93, N: 1
+Molecule has been set to: 6,8,10-triamino-7,10-dibromo-7-chloro-5-dodecyl-3-fluoro-5-hydroxy-2-mercapto-4,9-dioxo-2,6,8-tripentadecoxyundecan-1,11-dioic acid
+---------------------------
+6,8,10-triamino-7,10-dibromo-7-chloro-5-dodecyl-3-fluoro-5-hydroxy-2-mercapto-4,9-dioxo-2,6,8-tripentadecoxyundecan-1,11-dioic acid
+Should lead to: Br: 2, C: 68, Cl: 1, F: 1, H: 129, N: 3, O: 10, S: 1
+Molecule has been set to: heptadecyl 7,8-di[[7-mercapto-6,8,9,11,12-pentaoxo-4-pentyl]tridecyl]amino-12-formyldodecanoate
+---------------------------
+heptadecyl 7,8-di[[7-mercapto-6,8,9,11,12-pentaoxo-4-pentyl]tridecyl]amino-12-formyldodecanoate
+Should lead to: C: 66, H: 112, N: 2, O: 13, S: 2
+Molecule has been set to: propyl 9,12,14-trichlorotetradecanoate
+---------------------------
+propyl 9,12,14-trichlorotetradecanoate
+Should lead to: C: 17, Cl: 3, H: 31, O: 2
+Molecule has been set to: methyl 2-fluoroethan-1-oate
+---------------------------
+methyl 2-fluoroethan-1-oate
+Should lead to: C: 3, F: 1, H: 5, O: 2
+Molecule has been set to: pentane
+---------------------------
+pentane
+Should lead to: C: 5, H: 12
+Molecule has been set to: cyclobut-1-en-1,3,3-triol
+---------------------------
+cyclobut-1-en-1,3,3-triol
+Should lead to: C: 4, H: 6, O: 3
+Molecule has been set to: 3,4,4,7-tetrabromo-2,10,10-trichloro-2-cyclodecyl-5-heptyl-6-hexyl-6-methyl-5-oct-3,4,5,6-tetraynyl-8-pentyl-7-pentadec-3,4,10-trien-5,11,13,14-tetraynylcyclodec-1,3,8-trien-9-yne
+---------------------------
+3,4,4,7-tetrabromo-2,10,10-trichloro-2-cyclodecyl-5-heptyl-6-hexyl-6-methyl-5-oct-3,4,5,6-tetraynyl-8-pentyl-7-pentadec-3,4,10-trien-5,11,13,14-tetraynylcyclodec-1,3,8-trien-9-yne
+Should lead to: Br: 4, C: 62, Cl: 3, H: 67
+Molecule has been set to: 2-prop-1,2-dienylnonadec-9-en-10-yn-9,15,18-triarsine
+---------------------------
+2-prop-1,2-dienylnonadec-9-en-10-yn-9,15,18-triarsine
+Should lead to: As: 3, C: 22, H: 39
+Molecule has been set to: butyl butan-1-oate
+---------------------------
+butyl butan-1-oate
+Should lead to: C: 8, H: 16, O: 2
+Molecule has been set to: 3-nonadecyl-2-nonadecyl-2-pentadecylbutane
+---------------------------
+3-nonadecyl-2-nonadecyl-2-pentadecylbutane
+Should lead to: C: 57, H: 116
+Molecule has been set to: 7-fluoro-8-[2,4,7,8,9,14,15-heptaiodo]hexadec-5-enyl-3-[9-cyclopropyl-5-[3-ethyl-7-cyclooctadecyl]undecyl]cyclotetradecyldec-2,5-dien-1,1,6,7,8-penta[undecyl]arsine
+---------------------------
+7-fluoro-8-[2,4,7,8,9,14,15-heptaiodo]hexadec-5-enyl-3-[9-cyclopropyl-5-[3-ethyl-7-cyclooctadecyl]undecyl]cyclotetradecyldec-2,5-dien-1,1,6,7,8-penta[undecyl]arsine
+Should lead to: As: 5, C: 129, F: 1, H: 245, I: 7
+Molecule has been set to: cyclopropane
+---------------------------
+cyclopropane
+Should lead to: C: 3, H: 6
+Molecule has been set to: bromocyclobut-2,3-diyne
+---------------------------
+bromocyclobut-2,3-diyne
+Should lead to: Br: 1, C: 4, H: -1
+Molecule has been set to: 4-[[2,5,6,6-tetraiodo-4-methyl]hexyl]phosphinocyclotetradecan-8,13-dione
+---------------------------
+4-[[2,5,6,6-tetraiodo-4-methyl]hexyl]phosphinocyclotetradecan-8,13-dione
+Should lead to: C: 21, H: 35, I: 4, O: 2, P: 1
+Molecule has been set to: [13-hydroxy-6-nonadecyl]nonadecyl 6,7,12-triarsino-4-oxo-13-[di[7,8,9-tri[[3-phenyl]propyl]amino-1,10-difluoro-2-iodo]decyl]phosphinooctadecan-1-oate
+---------------------------
+[13-hydroxy-6-nonadecyl]nonadecyl 6,7,12-triarsino-4-oxo-13-[di[7,8,9-tri[[3-phenyl]propyl]amino-1,10-difluoro-2-iodo]decyl]phosphinooctadecan-1-oate
+Should lead to: As: 3, C: 130, F: 4, H: 214, I: 2, N: 6, O: 4, P: 1
+Molecule has been set to: 8-chloro-10-fluoro-5-pentyl-8-pentadecyl-7-cyclopentadec-7,10-dienyldec-7-en-9-yn-1,1,2,3,3,4,4,5,6,6,10-undecathiol
+---------------------------
+8-chloro-10-fluoro-5-pentyl-8-pentadecyl-7-cyclopentadec-7,10-dienyldec-7-en-9-yn-1,1,2,3,3,4,4,5,6,6,10-undecathiol
+Should lead to: C: 45, Cl: 1, F: 1, H: 78, S: 11
+Molecule has been set to: 16-[6-fluoro-3,4,7,10,12-pentaimino]dodecylheptadec-2,6,11,12,15-pentaen-3,8,9,13-tetrayn-1-oic acid
+---------------------------
+16-[6-fluoro-3,4,7,10,12-pentaimino]dodecylheptadec-2,6,11,12,15-pentaen-3,8,9,13-tetrayn-1-oic acid
+Should lead to: C: 29, F: 1, H: 26, N: 5, O: 2
+Molecule has been set to: nonane
+---------------------------
+nonane
+Should lead to: C: 9, H: 20
+Molecule has been set to: 13,15-dibromo-3,18-dichloro-17-decyl-9-dodecyl-7-cyclododecyl-2-dodecyl-4-ethyl-8-ethyl-12-cycloheptyl-7-methyl-12-methyl-17-methyl-10-nonyl-5-nonadecyl-2-octadecyl-15-cyclopentyl-14-pentyl-11-pentadecyl-14-propylcyclooctadecane
+---------------------------
+13,15-dibromo-3,18-dichloro-17-decyl-9-dodecyl-7-cyclododecyl-2-dodecyl-4-ethyl-8-ethyl-12-cycloheptyl-7-methyl-12-methyl-17-methyl-10-nonyl-5-nonadecyl-2-octadecyl-15-cyclopentyl-14-pentyl-11-pentadecyl-14-propylcyclooctadecane
+Should lead to: Br: 2, C: 152, Cl: 2, H: 294
+Molecule has been set to: 1-[[1,5,8,14,17-pentachloro-3-hydroxy-2-methyl]heptadecyl]arsino-1-iodo-6-[3-phenyl]undecylcyclodecan-2,3,4,8,9-pentaone
+---------------------------
+1-[[1,5,8,14,17-pentachloro-3-hydroxy-2-methyl]heptadecyl]arsino-1-iodo-6-[3-phenyl]undecylcyclodecan-2,3,4,8,9-pentaone
+Should lead to: As: 1, C: 45, Cl: 5, H: 67, I: 1, O: 6
+Molecule has been set to: dioctylphosphine
+---------------------------
+dioctylphosphine
+Should lead to: C: 16, H: 35, P: 1
+Molecule has been set to: 5,11,12,13,17-pentaarsino-13-chloro-4-ethyl-9-heptadecyl-15-methyl-2-octadecyl-9-propylheptadecan-1,1,1,2,3,3,5,6,7,7,8,10,10,11,16,17-hexadecathiol
+---------------------------
+5,11,12,13,17-pentaarsino-13-chloro-4-ethyl-9-heptadecyl-15-methyl-2-octadecyl-9-propylheptadecan-1,1,1,2,3,3,5,6,7,7,8,10,10,11,16,17-hexadecathiol
+Should lead to: As: 5, C: 58, Cl: 1, H: 122, S: 16
+Molecule has been set to: 2,5,14,15-tetrahydroxyheptadec-6,7,11-triyn-1,17-diamide
+---------------------------
+2,5,14,15-tetrahydroxyheptadec-6,7,11-triyn-1,17-diamide
+Should lead to: C: 17, H: 22, N: 2, O: 6
+Molecule has been set to: 8-formyl-8-phenyloctan-1-amide
+---------------------------
+8-formyl-8-phenyloctan-1-amide
+Should lead to: C: 15, H: 21, N: 1, O: 2
+Molecule has been set to: ditetradecylether
+---------------------------
+ditetradecylether
+Should lead to: C: 28, H: 58, O: 1
+Molecule has been set to: [1,4-difluoro]pentadecyl 2,4-dibromo-4-mercapto-2-[9-chloro]tetradec-2,12-dienoxybut-3-ynoate
+---------------------------
+[1,4-difluoro]pentadecyl 2,4-dibromo-4-mercapto-2-[9-chloro]tetradec-2,12-dienoxybut-3-ynoate
+Should lead to: Br: 2, C: 33, Cl: 1, F: 2, H: 53, O: 3, S: 1
+Molecule has been set to: [3-hydroxy]hexadecyl dodecanoate
+---------------------------
+[3-hydroxy]hexadecyl dodecanoate
+Should lead to: C: 28, H: 56, O: 3
+Molecule has been set to: 6-bromo-1,4-dichloro-2-ethyl-3-hexadecyl-3-cyclotridecylcyclohexan-1,2,4,5,5-penta[octadecyl]arsine
+---------------------------
+6-bromo-1,4-dichloro-2-ethyl-3-hexadecyl-3-cyclotridecylcyclohexan-1,2,4,5,5-penta[octadecyl]arsine
+Should lead to: As: 5, Br: 1, C: 127, Cl: 2, H: 254
+Molecule has been set to: [1-formyl-7,7-dimercapto-2,3-di[ethyloctyl]phosphino]heptyl nonan-1,9-dioate
+---------------------------
+[1-formyl-7,7-dimercapto-2,3-di[ethyloctyl]phosphino]heptyl nonan-1,9-dioate
+Should lead to: C: 65, H: 128, O: 6, P: 4, S: 4
+Molecule has been set to: 3,8-di[tridecyl]arsinocycloundecan-1,11-diimine
+---------------------------
+3,8-di[tridecyl]arsinocycloundecan-1,11-diimine
+Should lead to: As: 2, C: 37, H: 74, N: 2
+Molecule has been set to: 5-[decyl]arsino-6-chloro-3,5,6,7,9,10-hexahydroxy-2,11-diimino-3-iodo-7-mercapto-9-methyl-8-oxo-4-hexadecoxy-4-pentyl-10-pentadecylundecanamide
+---------------------------
+5-[decyl]arsino-6-chloro-3,5,6,7,9,10-hexahydroxy-2,11-diimino-3-iodo-7-mercapto-9-methyl-8-oxo-4-hexadecoxy-4-pentyl-10-pentadecylundecanamide
+Should lead to: As: 1, C: 58, Cl: 1, H: 112, I: 1, N: 3, O: 9, S: 1
+Molecule has been set to: tri[1,11-diiodo]undecylamine
+---------------------------
+tri[1,11-diiodo]undecylamine
+Should lead to: C: 33, H: 63, I: 6, N: 1
+Molecule has been set to: 2-[4,10,11-tribromo]dodecyl-3-[9-pentyl]hexadecylcyclohexane
+---------------------------
+2-[4,10,11-tribromo]dodecyl-3-[9-pentyl]hexadecylcyclohexane
+Should lead to: Br: 3, C: 39, H: 75
+Molecule has been set to: hexadecylnonadecylarsine
+---------------------------
+hexadecylnonadecylarsine
+Should lead to: As: 1, C: 35, H: 73
+Molecule has been set to: butan-1,2-diol
+---------------------------
+butan-1,2-diol
+Should lead to: C: 4, H: 10, O: 2
+Molecule has been set to: hex-1,5-diene
+---------------------------
+hex-1,5-diene
+Should lead to: C: 6, H: 10
+Molecule has been set to: 3-ethyl-6-hept-2,4,6-trienyl-6-nonadecyloct-1,2,4,5-tetraen-1,2,3,4,5,7,7,8-octaol
+---------------------------
+3-ethyl-6-hept-2,4,6-trienyl-6-nonadecyloct-1,2,4,5-tetraen-1,2,3,4,5,7,7,8-octaol
+Should lead to: C: 36, H: 60, O: 8
+Molecule has been set to: 4,14,15-trifluoro-11-imino-16-pentyloctadecan-1,18-diamide
+---------------------------
+4,14,15-trifluoro-11-imino-16-pentyloctadecan-1,18-diamide
+Should lead to: C: 23, F: 3, H: 42, N: 3, O: 2
+Molecule has been set to: 2,3-dibromopropan-1-oic acid
+---------------------------
+2,3-dibromopropan-1-oic acid
+Should lead to: Br: 2, C: 3, H: 4, O: 2
+Molecule has been set to: 4,5-di[cycloheptadecyltetradecyl]amino-14,14,15,17,19-penta[propyl]arsino-3,4,19-trichloro-9-hexyl-16,16-dihydroxy-2,7,10,18-tetraimino-3,11-dimercapto-8-methoxy-13,15-diphenyl-5,6,12,13-tetra[butyl]phosphino-12-cyclotetradecylnonadec-6,8,9,11,17-pentaen-1-al
+---------------------------
+4,5-di[cycloheptadecyltetradecyl]amino-14,14,15,17,19-penta[propyl]arsino-3,4,19-trichloro-9-hexyl-16,16-dihydroxy-2,7,10,18-tetraimino-3,11-dimercapto-8-methoxy-13,15-diphenyl-5,6,12,13-tetra[butyl]phosphino-12-cyclotetradecylnonadec-6,8,9,11,17-pentaen-1-al
+Should lead to: As: 5, C: 145, Cl: 3, H: 262, N: 6, O: 4, P: 4, S: 2
+Molecule has been set to: 11,11,16-trichloro-4-[4-methyl]heptylhexadecan-2,15-di[[2-[2,3,3-trifluoro]propyl]propyl]phosphine
+---------------------------
+11,11,16-trichloro-4-[4-methyl]heptylhexadecan-2,15-di[[2-[2,3,3-trifluoro]propyl]propyl]phosphine
+Should lead to: C: 36, Cl: 3, F: 6, H: 67, P: 2
+Molecule has been set to: 14-[4-[3-bromo-2-octadecyl-3-pentadecyl]hexyl-5-[7-heptyl-2-hexyl]nonyl-4-[3-nonyl-4-nonyl-4-pentadecyl]pentyl]decyl-7,12,13-triiodooctadecane
+---------------------------
+14-[4-[3-bromo-2-octadecyl-3-pentadecyl]hexyl-5-[7-heptyl-2-hexyl]nonyl-4-[3-nonyl-4-nonyl-4-pentadecyl]pentyl]decyl-7,12,13-triiodooctadecane
+Should lead to: Br: 1, C: 127, H: 252, I: 3
+Molecule has been set to: 3-butyl-2-butyl-5-hexadecyl-4-nonadecyl-2-octyl-5-octyl-3-octadecyl-4-pentadecylhexane
+---------------------------
+3-butyl-2-butyl-5-hexadecyl-4-nonadecyl-2-octyl-5-octyl-3-octadecyl-4-pentadecylhexane
+Should lead to: C: 98, H: 198
+Molecule has been set to: 5-[3-hydroxy-7-[2-cyclononyl]pentadecyl]tridecylhexadec-4,7,9,11,13-pentayn-1-amide
+---------------------------
+5-[3-hydroxy-7-[2-cyclononyl]pentadecyl]tridecylhexadec-4,7,9,11,13-pentayn-1-amide
+Should lead to: C: 53, H: 85, N: 1, O: 2
+Molecule has been set to: 5,5,7,11,13-penta[[2,2-diiodo]prop-1-enyl]arsino-3,4,10,14-tetrachloro-9-mercaptotetradec-6-yn-1-al
+---------------------------
+5,5,7,11,13-penta[[2,2-diiodo]prop-1-enyl]arsino-3,4,10,14-tetrachloro-9-mercaptotetradec-6-yn-1-al
+Should lead to: As: 5, C: 29, Cl: 4, H: 35, I: 10, O: 1, S: 1
+Molecule has been set to: chloro-3,3,4,5-tetraiodo-2,6-diphenylhexan-1,6-diimine
+---------------------------
+chloro-3,3,4,5-tetraiodo-2,6-diphenylhexan-1,6-diimine
+Should lead to: C: 18, Cl: 1, H: 15, I: 4, N: 2
+Molecule has been set to: cyclotridec-2,5,8,11-tetrayne
+---------------------------
+cyclotridec-2,5,8,11-tetrayne
+Should lead to: C: 13, H: 10
+Molecule has been set to: propyl 3-hydroxyprop-2-en-1-oate
+---------------------------
+propyl 3-hydroxyprop-2-en-1-oate
+Should lead to: C: 6, H: 10, O: 3
+Molecule has been set to: 3-[dioctadecyl]amino-7-[pentyl]arsino-5-decyl-4-methyl-2-nonadecyl-2-nonadecylheptan-3,7-dithiol
+---------------------------
+3-[dioctadecyl]amino-7-[pentyl]arsino-5-decyl-4-methyl-2-nonadecyl-2-nonadecylheptan-3,7-dithiol
+Should lead to: As: 1, C: 97, H: 198, N: 1, S: 2
+Molecule has been set to: 1,2,4,5,8-pentaiodocyclooct-1,2,3,6-tetraene
+---------------------------
+1,2,4,5,8-pentaiodocyclooct-1,2,3,6-tetraene
+Should lead to: C: 8, H: 3, I: 5
+Molecule has been set to: [3,6-diimino-4,5,9,10,11,12,12-heptamercapto-1,2,9,11-tetraphenyl]dodecyl non-4,6,7,8-tetraenoate
+---------------------------
+[3,6-diimino-4,5,9,10,11,12,12-heptamercapto-1,2,9,11-tetraphenyl]dodecyl non-4,6,7,8-tetraenoate
+Should lead to: C: 45, H: 48, N: 2, O: 2, S: 7
+Molecule has been set to: 2,2,4,7-tetraamino-6-bromo-6-chloro-7-formyl-4-hydroxy-5-mercapto-3-ethoxy-7-decanoyloxyheptan-1-oic acid
+---------------------------
+2,2,4,7-tetraamino-6-bromo-6-chloro-7-formyl-4-hydroxy-5-mercapto-3-ethoxy-7-decanoyloxyheptan-1-oic acid
+Should lead to: Br: 1, C: 20, Cl: 1, H: 38, N: 4, O: 7, S: 1
+Molecule has been set to: 4,7,11-tribromo-8-[3-[3-nonadecyl]cyclohexyl-5-hexadecyl-2,2-diiodo]cyclohexylcyclotridecan-9,10,10,13-tetraarsine
+---------------------------
+4,7,11-tribromo-8-[3-[3-nonadecyl]cyclohexyl-5-hexadecyl-2,2-diiodo]cyclohexylcyclotridecan-9,10,10,13-tetraarsine
+Should lead to: As: 4, Br: 3, C: 60, H: 115, I: 2
+Molecule has been set to: cyclononadecan-3,4,7,10,11,11,13,16,17,17-decathiol
+---------------------------
+cyclononadecan-3,4,7,10,11,11,13,16,17,17-decathiol
+Should lead to: C: 19, H: 38, S: 10
+Molecule has been set to: propan-1-imine
+---------------------------
+propan-1-imine
+Should lead to: C: 3, H: 7, N: 1
+Molecule has been set to: cyclononadecane
+---------------------------
+cyclononadecane
+Should lead to: C: 19, H: 38
+Molecule has been set to: cyclohex-1-en-3,3,4,6,6-pentathiol
+---------------------------
+cyclohex-1-en-3,3,4,6,6-pentathiol
+Should lead to: C: 6, H: 10, S: 5
+Molecule has been set to: 3-butyl-1,4,4,8,8-pentachloro-3-decyl-9-decyl-9-dodecyl-6-heptadecyl-5-iodo-7-methyl-7-octyl-2-octyl-6-pentyl-5-tetradecyl-2-tridecyldecane
+---------------------------
+3-butyl-1,4,4,8,8-pentachloro-3-decyl-9-decyl-9-dodecyl-6-heptadecyl-5-iodo-7-methyl-7-octyl-2-octyl-6-pentyl-5-tetradecyl-2-tridecyldecane
+Should lead to: C: 112, Cl: 5, H: 220, I: 1
+Molecule has been set to: [1,2,4,9-tetraiodo]nonyl octanoate
+---------------------------
+[1,2,4,9-tetraiodo]nonyl octanoate
+Should lead to: C: 17, H: 30, I: 4, O: 2
+Molecule has been set to: butyl[10-pentadecyl-12,13,15,16-tetra[dodecylmethyl]phosphino]hexadecylether
+---------------------------
+butyl[10-pentadecyl-12,13,15,16-tetra[dodecylmethyl]phosphino]hexadecylether
+Should lead to: C: 87, H: 180, O: 1, P: 4
+Molecule has been set to: 7-cyclobutyl-3-cyclobut-1,2,3-trienyl-7-cyclodec-4-ynyl-6-dec-2,3,5,6,8-pentaynyl-6-dodecyl-2-ethyl-5-ethyl-10-heptyl-12-heptadecyl-4-hexyl-3-cyclohexadecyl-8-iodo-4-cyclonon-2,3,5,6-tetraynyl-12-nonadec-10,15,18-trien-6,11,12-triynyl-8-nonadec-1,4,8,14-tetraenyl-9-octyl-9-octadec-11,16-diynyl-10-pent-1,2,3,4-tetraenyl-5-pentadecyl-2-cyclopropylcyclotridec-11-yne
+---------------------------
+7-cyclobutyl-3-cyclobut-1,2,3-trienyl-7-cyclodec-4-ynyl-6-dec-2,3,5,6,8-pentaynyl-6-dodecyl-2-ethyl-5-ethyl-10-heptyl-12-heptadecyl-4-hexyl-3-cyclohexadecyl-8-iodo-4-cyclonon-2,3,5,6-tetraynyl-12-nonadec-10,15,18-trien-6,11,12-triynyl-8-nonadec-1,4,8,14-tetraenyl-9-octyl-9-octadec-11,16-diynyl-10-pent-1,2,3,4-tetraenyl-5-pentadecyl-2-cyclopropylcyclotridec-11-yne
+Should lead to: C: 199, H: 293, I: 1
+Molecule has been set to: 13-hexyl-2-[4-dodecyl]octyl-12-[10-[5-undecyl]undecyl]undecylcyclohexadecane
+---------------------------
+13-hexyl-2-[4-dodecyl]octyl-12-[10-[5-undecyl]undecyl]undecylcyclohexadecane
+Should lead to: C: 75, H: 150
+Molecule has been set to: 9-hydroxycyclododecan-7,11-dione
+---------------------------
+9-hydroxycyclododecan-7,11-dione
+Should lead to: C: 12, H: 20, O: 3
+Molecule has been set to: 7-bromo-4-chloro-5-cyclododecyl-2-hexadecyl-3,8,8-triiodo-2-pentyl-7-undecylcyclooctan-1,3,6-triol
+---------------------------
+7-bromo-4-chloro-5-cyclododecyl-2-hexadecyl-3,8,8-triiodo-2-pentyl-7-undecylcyclooctan-1,3,6-triol
+Should lead to: Br: 1, C: 52, Cl: 1, H: 97, I: 3, O: 3
+Molecule has been set to: propylamine
+---------------------------
+propylamine
+Should lead to: C: 3, H: 9, N: 1
+Molecule has been set to: 5-bromopent-1,3-diene
+---------------------------
+5-bromopent-1,3-diene
+Should lead to: Br: 1, C: 5, H: 7
+Molecule has been set to: 6-cyclodecyl-4-ethyl-2-heptyl-2-hexyl-7-nonyl-4-nonyl-3-nonyl-3-pentyl-8-pentadecyl-6-tridecyl-7-tridecyl-5-undecylcyclononane
+---------------------------
+6-cyclodecyl-4-ethyl-2-heptyl-2-hexyl-7-nonyl-4-nonyl-3-nonyl-3-pentyl-8-pentadecyl-6-tridecyl-7-tridecyl-5-undecylcyclononane
+Should lead to: C: 118, H: 234
+Molecule has been set to: 6-bromo-5-[1,3,3-tri[hexyloctadecyl]arsino-2,6,7,8-tetraiodo-11-methyl]dodecyl-10,11-dihydroxydodecan-1-amide
+---------------------------
+6-bromo-5-[1,3,3-tri[hexyloctadecyl]arsino-2,6,7,8-tetraiodo-11-methyl]dodecyl-10,11-dihydroxydodecan-1-amide
+Should lead to: As: 3, Br: 1, C: 97, H: 193, I: 4, N: 1, O: 3
+Molecule has been set to: hexadec-5,11,12-trien-1-amide
+---------------------------
+hexadec-5,11,12-trien-1-amide
+Should lead to: C: 16, H: 27, N: 1, O: 1
+Molecule has been set to: 8-[ditetradecyl]arsino-5-chloro-6-cyclododecyl-8-ethyl-9,14-difluoro-2-hexyl-2-hex-1,2,3,5-tetraenyl-11,13,15-trihydroxy-13-iodo-12-mercapto-16-nonyl-3,4,10-trioxo-5,9,14,15-tetranonoxy-12,16-diphenyl-11-[dihept-1,2,4,5-tetraenyl]phosphino-7-propylheptadec-6-en-1,17-dioic acid
+---------------------------
+8-[ditetradecyl]arsino-5-chloro-6-cyclododecyl-8-ethyl-9,14-difluoro-2-hexyl-2-hex-1,2,3,5-tetraenyl-11,13,15-trihydroxy-13-iodo-12-mercapto-16-nonyl-3,4,10-trioxo-5,9,14,15-tetranonoxy-12,16-diphenyl-11-[dihept-1,2,4,5-tetraenyl]phosphino-7-propylheptadec-6-en-1,17-dioic acid
+Should lead to: As: 1, C: 145, Cl: 1, F: 2, H: 236, I: 1, O: 14, P: 1, S: 1
+Molecule has been set to: 7-[12-octyl]cyclohexadecyl-10-cyclopropylcyclotridecane
+---------------------------
+7-[12-octyl]cyclohexadecyl-10-cyclopropylcyclotridecane
+Should lead to: C: 40, H: 76
+Molecule has been set to: 6-[[3-dodecyl-11-dodec-3,4,9,11-tetraenyl-16-hexadecyl]nonadecyl]arsino-5-chloro-5-[1,2,3,7-tetrabromo]hept-1,3,4,5-tetraenylcyclohex-2,4-dien-1,3,6-triol
+---------------------------
+6-[[3-dodecyl-11-dodec-3,4,9,11-tetraenyl-16-hexadecyl]nonadecyl]arsino-5-chloro-5-[1,2,3,7-tetrabromo]hept-1,3,4,5-tetraenylcyclohex-2,4-dien-1,3,6-triol
+Should lead to: As: 1, Br: 4, C: 72, Cl: 1, H: 120, O: 3
+Molecule has been set to: nonadecyl 19-amido-11-[heptadecyl]arsino-12-bromo-10,14-dichloro-18-dodecyl-2,5-difluoro-19-formyl-7-hydroxy-4,6,9-triimino-3,3,7,13-tetraiodo-5,15-dimercapto-16-methyl-14-nonyl-10-octyl-12-octyl-18-octadecyl-17-oxo-13-dodecoxy-8-pentadecyl-8-phenyl-11,16-di[ethylnonadecyl]phosphino-2-propylnonadecan-1-oate
+---------------------------
+nonadecyl 19-amido-11-[heptadecyl]arsino-12-bromo-10,14-dichloro-18-dodecyl-2,5-difluoro-19-formyl-7-hydroxy-4,6,9-triimino-3,3,7,13-tetraiodo-5,15-dimercapto-16-methyl-14-nonyl-10-octyl-12-octyl-18-octadecyl-17-oxo-13-dodecoxy-8-pentadecyl-8-phenyl-11,16-di[ethylnonadecyl]phosphino-2-propylnonadecan-1-oate
+Should lead to: As: 1, Br: 1, C: 190, Cl: 2, F: 2, H: 358, I: 4, N: 4, O: 7, P: 2, S: 2
+Molecule has been set to: 3,14-difluorotetradecan-6,7-diol
+---------------------------
+3,14-difluorotetradecan-6,7-diol
+Should lead to: C: 14, F: 2, H: 28, O: 2
+Molecule has been set to: 2-chloroethan-1-oic acid
+---------------------------
+2-chloroethan-1-oic acid
+Should lead to: C: 2, Cl: 1, H: 3, O: 2
+Molecule has been set to: 5-amino-3,4,6-tribromo-3-fluoro-2-imino-4,5,6-trimercaptohexan-1-amide
+---------------------------
+5-amino-3,4,6-tribromo-3-fluoro-2-imino-4,5,6-trimercaptohexan-1-amide
+Should lead to: Br: 3, C: 6, F: 1, H: 9, N: 3, O: 1, S: 3
+Molecule has been set to: 4-ethyl-5-[8-[4,5,16-triiodo]heptadecyl-11-[3-bromo-2-iodo-2-tetradecyl]propyl]cyclotridecylcyclononane
+---------------------------
+4-ethyl-5-[8-[4,5,16-triiodo]heptadecyl-11-[3-bromo-2-iodo-2-tetradecyl]propyl]cyclotridecylcyclononane
+Should lead to: Br: 1, C: 58, H: 109, I: 4
+Molecule has been set to: ethan-1,1,2-tri[propyl]arsine
+---------------------------
+ethan-1,1,2-tri[propyl]arsine
+Should lead to: As: 3, C: 11, H: 27
+Molecule has been set to: 8-bromo-5-butyl-1,5,13-trichloro-11-dodecyl-3-dodecyl-6-heptadecyl-3-hexyl-9-hexyl-8-hexadecyl-4,6,15-triiodo-7-octadecyl-7-octadecyl-12-pentadecyl-10-propyl-14-propyl-10-propyl-2-tetradecyl-14-tridecyl-2-undecylpentadecane
+---------------------------
+8-bromo-5-butyl-1,5,13-trichloro-11-dodecyl-3-dodecyl-6-heptadecyl-3-hexyl-9-hexyl-8-hexadecyl-4,6,15-triiodo-7-octadecyl-7-octadecyl-12-pentadecyl-10-propyl-14-propyl-10-propyl-2-tetradecyl-14-tridecyl-2-undecylpentadecane
+Should lead to: Br: 1, C: 186, Cl: 3, H: 367, I: 3
+Molecule has been set to: cyclohexan-1,2,3-trithiol
+---------------------------
+cyclohexan-1,2,3-trithiol
+Should lead to: C: 6, H: 12, S: 3
+Molecule has been set to: undec-3,4,8-trien-1,11-dioic acid
+---------------------------
+undec-3,4,8-trien-1,11-dioic acid
+Should lead to: C: 11, H: 14, O: 4
+Molecule has been set to: 9-chloro-7-cyclododecyl-2-cycloheptyl-4-oct-3,4,5,7-tetraenyl-3-pentadecyl-2-tridec-9,10-dienylcyclonon-1,4,5,6,8-pentaene
+---------------------------
+9-chloro-7-cyclododecyl-2-cycloheptyl-4-oct-3,4,5,7-tetraenyl-3-pentadecyl-2-tridec-9,10-dienylcyclonon-1,4,5,6,8-pentaene
+Should lead to: C: 64, Cl: 1, H: 101
+Molecule has been set to: di[1,5-dibromo-4-[3-nonadecyl]hexyl-2-[4,6,7,14-tetraiodo]tetradecyl]pentylether
+---------------------------
+di[1,5-dibromo-4-[3-nonadecyl]hexyl-2-[4,6,7,14-tetraiodo]tetradecyl]pentylether
+Should lead to: Br: 4, C: 88, H: 166, I: 8, O: 1
+Molecule has been set to: pentane
+---------------------------
+pentane
+Should lead to: C: 5, H: 12
+Molecule has been set to: 4-butyl-7-cyclododecyl-2-ethyl-2-nonadecyl-5-cyclononadecyl-11-pentadecyl-8-pentadec-10,11-dienyl-9-tetradecyl-7-tridecyldodec-1,6-diene
+---------------------------
+4-butyl-7-cyclododecyl-2-ethyl-2-nonadecyl-5-cyclononadecyl-11-pentadecyl-8-pentadec-10,11-dienyl-9-tetradecyl-7-tridecyldodec-1,6-diene
+Should lead to: C: 125, H: 240
+Molecule has been set to: [1-pentadecanoyloxy]propyl decan-1,10-dioate
+---------------------------
+[1-pentadecanoyloxy]propyl decan-1,10-dioate
+Should lead to: C: 46, H: 86, O: 8
+Molecule has been set to: butyl 15-amido-3,11-diiminopentadecan-1-oate
+---------------------------
+butyl 15-amido-3,11-diiminopentadecan-1-oate
+Should lead to: C: 19, H: 35, N: 3, O: 3
+Molecule has been set to: dioctylether
+---------------------------
+dioctylether
+Should lead to: C: 16, H: 34, O: 1
+Molecule has been set to: methylpentylether
+---------------------------
+methylpentylether
+Should lead to: C: 6, H: 14, O: 1
+Molecule has been set to: 3-nonoxynonan-1,9-dioic acid
+---------------------------
+3-nonoxynonan-1,9-dioic acid
+Should lead to: C: 18, H: 34, O: 5
+Molecule has been set to: nonylphosphine
+---------------------------
+nonylphosphine
+Should lead to: C: 9, H: 21, P: 1
+Molecule has been set to: cyclohexane
+---------------------------
+cyclohexane
+Should lead to: C: 6, H: 12
+Molecule has been set to: cyclooctan-2,6-diarsine
+---------------------------
+cyclooctan-2,6-diarsine
+Should lead to: As: 2, C: 8, H: 18
+Molecule has been set to: ethane
+---------------------------
+ethane
+Should lead to: C: 2, H: 6
+Molecule has been set to: propane
+---------------------------
+propane
+Should lead to: C: 3, H: 8
+Molecule has been set to: 2,3,7-tripentoxycyclonon-1-yn-7,9-diol
+---------------------------
+2,3,7-tripentoxycyclonon-1-yn-7,9-diol
+Should lead to: C: 24, H: 44, O: 5
+Molecule has been set to: heptyl 6-amino-4-arsino-3,5-dibromo-2,4-dihydroxy-6-iminohexan-1-oate
+---------------------------
+heptyl 6-amino-4-arsino-3,5-dibromo-2,4-dihydroxy-6-iminohexan-1-oate
+Should lead to: As: 1, Br: 2, C: 13, H: 25, N: 2, O: 4
+Molecule has been set to: [19-hydroxy]nonadecyl 5-iodooctadec-8,12,14-trien-1,18-dioate
+---------------------------
+[19-hydroxy]nonadecyl 5-iodooctadec-8,12,14-trien-1,18-dioate
+Should lead to: C: 56, H: 103, I: 1, O: 6
+Molecule has been set to: methylmethylether
+---------------------------
+methylmethylether
+Should lead to: C: 2, H: 6, O: 1
+Molecule has been set to: propan-1-[heptylhexyl]phosphine
+---------------------------
+propan-1-[heptylhexyl]phosphine
+Should lead to: C: 16, H: 35, P: 1
+Molecule has been set to: nonane
+---------------------------
+nonane
+Should lead to: C: 9, H: 20
+Molecule has been set to: 7-cyclooctadec-5,14,16-trienyl-13-[5-[8-tridecyl]undec-2,4,9-triynyl]pentadec-8,9,11,12-tetraen-3,4,6-triynylnonadec-3,13,16,17,18-pentaen-11-yne
+---------------------------
+7-cyclooctadec-5,14,16-trienyl-13-[5-[8-tridecyl]undec-2,4,9-triynyl]pentadec-8,9,11,12-tetraen-3,4,6-triynylnonadec-3,13,16,17,18-pentaen-11-yne
+Should lead to: C: 76, H: 100
+Molecule has been set to: diheptadecylnonadecylamine
+---------------------------
+diheptadecylnonadecylamine
+Should lead to: C: 53, H: 109, N: 1
+Molecule has been set to: 6-[4,5,7,10,13,13,14-heptachloro-9-decyl-11-non-4,6,8-trienyl]tetradecyldodec-1,5,7-trien-1,4,10,12-tetra[diundecyl]arsine
+---------------------------
+6-[4,5,7,10,13,13,14-heptachloro-9-decyl-11-non-4,6,8-trienyl]tetradecyldodec-1,5,7-trien-1,4,10,12-tetra[diundecyl]arsine
+Should lead to: As: 4, C: 133, Cl: 7, H: 253
+Molecule has been set to: 2-[2,2,3,4-tetrabromo-3-[2,4,11-trichloro-10-propyl]cyclododecyl]butyl-5-[7-methyl-5-octyl-3-[6-propyl-3-tridecyl]octyl]nonyl-2-[14-heptadecyl]cyclononadecylcyclohexane
+---------------------------
+2-[2,2,3,4-tetrabromo-3-[2,4,11-trichloro-10-propyl]cyclododecyl]butyl-5-[7-methyl-5-octyl-3-[6-propyl-3-tridecyl]octyl]nonyl-2-[14-heptadecyl]cyclononadecylcyclohexane
+Should lead to: Br: 4, C: 103, Cl: 3, H: 195
+Molecule has been set to: 13-[butylcyclohexyl]amino-8-[didodecyl]arsino-1,5,9,11-tetrabromo-2-decyl-6,7,9-trifluoro-12-hexyl-10-iodo-2,5,7,14-tetramercapto-11-cyclooctyl-3,4,4,8,12,14-hexaphenyl-3-tridecyl-6-undecylcyclopentadecan-10,13,15,15-tetraol
+---------------------------
+13-[butylcyclohexyl]amino-8-[didodecyl]arsino-1,5,9,11-tetrabromo-2-decyl-6,7,9-trifluoro-12-hexyl-10-iodo-2,5,7,14-tetramercapto-11-cyclooctyl-3,4,4,8,12,14-hexaphenyl-3-tridecyl-6-undecylcyclopentadecan-10,13,15,15-tetraol
+Should lead to: As: 1, Br: 4, C: 133, F: 3, H: 208, I: 1, N: 1, O: 4, S: 4
+Molecule has been set to: 7-decyl-10-dodecyltetradecan-1,14-diimine
+---------------------------
+7-decyl-10-dodecyltetradecan-1,14-diimine
+Should lead to: C: 36, H: 72, N: 2
+Molecule has been set to: 8-formyl-2,5-dihydroxy-5,8-dimercaptooct-4-ynoic acid
+---------------------------
+8-formyl-2,5-dihydroxy-5,8-dimercaptooct-4-ynoic acid
+Should lead to: C: 9, H: 12, O: 5, S: 2
+Molecule has been set to: hexyl 13-amido-2-amino-4,12-di[nonadecyltridecyl]arsino-11-dodecyl-2,3-difluoro-8-heptyl-10-hydroxy-6-imino-12,13-diiodo-3,4,7-trimercapto-8-nonadecyl-11-octadecyl-5-oxo-13-propanoyloxy-9,10-di[pentadecyltetradecyl]phosphinotridecanoate
+---------------------------
+hexyl 13-amido-2-amino-4,12-di[nonadecyltridecyl]arsino-11-dodecyl-2,3-difluoro-8-heptyl-10-hydroxy-6-imino-12,13-diiodo-3,4,7-trimercapto-8-nonadecyl-11-octadecyl-5-oxo-13-propanoyloxy-9,10-di[pentadecyltetradecyl]phosphinotridecanoate
+Should lead to: As: 2, C: 200, F: 2, H: 395, I: 2, N: 3, O: 7, P: 2, S: 3
+Molecule has been set to: methyl hexadecan-1-oate
+---------------------------
+methyl hexadecan-1-oate
+Should lead to: C: 17, H: 34, O: 2
+Molecule has been set to: dodec-5,8,10,11-tetrayn-1-oic acid
+---------------------------
+dodec-5,8,10,11-tetrayn-1-oic acid
+Should lead to: C: 12, H: 8, O: 2
+Molecule has been set to: 4,11-di[tridecyl]arsino-6-cyclobutyl-10-chloro-4-cyclodecyl-5-cyclododecyl-10-heptyl-11-hexyl-3-iodo-14-non-1,3,5,8-tetraenyl-3-cyclononadecyl-2-oct-1,2,4,7-tetraenyl-5-octyl-7-octyl-14-pentadecyl-6-undecyl-9-undec-7-enylheptadec-8-en-1,17-diimine
+---------------------------
+4,11-di[tridecyl]arsino-6-cyclobutyl-10-chloro-4-cyclodecyl-5-cyclododecyl-10-heptyl-11-hexyl-3-iodo-14-non-1,3,5,8-tetraenyl-3-cyclononadecyl-2-oct-1,2,4,7-tetraenyl-5-octyl-7-octyl-14-pentadecyl-6-undecyl-9-undec-7-enylheptadec-8-en-1,17-diimine
+Should lead to: As: 2, C: 171, Cl: 1, H: 314, I: 1, N: 2
+Molecule has been set to: 8,10-dichloro-9-[12-chloro-6-[2-cyclobutyl-2-dec-9-en-1,4,5-triynyl]propynyl]octadecylnonadec-2,3,7,11,16-pentayne
+---------------------------
+8,10-dichloro-9-[12-chloro-6-[2-cyclobutyl-2-dec-9-en-1,4,5-triynyl]propynyl]octadecylnonadec-2,3,7,11,16-pentayne
+Should lead to: C: 54, Cl: 3, H: 67
+Molecule has been set to: 2-[[3,7,8,9,10-pentaiodo]cyclodecyl[3-bromo-4-ethyl-11-iodo]dodecyl]arsinoeth-1-en-1,1,2-triol
+---------------------------
+2-[[3,7,8,9,10-pentaiodo]cyclodecyl[3-bromo-4-ethyl-11-iodo]dodecyl]arsinoeth-1-en-1,1,2-triol
+Should lead to: As: 1, Br: 1, C: 26, H: 44, I: 6, O: 3
+Molecule has been set to: 5,7,8,12,13,14-hexa[dipentadecyl]arsino-3,3,4,4,10,12-hexachloro-9,14-difluoro-14-formyl-7,8,11-trihydroxy-6-iminotetradecan-1-oic acid
+---------------------------
+5,7,8,12,13,14-hexa[dipentadecyl]arsino-3,3,4,4,10,12-hexachloro-9,14-difluoro-14-formyl-7,8,11-trihydroxy-6-iminotetradecan-1-oic acid
+Should lead to: As: 6, C: 195, Cl: 6, F: 2, H: 385, N: 1, O: 6
+Molecule has been set to: 9-[1,2,6-triimino]heptyl-3-hexadecyl-5,10-diiminoundecan-1,11-diamide
+---------------------------
+9-[1,2,6-triimino]heptyl-3-hexadecyl-5,10-diiminoundecan-1,11-diamide
+Should lead to: C: 34, H: 63, N: 7, O: 2
+Molecule has been set to: 7-[9-amino-3,5-dimercapto]cyclodecylcyclotridecan-8,12-dione
+---------------------------
+7-[9-amino-3,5-dimercapto]cyclodecylcyclotridecan-8,12-dione
+Should lead to: C: 23, H: 41, N: 1, O: 2, S: 2
+Molecule has been set to: 4-nonyl-4-nonadecyl-6-pentyl-3-cyclopropylcycloheptane
+---------------------------
+4-nonyl-4-nonadecyl-6-pentyl-3-cyclopropylcycloheptane
+Should lead to: C: 43, H: 84
+Molecule has been set to: heptadecyl 2,3-di[methyl]arsino-4,6,6-trichloro-2-[9-mercapto-2,6,7,9-tetraphenyl]nonylnon-4,5,7-trien-1,9-dioate
+---------------------------
+heptadecyl 2,3-di[methyl]arsino-4,6,6-trichloro-2-[9-mercapto-2,6,7,9-tetraphenyl]nonylnon-4,5,7-trien-1,9-dioate
+Should lead to: As: 2, C: 78, Cl: 3, H: 115, O: 4, S: 1
+Molecule has been set to: [1,8-diamido]octyl dodecanoate
+---------------------------
+[1,8-diamido]octyl dodecanoate
+Should lead to: C: 20, H: 38, N: 2, O: 4
+Molecule has been set to: ethyl 4,7,9,10,13-penta[nonyl]amino-11-butyl-6-butyl-8-chloro-9-fluoro-3,12-diimino-5-methyl-5-octadecyl-6-dec-1,2,6,9-tetraenoxy-7-pentyl-4,8,11,13-tetraphosphino-2-tetradec-2,3,6,8,13-pentaenyltetradec-10-en-1,14-dioate
+---------------------------
+ethyl 4,7,9,10,13-penta[nonyl]amino-11-butyl-6-butyl-8-chloro-9-fluoro-3,12-diimino-5-methyl-5-octadecyl-6-dec-1,2,6,9-tetraenoxy-7-pentyl-4,8,11,13-tetraphosphino-2-tetradec-2,3,6,8,13-pentaenyltetradec-10-en-1,14-dioate
+Should lead to: C: 119, Cl: 1, F: 1, H: 221, N: 7, O: 5, P: 4
+Molecule has been set to: [4-[16-decyl-11-decyl-2,4,15-triimino]octadecyl]nonadecylamine
+---------------------------
+[4-[16-decyl-11-decyl-2,4,15-triimino]octadecyl]nonadecylamine
+Should lead to: C: 57, H: 114, N: 4
+Molecule has been set to: cyclononadec-2,9,14,18-tetraen-1,7,9,12,13,15-hexaol
+---------------------------
+cyclononadec-2,9,14,18-tetraen-1,7,9,12,13,15-hexaol
+Should lead to: C: 19, H: 30, O: 6
+Molecule has been set to: 15,17-dibromo-13-dodecyl-16-dodecyl-11-dodecyl-12-ethyl-4-ethyl-2,6,9,17-tetraiodo-3-methyl-7-nonyl-13-nonadecyl-12-tridecylheptadecane
+---------------------------
+15,17-dibromo-13-dodecyl-16-dodecyl-11-dodecyl-12-ethyl-4-ethyl-2,6,9,17-tetraiodo-3-methyl-7-nonyl-13-nonadecyl-12-tridecylheptadecane
+Should lead to: Br: 2, C: 99, H: 194, I: 4
+Molecule has been set to: nonadecyl non-4,5,8-trien-1-oate
+---------------------------
+nonadecyl non-4,5,8-trien-1-oate
+Should lead to: C: 28, H: 50, O: 2
+Molecule has been set to: [4-oxo]undecyl 2,4,5,6,8,11-hexa[pentadecyl]aminoundecanoate
+---------------------------
+[4-oxo]undecyl 2,4,5,6,8,11-hexa[pentadecyl]aminoundecanoate
+Should lead to: C: 112, H: 228, N: 6, O: 3
+Molecule has been set to: pentadecylpropylether
+---------------------------
+pentadecylpropylether
+Should lead to: C: 18, H: 38, O: 1
+Molecule has been set to: 1,4,5-trifluoro-2-[7-fluoro-2-hexadecyl-5-[1,7-dichloro-6-hexyl-7-cyclopropyl]nonyl]cycloheptylcycloheptan-1,4-di[hexyl]arsine
+---------------------------
+1,4,5-trifluoro-2-[7-fluoro-2-hexadecyl-5-[1,7-dichloro-6-hexyl-7-cyclopropyl]nonyl]cycloheptylcycloheptan-1,4-di[hexyl]arsine
+Should lead to: As: 2, C: 60, Cl: 2, F: 4, H: 112
+Molecule has been set to: octadecyl prop-2-en-1-oate
+---------------------------
+octadecyl prop-2-en-1-oate
+Should lead to: C: 21, H: 40, O: 2
+Molecule has been set to: 4,9-di[hexadecyltridecyl]arsino-3,3,11-tribromo-10,12-dichloro-7-heptyl-5,6-diimino-2,9,11-triiodo-4,13-dimercapto-10-octyl-2-octyl-8-octadecyl-7,8-diheptoxy-12-phosphinotridecanal
+---------------------------
+4,9-di[hexadecyltridecyl]arsino-3,3,11-tribromo-10,12-dichloro-7-heptyl-5,6-diimino-2,9,11-triiodo-4,13-dimercapto-10-octyl-2-octyl-8-octadecyl-7,8-diheptoxy-12-phosphinotridecanal
+Should lead to: As: 2, Br: 3, C: 126, Cl: 2, H: 245, I: 3, N: 2, O: 3, P: 1, S: 2
+Molecule has been set to: heptadecyl[6-bromo-4-[10-[pentyltetradecyl]arsino-2-heptyl]tetradecyl-11-[13-arsino]tetradecyl]pentadecylether
+---------------------------
+heptadecyl[6-bromo-4-[10-[pentyltetradecyl]arsino-2-heptyl]tetradecyl-11-[13-arsino]tetradecyl]pentadecylether
+Should lead to: As: 2, Br: 1, C: 86, H: 175, O: 1
+Molecule has been set to: [amido]propyl hexadecanoate
+---------------------------
+[amido]propyl hexadecanoate
+Should lead to: C: 19, H: 37, N: 1, O: 3
+Molecule has been set to: 6-decyl-3-cyclodecyl-15-cyclododec-2,3,4,7,10-pentaenyl-11-ethyl-12-eth-1-ynyl-15-cyclooctadecyl-16-tridecyl-11-cycloundec-4,5-dienylheptadec-5,9,10,13-tetrayne
+---------------------------
+6-decyl-3-cyclodecyl-15-cyclododec-2,3,4,7,10-pentaenyl-11-ethyl-12-eth-1-ynyl-15-cyclooctadecyl-16-tridecyl-11-cycloundec-4,5-dienylheptadec-5,9,10,13-tetrayne
+Should lead to: C: 95, H: 150
+Molecule has been set to: 2-but-3-enylhept-4,5-diyne
+---------------------------
+2-but-3-enylhept-4,5-diyne
+Should lead to: C: 11, H: 14
+Molecule has been set to: tetradecyl 2-iminoheptan-1-oate
+---------------------------
+tetradecyl 2-iminoheptan-1-oate
+Should lead to: C: 21, H: 41, N: 1, O: 2
+Molecule has been set to: 3-hexyl-2-methylcyclobut-1,2,3-triene
+---------------------------
+3-hexyl-2-methylcyclobut-1,2,3-triene
+Should lead to: C: 11, H: 16
+Molecule has been set to: [3-oxo]dodecyl dec-8,9-dien-1-oate
+---------------------------
+[3-oxo]dodecyl dec-8,9-dien-1-oate
+Should lead to: C: 22, H: 38, O: 3
+Molecule has been set to: hexadecane
+---------------------------
+hexadecane
+Should lead to: C: 16, H: 34
+Molecule has been set to: 3,3-diiodo-4-methylcyclohex-2,4-dien-6,6-diarsine
+---------------------------
+3,3-diiodo-4-methylcyclohex-2,4-dien-6,6-diarsine
+Should lead to: As: 2, C: 7, H: 10, I: 2
+Molecule has been set to: nonadec-5-yn-1,19-dioic acid
+---------------------------
+nonadec-5-yn-1,19-dioic acid
+Should lead to: C: 19, H: 32, O: 4
+Molecule has been set to: 2-hexadecylpentane
+---------------------------
+2-hexadecylpentane
+Should lead to: C: 21, H: 44
+Molecule has been set to: 2,8,9-tribromo-11-but-2-enyl-5-cyclobut-1,3-dienyl-6-dec-5,7-dienyl-13-cyclododecyl-4-dodec-3,6-dienyl-13-fluoro-9-hexadecyl-3-methyl-12-nonadecyl-14-cyclononadecyl-4-octyl-11-octadecyl-14-cyclopropyl-7-tetradecyl-7-tridecylpentadec-1,6,8,10-tetraen-1,3,10,12,15-penta[butylheptyl]arsine
+---------------------------
+2,8,9-tribromo-11-but-2-enyl-5-cyclobut-1,3-dienyl-6-dec-5,7-dienyl-13-cyclododecyl-4-dodec-3,6-dienyl-13-fluoro-9-hexadecyl-3-methyl-12-nonadecyl-14-cyclononadecyl-4-octyl-11-octadecyl-14-cyclopropyl-7-tetradecyl-7-tridecylpentadec-1,6,8,10-tetraen-1,3,10,12,15-penta[butylheptyl]arsine
+Should lead to: As: 5, Br: 3, C: 223, F: 1, H: 419
+Molecule has been set to: nonadecylundecylether
+---------------------------
+nonadecylundecylether
+Should lead to: C: 30, H: 62, O: 1
+Molecule has been set to: tetradecane
+---------------------------
+tetradecane
+Should lead to: C: 14, H: 30
+Molecule has been set to: 3-cyclobutyl-4-chloro-2-dodecyl-9-hex-4,5-dien-2-ynyl-9-nonyl-6-cyclopentyl-5-undecylcyclodec-8-yne
+---------------------------
+3-cyclobutyl-4-chloro-2-dodecyl-9-hex-4,5-dien-2-ynyl-9-nonyl-6-cyclopentyl-5-undecylcyclodec-8-yne
+Should lead to: C: 57, Cl: 1, H: 97
+Molecule has been set to: 5-chloro-5-heptadecylcyclohex-3-ene
+---------------------------
+5-chloro-5-heptadecylcyclohex-3-ene
+Should lead to: C: 23, Cl: 1, H: 43
+Molecule has been set to: eth-1-ene
+---------------------------
+eth-1-ene
+Should lead to: C: 2, H: 4
+Molecule has been set to: heptadecane
+---------------------------
+heptadecane
+Should lead to: C: 17, H: 36
+Molecule has been set to: 4-[12-[1,7-difluoro]decyl]nonadecyl-13-phenylnonadecan-11,12-dithiol
+---------------------------
+4-[12-[1,7-difluoro]decyl]nonadecyl-13-phenylnonadecan-11,12-dithiol
+Should lead to: C: 54, F: 2, H: 100, S: 2
+Molecule has been set to: 5,5,6-trihydroxyheptan-1-al
+---------------------------
+5,5,6-trihydroxyheptan-1-al
+Should lead to: C: 7, H: 14, O: 4
+Molecule has been set to: nonylpentylpentadecylarsine
+---------------------------
+nonylpentylpentadecylarsine
+Should lead to: As: 1, C: 29, H: 61
+Molecule has been set to: [chloro]methyldi[16-[3-hexadecyl]tridecyl]nonadecylphosphine
+---------------------------
+[chloro]methyldi[16-[3-hexadecyl]tridecyl]nonadecylphosphine
+Should lead to: C: 97, Cl: 1, H: 196, P: 1
+Molecule has been set to: 5-pentadecylcyclohexane
+---------------------------
+5-pentadecylcyclohexane
+Should lead to: C: 21, H: 42
+Molecule has been set to: 3-amino-5-arsino-2-ethyl-4,4,6-trifluoro-6,7-dihydroxy-5,7-dimercapto-2-[nonyl]phosphinooctan-1,8-dioic acid
+---------------------------
+3-amino-5-arsino-2-ethyl-4,4,6-trifluoro-6,7-dihydroxy-5,7-dimercapto-2-[nonyl]phosphinooctan-1,8-dioic acid
+Should lead to: As: 1, C: 19, F: 3, H: 36, N: 1, O: 6, P: 1, S: 2
+Molecule has been set to: 3-[1-bromo]methyl-4-[4,5-dibromo-3-octyl-10-propyl]cyclotetradecylcyclohexane
+---------------------------
+3-[1-bromo]methyl-4-[4,5-dibromo-3-octyl-10-propyl]cyclotetradecylcyclohexane
+Should lead to: Br: 3, C: 32, H: 59
+Molecule has been set to: octadecan-4,10-di[[3,7-difluoro]heptyl]amine
+---------------------------
+octadecan-4,10-di[[3,7-difluoro]heptyl]amine
+Should lead to: C: 32, F: 4, H: 64, N: 2
+Molecule has been set to: 7,16,16-tribromo-4-butyl-6,13,13-trichloro-18-fluoro-6,17-dihydroxy-15-iodo-3,7,14-trimercapto-11,12-dioxo-2,5,9,17-tetraphenylnonadecan-1,19-dioic acid
+---------------------------
+7,16,16-tribromo-4-butyl-6,13,13-trichloro-18-fluoro-6,17-dihydroxy-15-iodo-3,7,14-trimercapto-11,12-dioxo-2,5,9,17-tetraphenylnonadecan-1,19-dioic acid
+Should lead to: Br: 3, C: 47, Cl: 3, F: 1, H: 48, I: 1, O: 8, S: 3
+Molecule has been set to: cyclohept-4,5-dien-1-imine
+---------------------------
+cyclohept-4,5-dien-1-imine
+Should lead to: C: 7, H: 9, N: 1
+Molecule has been set to: 4-[ethyl]amino-2,4-dimercapto-2-[4,10-dibromo-6,8,14,15-tetrahydroxy]pentadecoxybutanal
+---------------------------
+4-[ethyl]amino-2,4-dimercapto-2-[4,10-dibromo-6,8,14,15-tetrahydroxy]pentadecoxybutanal
+Should lead to: Br: 2, C: 21, H: 41, N: 1, O: 6, S: 2
+Molecule has been set to: 1,4,4,8,8,9-hexabromo-7-ethyl-2-ethyl-5-ethyl-3-nonyl-3-pentyl-7-propylnonane
+---------------------------
+1,4,4,8,8,9-hexabromo-7-ethyl-2-ethyl-5-ethyl-3-nonyl-3-pentyl-7-propylnonane
+Should lead to: Br: 6, C: 32, H: 60
+Molecule has been set to: cyclodecane
+---------------------------
+cyclodecane
+Should lead to: C: 10, H: 20
+Molecule has been set to: [1,17-diamido-8-[4-bromo]butyl-1,17-diformyl]heptadecyl 5,16-di[[2-mercapto]dodecyl]arsinononadecan-1-oate
+---------------------------
+[1,17-diamido-8-[4-bromo]butyl-1,17-diformyl]heptadecyl 5,16-di[[2-mercapto]dodecyl]arsinononadecan-1-oate
+Should lead to: As: 2, Br: 1, C: 66, H: 127, N: 2, O: 6, S: 2
+Molecule has been set to: methyltetradecylphosphine
+---------------------------
+methyltetradecylphosphine
+Should lead to: C: 15, H: 33, P: 1
+Molecule has been set to: cyclopent-1,3,4-triene
+---------------------------
+cyclopent-1,3,4-triene
+Should lead to: C: 5, H: 4
+Molecule has been set to: diheptadecylphosphine
+---------------------------
+diheptadecylphosphine
+Should lead to: C: 34, H: 71, P: 1
+Molecule has been set to: 10-[hept-4,6-diynyl]arsino-6-dodecyl-7-iminodec-1,4,6-trien-2,9-diyn-8-one
+---------------------------
+10-[hept-4,6-diynyl]arsino-6-dodecyl-7-iminodec-1,4,6-trien-2,9-diyn-8-one
+Should lead to: As: 1, C: 29, H: 36, N: 1, O: 1
+Molecule has been set to: 5-[4-dec-1,2,4,9-tetraenyl]cyclopent-4-enyl-5-tetradecylcycloundec-3,9,10-trienimine
+---------------------------
+5-[4-dec-1,2,4,9-tetraenyl]cyclopent-4-enyl-5-tetradecylcycloundec-3,9,10-trienimine
+Should lead to: C: 40, H: 61, N: 1
+Molecule has been set to: 1,7-diiodo-2-cyclononylcycloheptane
+---------------------------
+1,7-diiodo-2-cyclononylcycloheptane
+Should lead to: C: 16, H: 28, I: 2
+Molecule has been set to: butylhexylphosphine
+---------------------------
+butylhexylphosphine
+Should lead to: C: 10, H: 23, P: 1
+Molecule has been set to: 1,5-di[[1,3,4-trichloro]butyl[2-cyclooctyl-4-tridecyl]octyl]arsino-3-[9,11,11,12-tetrachloro-4-[3,3-dibromo-2-undecyl]cyclooctyl]cyclododecyl-6-hexylcyclooctan-2,6,7,7,8-pentaphosphine
+---------------------------
+1,5-di[[1,3,4-trichloro]butyl[2-cyclooctyl-4-tridecyl]octyl]arsino-3-[9,11,11,12-tetrachloro-4-[3,3-dibromo-2-undecyl]cyclooctyl]cyclododecyl-6-hexylcyclooctan-2,6,7,7,8-pentaphosphine
+Should lead to: As: 2, Br: 2, C: 111, Cl: 10, H: 209, P: 5
+Molecule has been set to: [1-fluoro-2-pentyl]propylarsine
+---------------------------
+[1-fluoro-2-pentyl]propylarsine
+Should lead to: As: 1, C: 8, F: 1, H: 18
+Molecule has been set to: cyclooctadec-7,10,15-trien-2,3,12-triyne
+---------------------------
+cyclooctadec-7,10,15-trien-2,3,12-triyne
+Should lead to: C: 18, H: 18
+Molecule has been set to: propane
+---------------------------
+propane
+Should lead to: C: 3, H: 8
+Molecule has been set to: pentadecanoic acid
+---------------------------
+pentadecanoic acid
+Should lead to: C: 15, H: 30, O: 2
+Molecule has been set to: 3-bromo-2-dodecyl-2-iodocyclopropane
+---------------------------
+3-bromo-2-dodecyl-2-iodocyclopropane
+Should lead to: Br: 1, C: 15, H: 28, I: 1
+Molecule has been set to: 2,5,9-trichlorocyclodec-4,6,7-triyn-1,10-diimine
+---------------------------
+2,5,9-trichlorocyclodec-4,6,7-triyn-1,10-diimine
+Should lead to: C: 10, Cl: 3, H: 3, N: 2
+Molecule has been set to: hexadecan-2,14,16-trithiol
+---------------------------
+hexadecan-2,14,16-trithiol
+Should lead to: C: 16, H: 34, S: 3
+Molecule has been set to: 3-butyl-11-butyl-1,2,4,7,9,11-hexachloro-8-decyl-9-dodecyl-10-ethyl-4-ethyl-8-hexyl-10-methyl-2-nonadecyl-5-octyl-6-propyl-3-tetradecyl-6-tridecyl-7-undecyldodecane
+---------------------------
+3-butyl-11-butyl-1,2,4,7,9,11-hexachloro-8-decyl-9-dodecyl-10-ethyl-4-ethyl-8-hexyl-10-methyl-2-nonadecyl-5-octyl-6-propyl-3-tetradecyl-6-tridecyl-7-undecyldodecane
+Should lead to: C: 121, Cl: 6, H: 238
+Molecule has been set to: 4,5,11-triarsino-8-mercapto-6-non-4-enyltetradec-3,10-diyn-9,13-diol
+---------------------------
+4,5,11-triarsino-8-mercapto-6-non-4-enyltetradec-3,10-diyn-9,13-diol
+Should lead to: As: 3, C: 23, H: 41, O: 2, S: 1
+Molecule has been set to: 2-dodecylundecan-1,11-dial
+---------------------------
+2-dodecylundecan-1,11-dial
+Should lead to: C: 23, H: 44, O: 2
+Molecule has been set to: dodecyloctylether
+---------------------------
+dodecyloctylether
+Should lead to: C: 20, H: 42, O: 1
+Molecule has been set to: 2,8,13-triiodo-5-pentylcyclohexadecan-4,6,10,12,14-pentaone
+---------------------------
+2,8,13-triiodo-5-pentylcyclohexadecan-4,6,10,12,14-pentaone
+Should lead to: C: 21, H: 29, I: 3, O: 5
+Molecule has been set to: heptadec-1-yne
+---------------------------
+heptadec-1-yne
+Should lead to: C: 17, H: 32
+Molecule has been set to: 1,1,7-tribromo-2,11,15,17,18-pentachloro-4-dodecyl-3-dodecyl-4-ethyl-17-iodo-15-nonadecyl-9-octyl-16-octyl-2-octadecyl-14-octadecyl-10-propyl-8-propyloctadecane
+---------------------------
+1,1,7-tribromo-2,11,15,17,18-pentachloro-4-dodecyl-3-dodecyl-4-ethyl-17-iodo-15-nonadecyl-9-octyl-16-octyl-2-octadecyl-14-octadecyl-10-propyl-8-propyloctadecane
+Should lead to: Br: 3, C: 121, Cl: 5, H: 235, I: 1
+Molecule has been set to: pentadecan-1,2,10,13,15-penta[dipentadecyl]phosphine
+---------------------------
+pentadecan-1,2,10,13,15-penta[dipentadecyl]phosphine
+Should lead to: C: 165, H: 337, P: 5
+Molecule has been set to: 6-[1,2-diiodo]ethyl-10-[15-ethyl]cyclooctadecylcyclotridecane
+---------------------------
+6-[1,2-diiodo]ethyl-10-[15-ethyl]cyclooctadecylcyclotridecane
+Should lead to: C: 35, H: 66, I: 2
+Molecule has been set to: ethane
+---------------------------
+ethane
+Should lead to: C: 2, H: 6
+Molecule has been set to: 2-phosphinobutan-1-oic acid
+---------------------------
+2-phosphinobutan-1-oic acid
+Should lead to: C: 4, H: 9, O: 2, P: 1
+Molecule has been set to: heptadecane
+---------------------------
+heptadecane
+Should lead to: C: 17, H: 36
+Molecule has been set to: tetradecylarsine
+---------------------------
+tetradecylarsine
+Should lead to: As: 1, C: 14, H: 31
+Molecule has been set to: didecylamine
+---------------------------
+didecylamine
+Should lead to: C: 20, H: 43, N: 1
+Molecule has been set to: 2,3,10-tribromo-8-methyl-10-[2-[1,1,7,8,9,10-hexabromo-3-methyl]dec-2,7,8-trienyl-2-non-1,4,8-triynyl]cyclopropylcyclononadec-1,11,12,13,15-pentayne
+---------------------------
+2,3,10-tribromo-8-methyl-10-[2-[1,1,7,8,9,10-hexabromo-3-methyl]dec-2,7,8-trienyl-2-non-1,4,8-triynyl]cyclopropylcyclononadec-1,11,12,13,15-pentayne
+Should lead to: Br: 9, C: 43, H: 37
+Molecule has been set to: 2,7-dibromo-3,4,7,8-tetraiodo-6-ethenoxyoct-2,3,5,6-tetraen-1-amide
+---------------------------
+2,7-dibromo-3,4,7,8-tetraiodo-6-ethenoxyoct-2,3,5,6-tetraen-1-amide
+Should lead to: Br: 2, C: 10, H: 5, I: 4, N: 1, O: 2
+Molecule has been set to: propyl[2-[6-butyl-7-methyl]octyl-4,5-diphosphino]undecylether
+---------------------------
+propyl[2-[6-butyl-7-methyl]octyl-4,5-diphosphino]undecylether
+Should lead to: C: 27, H: 58, O: 1, P: 2
+Molecule has been set to: 3-[3-[5-dodec-7-enyl-10-hexyl-15-tridecyl]heptadecyl-2-[5-pentyl-3-pentadecyl]tridec-2-ynyl]cyclobutyl-5-[4-iodo]dec-1,5,6,7,8-pentaen-2,3-diynylhept-3,4-dien-1,6-diyne
+---------------------------
+3-[3-[5-dodec-7-enyl-10-hexyl-15-tridecyl]heptadecyl-2-[5-pentyl-3-pentadecyl]tridec-2-ynyl]cyclobutyl-5-[4-iodo]dec-1,5,6,7,8-pentaen-2,3-diynylhept-3,4-dien-1,6-diyne
+Should lead to: C: 102, H: 167, I: 1
+Molecule has been set to: cycloheptane
+---------------------------
+cycloheptane
+Should lead to: C: 7, H: 14
+Molecule has been set to: di[2-[3-hexadecyl-4-propyl]undecyl]nonadecylphosphine
+---------------------------
+di[2-[3-hexadecyl-4-propyl]undecyl]nonadecylphosphine
+Should lead to: C: 98, H: 199, P: 1
+Molecule has been set to: ethan-1,2,2-tri[butylnonyl]arsine
+---------------------------
+ethan-1,2,2-tri[butylnonyl]arsine
+Should lead to: As: 3, C: 41, H: 87
+Molecule has been set to: 3-pentadecylcyclobutan-4-phosphine
+---------------------------
+3-pentadecylcyclobutan-4-phosphine
+Should lead to: C: 19, H: 39, P: 1
+Molecule has been set to: 1,3,4,14,15,15-hexaarsino-8-bromocyclohexadecan-3,6,7,8,9-pentaol
+---------------------------
+1,3,4,14,15,15-hexaarsino-8-bromocyclohexadecan-3,6,7,8,9-pentaol
+Should lead to: As: 6, Br: 1, C: 16, H: 37, O: 5
+Molecule has been set to: cyclopropan-1,2,2,3-tetraol
+---------------------------
+cyclopropan-1,2,2,3-tetraol
+Should lead to: C: 3, H: 6, O: 4
+Molecule has been set to: pentylamine
+---------------------------
+pentylamine
+Should lead to: C: 5, H: 13, N: 1
+Molecule has been set to: 1,3,4,5,6,7-hexachloro-2-[2,2,4,7,8,10-hexaphenyl-6-propyl]decyl-3-[3,4,6,7-tetrabromo]octylheptan-1,7-diimine
+---------------------------
+1,3,4,5,6,7-hexachloro-2-[2,2,4,7,8,10-hexaphenyl-6-propyl]decyl-3-[3,4,6,7-tetrabromo]octylheptan-1,7-diimine
+Should lead to: Br: 4, C: 64, Cl: 6, H: 70, N: 2
+Molecule has been set to: cyclododec-2,3,8-triynimine
+---------------------------
+cyclododec-2,3,8-triynimine
+Should lead to: C: 12, H: 11, N: 1
+Molecule has been set to: 1,6,9-triarsino-14-ethyl-13-fluoro-10-heptadecyl-14-nonyl-6,9-dinonoxy-16-pentadecyl-12-[methylundecyl]phosphinoheptadecan-7,8,17-trithiol
+---------------------------
+1,6,9-triarsino-14-ethyl-13-fluoro-10-heptadecyl-14-nonyl-6,9-dinonoxy-16-pentadecyl-12-[methylundecyl]phosphinoheptadecan-7,8,17-trithiol
+Should lead to: As: 3, C: 90, F: 1, H: 185, O: 2, P: 1, S: 3
+Molecule has been set to: 10-pentadecylpentadecan-4,7-dione
+---------------------------
+10-pentadecylpentadecan-4,7-dione
+Should lead to: C: 30, H: 58, O: 2
+Molecule has been set to: ethylmethylether
+---------------------------
+ethylmethylether
+Should lead to: C: 3, H: 8, O: 1
+Molecule has been set to: 4-heptadecyl-10-iodo-5-mercapto-7-methyl-7-octoxy-2,5-diphenyl-4-tridecylcyclodecan-3,6,8,9-tetraone
+---------------------------
+4-heptadecyl-10-iodo-5-mercapto-7-methyl-7-octoxy-2,5-diphenyl-4-tridecylcyclodecan-3,6,8,9-tetraone
+Should lead to: C: 61, H: 97, I: 1, O: 5, S: 1
+Molecule has been set to: ethane
+---------------------------
+ethane
+Should lead to: C: 2, H: 6
+Molecule has been set to: propane
+---------------------------
+propane
+Should lead to: C: 3, H: 8
+Molecule has been set to: 2,5,14-tribromo-12-chloro-3-dec-1,5,8-triynyl-6-dodec-5-enyl-10-dodec-1,7-dienyl-6-cyclohept-1,3-dienyl-13-cyclohexyl-7,9-diiodo-8-methyl-4-methyl-11-methyl-5-octyl-13-cyclopentadec-1,3-dienyl-8-tetradec-2,3,12-triynyl-3-cyclotridec-3,4,6,7,8-pentaen-11-ynyl-4-undecyltetradec-10,11,12-trien-1-yne
+---------------------------
+2,5,14-tribromo-12-chloro-3-dec-1,5,8-triynyl-6-dodec-5-enyl-10-dodec-1,7-dienyl-6-cyclohept-1,3-dienyl-13-cyclohexyl-7,9-diiodo-8-methyl-4-methyl-11-methyl-5-octyl-13-cyclopentadec-1,3-dienyl-8-tetradec-2,3,12-triynyl-3-cyclotridec-3,4,6,7,8-pentaen-11-ynyl-4-undecyltetradec-10,11,12-trien-1-yne
+Should lead to: Br: 3, C: 125, Cl: 1, H: 176, I: 2
+Molecule has been set to: nonadec-8-yne
+---------------------------
+nonadec-8-yne
+Should lead to: C: 19, H: 36
+Molecule has been set to: pentadecyl tridec-9-en-2,5,7,10-tetrayn-1,13-dioate
+---------------------------
+pentadecyl tridec-9-en-2,5,7,10-tetrayn-1,13-dioate
+Should lead to: C: 43, H: 66, O: 4
+Molecule has been set to: 15-butyl-12-butyl-2-decyl-3-dodecyl-4-heptadecyl-8-nonyl-6-nonadecyl-13-octyl-7-octyl-11-octyl-10-pentyl-7-pentadecyl-11-undecylhexadecane
+---------------------------
+15-butyl-12-butyl-2-decyl-3-dodecyl-4-heptadecyl-8-nonyl-6-nonadecyl-13-octyl-7-octyl-11-octyl-10-pentyl-7-pentadecyl-11-undecylhexadecane
+Should lead to: C: 146, H: 294
+Molecule has been set to: pent-4-en-1,2,2,3,5,5-hexa[[5-[3,7,13-triimino-4-nonyl-6-pentadecyl]hexadecyl]nonadecyl]amine
+---------------------------
+pent-4-en-1,2,2,3,5,5-hexa[[5-[3,7,13-triimino-4-nonyl-6-pentadecyl]hexadecyl]nonadecyl]amine
+Should lead to: C: 359, H: 706, N: 24
+Molecule has been set to: nonadecan-1-al
+---------------------------
+nonadecan-1-al
+Should lead to: C: 19, H: 38, O: 1
+Molecule has been set to: 9,11,14-tri[dinonadecyl]amino-18-[diheptadecyl]arsino-7-bromo-3,6,12,15,18-pentachloro-13-ethyl-14-ethyl-4-ethyl-15-ethyl-16-fluoro-8-heptadecyl-2-hexadecyl-6,13-dihydroxy-5,10,17-triimino-2,3-dimercapto-9-methyl-11-nonyl-16-pentadecyl-12-propyl-7-propylnonadecan-1,19-dial
+---------------------------
+9,11,14-tri[dinonadecyl]amino-18-[diheptadecyl]arsino-7-bromo-3,6,12,15,18-pentachloro-13-ethyl-14-ethyl-4-ethyl-15-ethyl-16-fluoro-8-heptadecyl-2-hexadecyl-6,13-dihydroxy-5,10,17-triimino-2,3-dimercapto-9-methyl-11-nonyl-16-pentadecyl-12-propyl-7-propylnonadecan-1,19-dial
+Should lead to: As: 1, Br: 1, C: 239, Cl: 5, F: 1, H: 470, N: 6, O: 4, S: 2
+Molecule has been set to: undecan-1-oic acid
+---------------------------
+undecan-1-oic acid
+Should lead to: C: 11, H: 22, O: 2
+Molecule has been set to: tri[6-hexadecyl]heptadecylamine
+---------------------------
+tri[6-hexadecyl]heptadecylamine
+Should lead to: C: 99, H: 201, N: 1
+Molecule has been set to: 18-bromo-8-butyl-4,12,15-trichloro-7-dodecyl-6-dodecyl-5-dodecyl-2-ethyl-10-fluoro-7-heptyl-16-heptadecyl-10-heptadecyl-11-hexadecyl-4-nonyl-9-nonyl-6-nonyl-3-nonadecyl-14-nonadecyl-9-octyl-13-octadecyl-11-tetradecyl-5-tridecyloctadecan-3,12-di[ethyl]arsine
+---------------------------
+18-bromo-8-butyl-4,12,15-trichloro-7-dodecyl-6-dodecyl-5-dodecyl-2-ethyl-10-fluoro-7-heptyl-16-heptadecyl-10-heptadecyl-11-hexadecyl-4-nonyl-9-nonyl-6-nonyl-3-nonadecyl-14-nonadecyl-9-octyl-13-octadecyl-11-tetradecyl-5-tridecyloctadecan-3,12-di[ethyl]arsine
+Should lead to: As: 2, Br: 1, C: 239, Cl: 3, F: 1, H: 477
+Molecule has been set to: cycloheptadecan-10-[[17,19-dibromo]nonadecyl[14,15-dichloro-9-[4,10-di[tridecyl]arsino-4-methyl-2-nonadecyl]hexadecyl]octadecyl]phosphine
+---------------------------
+cycloheptadecan-10-[[17,19-dibromo]nonadecyl[14,15-dichloro-9-[4,10-di[tridecyl]arsino-4-methyl-2-nonadecyl]hexadecyl]octadecyl]phosphine
+Should lead to: As: 2, Br: 2, C: 116, Cl: 2, H: 231, P: 1
+Molecule has been set to: 3-chloro-5-[5,7-dibromo-17-iodo]octadecyl-3-cyclotridecylcyclohexane
+---------------------------
+3-chloro-5-[5,7-dibromo-17-iodo]octadecyl-3-cyclotridecylcyclohexane
+Should lead to: Br: 2, C: 37, Cl: 1, H: 68, I: 1
+Molecule has been set to: 1-chloro-2-pentyl-2-pentylpropan-3,3-di[pentyltridecyl]phosphine
+---------------------------
+1-chloro-2-pentyl-2-pentylpropan-3,3-di[pentyltridecyl]phosphine
+Should lead to: C: 49, Cl: 1, H: 101, P: 2
+Molecule has been set to: 7-[1,4,5-tribromo]pentylundecan-1,11-dial
+---------------------------
+7-[1,4,5-tribromo]pentylundecan-1,11-dial
+Should lead to: Br: 3, C: 16, H: 27, O: 2
+Molecule has been set to: di[6-heptadecyl]tetradecylether
+---------------------------
+di[6-heptadecyl]tetradecylether
+Should lead to: C: 62, H: 126, O: 1
+Molecule has been set to: 8,10,13,15-tetra[octadecyl]arsino-5,8-dichloro-4-decyl-2-hexyl-3,3,7-trihydroxy-6,11-diimino-4,12,15-triiodo-5-octyl-14-oxo-16,16-diheptadecoxy-2,9,9,10,12,13-hexaphosphinoheptadecan-1,17-diamide
+---------------------------
+8,10,13,15-tetra[octadecyl]arsino-5,8-dichloro-4-decyl-2-hexyl-3,3,7-trihydroxy-6,11-diimino-4,12,15-triiodo-5-octyl-14-oxo-16,16-diheptadecoxy-2,9,9,10,12,13-hexaphosphinoheptadecan-1,17-diamide
+Should lead to: As: 4, C: 147, Cl: 2, H: 295, I: 3, N: 4, O: 8, P: 6
+Molecule has been set to: 11-[5,6,10-trifluoro]octadecylpentadec-1,8,14-trien-4,5-diyn-3,10,12,13-tetraone
+---------------------------
+11-[5,6,10-trifluoro]octadecylpentadec-1,8,14-trien-4,5-diyn-3,10,12,13-tetraone
+Should lead to: C: 33, F: 3, H: 43, O: 4
+Molecule has been set to: tetradecane
+---------------------------
+tetradecane
+Should lead to: C: 14, H: 30
+Molecule has been set to: 2-chloro-3-heptadecyl-1,4,5-triiodo-3-nonyl-2-tridecyl-5-undecylcyclohexane
+---------------------------
+2-chloro-3-heptadecyl-1,4,5-triiodo-3-nonyl-2-tridecyl-5-undecylcyclohexane
+Should lead to: C: 56, Cl: 1, H: 108, I: 3
+Molecule has been set to: 6-ethyl-6-[7-chloro-3-[2-dec-4,5,9-trienyl-5-octadecyl-4-cyclopent-2,3-dien-4-ynyl]cycloheptyl]undecylhept-1,2,4,5-tetrayne
+---------------------------
+6-ethyl-6-[7-chloro-3-[2-dec-4,5,9-trienyl-5-octadecyl-4-cyclopent-2,3-dien-4-ynyl]cycloheptyl]undecylhept-1,2,4,5-tetrayne
+Should lead to: C: 60, Cl: 1, H: 87
+Molecule has been set to: hexadec-1,14-dien-3,4,6,7-tetrayn-11-thiol
+---------------------------
+hexadec-1,14-dien-3,4,6,7-tetrayn-11-thiol
+Should lead to: C: 16, H: 14, S: 1
+Molecule has been set to: 1,2,3,12-tetrabromo-13-butyl-8-cyclobutyl-3,5,9,10,10,13-hexachloro-11-dodecyl-11-ethyl-9-fluoro-2-cycloheptyl-8-heptadecyl-6-methyl-12-octyl-4-pentyl-6-pentadecyl-7-cyclopentadecyl-5-tridecyl-7-undecylcyclotetradecan-4-[tridecyl]arsine
+---------------------------
+1,2,3,12-tetrabromo-13-butyl-8-cyclobutyl-3,5,9,10,10,13-hexachloro-11-dodecyl-11-ethyl-9-fluoro-2-cycloheptyl-8-heptadecyl-6-methyl-12-octyl-4-pentyl-6-pentadecyl-7-cyclopentadecyl-5-tridecyl-7-undecylcyclotetradecan-4-[tridecyl]arsine
+Should lead to: As: 1, Br: 4, C: 141, Cl: 6, F: 1, H: 266
+Molecule has been set to: 4-[1,2,5,6-tetra[methyltetradecyl]arsino-4-bromo]decyl-7,13-diiodo-12-[17-dodecyl-17-iodo-6-nonadecyl]nonadecylheptadec-3,9,14-trien-1,8,17-tri[di[3,4,5,6,6-pentabromo-1,5,6-trichloro]hexyl]phosphine
+---------------------------
+4-[1,2,5,6-tetra[methyltetradecyl]arsino-4-bromo]decyl-7,13-diiodo-12-[17-dodecyl-17-iodo-6-nonadecyl]nonadecylheptadec-3,9,14-trien-1,8,17-tri[di[3,4,5,6,6-pentabromo-1,5,6-trichloro]hexyl]phosphine
+Should lead to: As: 4, Br: 31, C: 173, Cl: 18, H: 297, I: 3, P: 3
+Molecule has been set to: 4-[3-[8-propyl]tridecyl]butyl-3-[3,3,5-tribromo-10-nonadecyl-7-[2-ethyl-5-heptadecyl]tetradecyl]tridecylheptane
+---------------------------
+4-[3-[8-propyl]tridecyl]butyl-3-[3,3,5-tribromo-10-nonadecyl-7-[2-ethyl-5-heptadecyl]tetradecyl]tridecylheptane
+Should lead to: Br: 3, C: 92, H: 183
+Molecule has been set to: 3-but-2-ynyl-6-chloro-5-hexyl-3-pentadecyl-4-cyclopentadecylhex-4,5-dien-1,2-diyne
+---------------------------
+3-but-2-ynyl-6-chloro-5-hexyl-3-pentadecyl-4-cyclopentadecylhex-4,5-dien-1,2-diyne
+Should lead to: C: 46, Cl: 1, H: 75
+Molecule has been set to: methyl 4,7-di[[4,5,5,9-tetra[methyl]phosphino]nonyl]amino-2-bromo-3-methylheptan-1-oate
+---------------------------
+methyl 4,7-di[[4,5,5,9-tetra[methyl]phosphino]nonyl]amino-2-bromo-3-methylheptan-1-oate
+Should lead to: Br: 1, C: 35, H: 79, N: 2, O: 2, P: 8
+Molecule has been set to: tridecan-2,3,8,10-tetraone
+---------------------------
+tridecan-2,3,8,10-tetraone
+Should lead to: C: 13, H: 20, O: 4
+Molecule has been set to: 1,9-dibromo-5-heptyl-8-cyclohexadec-6,15-dienyl-1,2,4-triiodo-6-methyl-3-nonyl-7-cyclonon-4,6-dienyl-5-cyclononadec-5,8,9,10,11-pentaenyl-3-prop-1,2-dienylnon-1,6,7-trien-2,4,8-triphosphine
+---------------------------
+1,9-dibromo-5-heptyl-8-cyclohexadec-6,15-dienyl-1,2,4-triiodo-6-methyl-3-nonyl-7-cyclonon-4,6-dienyl-5-cyclononadec-5,8,9,10,11-pentaenyl-3-prop-1,2-dienylnon-1,6,7-trien-2,4,8-triphosphine
+Should lead to: Br: 2, C: 73, H: 112, I: 3, P: 3
+Molecule has been set to: 5-[4,7,12-trifluoro-5,10,17-triiodo-11-phenyl]heptadec-3,8,9,14,15-pentaenylcycloundec-2-yn-1,7,10,11-tetrathiol
+---------------------------
+5-[4,7,12-trifluoro-5,10,17-triiodo-11-phenyl]heptadec-3,8,9,14,15-pentaenylcycloundec-2-yn-1,7,10,11-tetrathiol
+Should lead to: C: 34, F: 3, H: 40, I: 3, S: 4
+Molecule has been set to: heptadecyl[7-[9-bromo-6-hexadecyl-6-octadecyl]pentadecyl-11-[3-[dinonyl]arsino-3-bromo]propyl]hexadecylether
+---------------------------
+heptadecyl[7-[9-bromo-6-hexadecyl-6-octadecyl]pentadecyl-11-[3-[dinonyl]arsino-3-bromo]propyl]hexadecylether
+Should lead to: As: 1, Br: 2, C: 103, H: 207, O: 1
+Molecule has been set to: 13-chloro-16-ethyl-19-formyl-12-heptyl-7-heptyl-5-hydroxy-11,15,17-triiodo-12-mercapto-10-methyl-8-methyl-2-methyl-14-nonyl-2-octyl-17-octyl-14-octadecyl-4,6,10,16-tetratetradecoxy-7-pentyl-8,9,11,15,18,19-hexaphosphino-6-tetradecyl-5-tetradecyl-4-tetradecyl-3-undecylnonadecan-1-amide
+---------------------------
+13-chloro-16-ethyl-19-formyl-12-heptyl-7-heptyl-5-hydroxy-11,15,17-triiodo-12-mercapto-10-methyl-8-methyl-2-methyl-14-nonyl-2-octyl-17-octyl-14-octadecyl-4,6,10,16-tetratetradecoxy-7-pentyl-8,9,11,15,18,19-hexaphosphino-6-tetradecyl-5-tetradecyl-4-tetradecyl-3-undecylnonadecan-1-amide
+Should lead to: C: 196, Cl: 1, H: 393, I: 3, N: 1, O: 7, P: 6, S: 1
+Molecule has been set to: 5-[5-eth-1-enyl-8-[1,2,3,4,7,9-hexabromo-5-tetradecyl]non-2,3,5,7,8-pentaenyl-2-phosphino]cyclonon-2,4,6,7-tetraenylcyclotetradec-1,4,12-trien-7,9-di[propyl[8-propyl]tridecyl]amine
+---------------------------
+5-[5-eth-1-enyl-8-[1,2,3,4,7,9-hexabromo-5-tetradecyl]non-2,3,5,7,8-pentaenyl-2-phosphino]cyclonon-2,4,6,7-tetraenylcyclotetradec-1,4,12-trien-7,9-di[propyl[8-propyl]tridecyl]amine
+Should lead to: Br: 6, C: 86, H: 141, N: 2, P: 1
+Molecule has been set to: cyclopropan-1,3-diimine
+---------------------------
+cyclopropan-1,3-diimine
+Should lead to: C: 3, H: 4, N: 2
+Molecule has been set to: 1,2-dichlorocyclohexan-3,4-dione
+---------------------------
+1,2-dichlorocyclohexan-3,4-dione
+Should lead to: C: 6, Cl: 2, H: 6, O: 2
+Molecule has been set to: hexan-1,1,2,2,3,4,6-hepta[[4,6,14-trichloro-17-[13-heptyl-3-hexyl-11-nonadecyl]heptadecyl-3-[4-butyl-5-tridecyl-3-tridecyl]hexyl]nonadecyl]arsine
+---------------------------
+hexan-1,1,2,2,3,4,6-hepta[[4,6,14-trichloro-17-[13-heptyl-3-hexyl-11-nonadecyl]heptadecyl-3-[4-butyl-5-tridecyl-3-tridecyl]hexyl]nonadecyl]arsine
+Should lead to: As: 7, C: 734, Cl: 21, H: 1456
+Molecule has been set to: dodecan-1-oic acid
+---------------------------
+dodecan-1-oic acid
+Should lead to: C: 12, H: 24, O: 2
+Molecule has been set to: 14-[hexylmethyl]amino-9,9,10,11,13-penta[pentadecyl]arsino-11-bromo-15-decyl-6,6,8,10,12,16-hexahydroxy-5,13-dimercapto-16-octyl-4-oxo-12-pentyl-2,3,7,14-tetraphenyl-8-phosphino-7-tridecylheptadecan-1,17-dial
+---------------------------
+14-[hexylmethyl]amino-9,9,10,11,13-penta[pentadecyl]arsino-11-bromo-15-decyl-6,6,8,10,12,16-hexahydroxy-5,13-dimercapto-16-octyl-4-oxo-12-pentyl-2,3,7,14-tetraphenyl-8-phosphino-7-tridecylheptadecan-1,17-dial
+Should lead to: As: 5, Br: 1, C: 159, H: 288, N: 1, O: 9, P: 1, S: 2
+Molecule has been set to: 2-[5-[5-hexadecyl-9-nonadecyl]tridecyl-2-[6-heptadec-9,12,13-trienyl-3-tridecyl]undecyl]heptadecyl-3-methylcyclobut-1,3-diene
+---------------------------
+2-[5-[5-hexadecyl-9-nonadecyl]tridecyl-2-[6-heptadec-9,12,13-trienyl-3-tridecyl]undecyl]heptadecyl-3-methylcyclobut-1,3-diene
+Should lead to: C: 111, H: 212
+Molecule has been set to: 5,5,8-tribromo-3-cyclononadecyl-8-[3-dodecyl]pentylcycloundecane
+---------------------------
+5,5,8-tribromo-3-cyclononadecyl-8-[3-dodecyl]pentylcycloundecane
+Should lead to: Br: 3, C: 47, H: 89
+Molecule has been set to: nonadec-5,9,13,14,15-pentaen-1,19-diimine
+---------------------------
+nonadec-5,9,13,14,15-pentaen-1,19-diimine
+Should lead to: C: 19, H: 28, N: 2
+Molecule has been set to: 15-[4-dodec-1-enyl]pentylhexadec-7,14-diyne
+---------------------------
+15-[4-dodec-1-enyl]pentylhexadec-7,14-diyne
+Should lead to: C: 33, H: 58
+Molecule has been set to: eth-1-ene
+---------------------------
+eth-1-ene
+Should lead to: C: 2, H: 4
+Molecule has been set to: 11-butyl-1,16-dichloro-3-decyl-15-decyl-12-cyclododecyl-4-ethyl-14-ethyl-15-cycloheptadecyl-12-hexadecyl-14-methyl-2-cyclononyl-2-nonyl-6-cyclononadecyl-6-cyclononadecyl-5-octadecyl-8-cyclooctadecyl-10-propyl-7-tetradecyl-8-tetradecyl-9-tetradecyl-3-tridecyl-13-tridecyl-4-cyclotridecylcyclohexadecane
+---------------------------
+11-butyl-1,16-dichloro-3-decyl-15-decyl-12-cyclododecyl-4-ethyl-14-ethyl-15-cycloheptadecyl-12-hexadecyl-14-methyl-2-cyclononyl-2-nonyl-6-cyclononadecyl-6-cyclononadecyl-5-octadecyl-8-cyclooctadecyl-10-propyl-7-tetradecyl-8-tetradecyl-9-tetradecyl-3-tridecyl-13-tridecyl-4-cyclotridecylcyclohexadecane
+Should lead to: C: 266, Cl: 2, H: 516
+Molecule has been set to: pentadecane
+---------------------------
+pentadecane
+Should lead to: C: 15, H: 32
+Molecule has been set to: nonylamine
+---------------------------
+nonylamine
+Should lead to: C: 9, H: 21, N: 1
+Molecule has been set to: 2,5-dibromo-1,5-dichloro-3-hexyl-3-hexadecyl-2-methyl-4-octyl-4-tridecylcyclopentane
+---------------------------
+2,5-dibromo-1,5-dichloro-3-hexyl-3-hexadecyl-2-methyl-4-octyl-4-tridecylcyclopentane
+Should lead to: Br: 2, C: 49, Cl: 2, H: 94
+Molecule has been set to: butyl 2-oxobutan-1-oate
+---------------------------
+butyl 2-oxobutan-1-oate
+Should lead to: C: 8, H: 14, O: 3
+Molecule has been set to: 3-iodocyclobut-3-en-4-thiol
+---------------------------
+3-iodocyclobut-3-en-4-thiol
+Should lead to: C: 4, H: 5, I: 1, S: 1
+Molecule has been set to: heptadecylpropylphosphine
+---------------------------
+heptadecylpropylphosphine
+Should lead to: C: 20, H: 43, P: 1
+Molecule has been set to: 11,15-didodecoxyhexadec-2,3,4,7,11-pentaen-5,8,12,14-tetrayn-1-amide
+---------------------------
+11,15-didodecoxyhexadec-2,3,4,7,11-pentaen-5,8,12,14-tetrayn-1-amide
+Should lead to: C: 40, H: 55, N: 1, O: 3
+Molecule has been set to: 10-bromo-2-[8-chloro]dodecyl-2-[11-chloro-17-[15-heptadecyl-17-pent-2,3,4-trienyl]nonadecyl-5-propyl]nonadecylcyclodec-1,7,9-triene
+---------------------------
+10-bromo-2-[8-chloro]dodecyl-2-[11-chloro-17-[15-heptadecyl-17-pent-2,3,4-trienyl]nonadecyl-5-propyl]nonadecylcyclodec-1,7,9-triene
+Should lead to: Br: 1, C: 85, Cl: 2, H: 155
+Molecule has been set to: dioctylether
+---------------------------
+dioctylether
+Should lead to: C: 16, H: 34, O: 1
+Molecule has been set to: 4-[8-octadecyl]dodecyl-2-dodecyltridecan-1,3,5-tri[octadecyl]phosphine
+---------------------------
+4-[8-octadecyl]dodecyl-2-dodecyltridecan-1,3,5-tri[octadecyl]phosphine
+Should lead to: C: 109, H: 223, P: 3
+Molecule has been set to: hex-1,2,4-triyne
+---------------------------
+hex-1,2,4-triyne
+Should lead to: C: 6, H: 2
+Molecule has been set to: 12-bromo-7,14-dichloro-8-decyl-6-ethyl-11-heptyl-2-heptadecyl-2-hexadecyl-10-hexadecyl-13-hexadecyl-5-pentyl-13-pentyl-5-propyl-4-tetradecyl-7-tridecyl-3-tridecyltetradecane
+---------------------------
+12-bromo-7,14-dichloro-8-decyl-6-ethyl-11-heptyl-2-heptadecyl-2-hexadecyl-10-hexadecyl-13-hexadecyl-5-pentyl-13-pentyl-5-propyl-4-tetradecyl-7-tridecyl-3-tridecyltetradecane
+Should lead to: Br: 1, C: 151, Cl: 2, H: 301
+Molecule has been set to: 1,1,1,2,6-pentaphenyl-4,4,9,11-tetra[di[7-heptadecyl-8-tetradecyl]tetradecyl]phosphinotetradecan-5,8,10,12,13-pentaone
+---------------------------
+1,1,1,2,6-pentaphenyl-4,4,9,11-tetra[di[7-heptadecyl-8-tetradecyl]tetradecyl]phosphinotetradecan-5,8,10,12,13-pentaone
+Should lead to: C: 404, H: 764, O: 5, P: 4
+Molecule has been set to: tetradecylarsine
+---------------------------
+tetradecylarsine
+Should lead to: As: 1, C: 14, H: 31
+Molecule has been set to: heptadecyl 18-amido-15-[ethylhexadecyl]arsino-2,5,11-tribromo-10-chloro-5-dodec-5-ynyl-18-formyl-2-iodo-16,17-dioxo-10-methoxy-18-nonanoyloxy-3,3,4,13-tetraphenyloctadec-6,9,12,14-tetrayn-1-oate
+---------------------------
+heptadecyl 18-amido-15-[ethylhexadecyl]arsino-2,5,11-tribromo-10-chloro-5-dodec-5-ynyl-18-formyl-2-iodo-16,17-dioxo-10-methoxy-18-nonanoyloxy-3,3,4,13-tetraphenyloctadec-6,9,12,14-tetrayn-1-oate
+Should lead to: As: 1, Br: 3, C: 100, Cl: 1, H: 135, I: 1, N: 1, O: 9
+Molecule has been set to: hexyl[1,15-dibromo-12-[11-butyl-10-nonadecyl-9-tetradecyl]dodecyl-5-propyl]octadecylarsine
+---------------------------
+hexyl[1,15-dibromo-12-[11-butyl-10-nonadecyl-9-tetradecyl]dodecyl-5-propyl]octadecylarsine
+Should lead to: As: 1, Br: 2, C: 76, H: 153
+Molecule has been set to: 14-hexadecylcyclooctadecane
+---------------------------
+14-hexadecylcyclooctadecane
+Should lead to: C: 34, H: 68
+Molecule has been set to: 8-ethyl-5-cyclohex-3,4-diynyl-11-hexadecyl-4-iodo-2-non-7-enyl-8-cyclononadecyl-5-nonadecyl-6-nonadec-7-ynyl-11-octyl-7-octadecyl-2-pent-3,4-diynyl-6-pent-1,3-dienyl-4-cyclotridec-5,7,8-trienyldodec-7-en-1,3,9,10-tetrayne
+---------------------------
+8-ethyl-5-cyclohex-3,4-diynyl-11-hexadecyl-4-iodo-2-non-7-enyl-8-cyclononadecyl-5-nonadecyl-6-nonadec-7-ynyl-11-octyl-7-octadecyl-2-pent-3,4-diynyl-6-pent-1,3-dienyl-4-cyclotridec-5,7,8-trienyldodec-7-en-1,3,9,10-tetrayne
+Should lead to: C: 151, H: 247, I: 1
+Molecule has been set to: 10-[[2,3,5,6-tetra[di[2,8-dibromo-9,9-difluoro]decyl]amino-2,4,5-tridec-3,4,5,7,9-pentaynoxy-4-tridecyl]hex-1,3-dienylmethyl]phosphinononadec-3,6,11,17-tetrayn-1,19-dial
+---------------------------
+10-[[2,3,5,6-tetra[di[2,8-dibromo-9,9-difluoro]decyl]amino-2,4,5-tridec-3,4,5,7,9-pentaynoxy-4-tridecyl]hex-1,3-dienylmethyl]phosphinononadec-3,6,11,17-tetrayn-1,19-dial
+Should lead to: Br: 16, C: 149, F: 16, H: 189, N: 4, O: 5, P: 1
+Molecule has been set to: 3,3-dibromo-2-hydroxyprop-2-enal
+---------------------------
+3,3-dibromo-2-hydroxyprop-2-enal
+Should lead to: Br: 2, C: 3, H: 2, O: 2
+Molecule has been set to: 5,9-di[dihexadecyl]arsino-4-chloro-2,9-dihydroxy-10,11-diiodo-7,10,11-trimercapto-12-oxo-2,4,5,6-tetrahexoxy-12-pentadecoxycarbonyldodec-3,7,8-trien-1-oic acid
+---------------------------
+5,9-di[dihexadecyl]arsino-4-chloro-2,9-dihydroxy-10,11-diiodo-7,10,11-trimercapto-12-oxo-2,4,5,6-tetrahexoxy-12-pentadecoxycarbonyldodec-3,7,8-trien-1-oic acid
+Should lead to: As: 2, C: 116, Cl: 1, H: 221, I: 2, O: 11, S: 3
+Molecule has been set to: [4-[butyl]amino-4-[ethylhexadecyl]arsino-3-fluoro]butyl 10-pentanoyloxydecan-1-oate
+---------------------------
+[4-[butyl]amino-4-[ethylhexadecyl]arsino-3-fluoro]butyl 10-pentanoyloxydecan-1-oate
+Should lead to: As: 1, C: 41, F: 1, H: 81, N: 1, O: 4
+Molecule has been set to: [1,6,8-tri[methylmethyl]amino-4,4,7-trihydroxy-1,2,3,3,5,5,6-heptamercapto]octyl pent-2,3,4-trienoate
+---------------------------
+[1,6,8-tri[methylmethyl]amino-4,4,7-trihydroxy-1,2,3,3,5,5,6-heptamercapto]octyl pent-2,3,4-trienoate
+Should lead to: C: 19, H: 35, N: 3, O: 5, S: 7
+Molecule has been set to: 9-[pentadecyl]amino-4-[heptadecylhexyl]arsino-4,15-dibromo-3,12-dichloro-13-fluoro-10-iodo-9,13-dimercapto-14-octyl-2,5,6,8-tetraoxo-7,10,12-trinonadecoxy-11,11-diphenyl-3,14,15-tri[dodecylheptadecyl]phosphinohexadecan-1,16-dioic acid
+---------------------------
+9-[pentadecyl]amino-4-[heptadecylhexyl]arsino-4,15-dibromo-3,12-dichloro-13-fluoro-10-iodo-9,13-dimercapto-14-octyl-2,5,6,8-tetraoxo-7,10,12-trinonadecoxy-11,11-diphenyl-3,14,15-tri[dodecylheptadecyl]phosphinohexadecan-1,16-dioic acid
+Should lead to: As: 1, Br: 2, C: 218, Cl: 2, F: 1, H: 409, I: 1, N: 1, O: 11, P: 3, S: 2
+Molecule has been set to: [2-phenyl-3-phosphino]butylamine
+---------------------------
+[2-phenyl-3-phosphino]butylamine
+Should lead to: C: 10, H: 16, N: 1, P: 1
+Molecule has been set to: cyclohept-6-yne
+---------------------------
+cyclohept-6-yne
+Should lead to: C: 7, H: 10
+Molecule has been set to: decyl 18-amido-9,18-di[heptyl]amino-5,7,10-tribromo-4-but-1,2-dienyl-6-chloro-4,8,11,13,16-pentaiodo-11,18-dimercapto-9-cyclooct-2,4-dienyl-2,3,12-trioxo-17-undecyloctadec-14,15-dienoate
+---------------------------
+decyl 18-amido-9,18-di[heptyl]amino-5,7,10-tribromo-4-but-1,2-dienyl-6-chloro-4,8,11,13,16-pentaiodo-11,18-dimercapto-9-cyclooct-2,4-dienyl-2,3,12-trioxo-17-undecyloctadec-14,15-dienoate
+Should lead to: Br: 3, C: 65, Cl: 1, H: 102, I: 5, N: 3, O: 6, S: 2
+Molecule has been set to: pentylarsine
+---------------------------
+pentylarsine
+Should lead to: As: 1, C: 5, H: 13
+Molecule has been set to: cycloheptane
+---------------------------
+cycloheptane
+Should lead to: C: 7, H: 14
+Molecule has been set to: cyclotridec-2,4,6,7,11-pentayne
+---------------------------
+cyclotridec-2,4,6,7,11-pentayne
+Should lead to: C: 13, H: 6
+Molecule has been set to: ditridecylether
+---------------------------
+ditridecylether
+Should lead to: C: 26, H: 54, O: 1
+Molecule has been set to: cyclooctadec-2-yne
+---------------------------
+cyclooctadec-2-yne
+Should lead to: C: 18, H: 32
+Molecule has been set to: 12-[ditetradecyl]arsino-2,6-dibromo-2,16-difluoro-3-hydroxy-5,10,13,15-tetraimino-6,9,16-triiodo-14-oxo-7-octoxy-3,4,9-triphenyl-8,11,11,12-tetra[methylpropenyl]phosphinoheptadec-4,7-dien-1,17-dioic acid
+---------------------------
+12-[ditetradecyl]arsino-2,6-dibromo-2,16-difluoro-3-hydroxy-5,10,13,15-tetraimino-6,9,16-triiodo-14-oxo-7-octoxy-3,4,9-triphenyl-8,11,11,12-tetra[methylpropenyl]phosphinoheptadec-4,7-dien-1,17-dioic acid
+Should lead to: As: 1, Br: 2, C: 87, F: 2, H: 128, I: 3, N: 4, O: 7, P: 4
+Molecule has been set to: di[11-[1,9-diiodo-4-pentadecyl]tridecyl]dodecylether
+---------------------------
+di[11-[1,9-diiodo-4-pentadecyl]tridecyl]dodecylether
+Should lead to: C: 80, H: 158, I: 4, O: 1
+Molecule has been set to: butyl 2-[1,16-diamido]hexadecylprop-2-en-1-oate
+---------------------------
+butyl 2-[1,16-diamido]hexadecylprop-2-en-1-oate
+Should lead to: C: 23, H: 42, N: 2, O: 4
+Molecule has been set to: 6-butyl-10-chloro-2-ethyl-1-fluoro-1,3,7,8,9-pentaiodo-4-tridecyl-6-cycloundecylcyclodecan-2,4,5,5,8,10-hexa[ditetradecyl]phosphine
+---------------------------
+6-butyl-10-chloro-2-ethyl-1-fluoro-1,3,7,8,9-pentaiodo-4-tridecyl-6-cycloundecylcyclodecan-2,4,5,5,8,10-hexa[ditetradecyl]phosphine
+Should lead to: C: 208, Cl: 1, F: 1, H: 413, I: 5, P: 6
+Molecule has been set to: prop-2-ynamide
+---------------------------
+prop-2-ynamide
+Should lead to: C: 3, H: 3, N: 1, O: 1
+Molecule has been set to: dodecane
+---------------------------
+dodecane
+Should lead to: C: 12, H: 26
+Molecule has been set to: tetradecyl 4,5-dichloro-2,3-difluoro-3,4,5-trihydroxy-6-nonyl-2-undecylheptan-1,7-dioate
+---------------------------
+tetradecyl 4,5-dichloro-2,3-difluoro-3,4,5-trihydroxy-6-nonyl-2-undecylheptan-1,7-dioate
+Should lead to: C: 55, Cl: 2, F: 2, H: 104, O: 7
+Molecule has been set to: cyclonon-3-ene
+---------------------------
+cyclonon-3-ene
+Should lead to: C: 9, H: 16
+Molecule has been set to: tetradecan-1-oic acid
+---------------------------
+tetradecan-1-oic acid
+Should lead to: C: 14, H: 28, O: 2
+Molecule has been set to: 1-aminocyclopropan-1,3-dithiol
+---------------------------
+1-aminocyclopropan-1,3-dithiol
+Should lead to: C: 3, H: 7, N: 1, S: 2
+Molecule has been set to: undecyl hept-2,3-dien-1-oate
+---------------------------
+undecyl hept-2,3-dien-1-oate
+Should lead to: C: 18, H: 32, O: 2
+Molecule has been set to: cyclohexane
+---------------------------
+cyclohexane
+Should lead to: C: 6, H: 12
+Molecule has been set to: ethyl undec-10-ynoate
+---------------------------
+ethyl undec-10-ynoate
+Should lead to: C: 13, H: 22, O: 2
+Molecule has been set to: 7-undecylcyclotetradecane
+---------------------------
+7-undecylcyclotetradecane
+Should lead to: C: 25, H: 50
+Molecule has been set to: 5,8,14-trihydroxycyclotetradecan-4,7,9,11,13-pentaone
+---------------------------
+5,8,14-trihydroxycyclotetradecan-4,7,9,11,13-pentaone
+Should lead to: C: 14, H: 18, O: 8
+Molecule has been set to: 5-ethyl-3-heptadecyl-9-heptadecyl-11-heptadecyl-4-hexyl-9-hexadecyl-10-hexadecyl-10-methyl-5-nonyl-4-cyclononadecyl-11-cyclooctyl-8-octadecyl-6-octadecyl-7-cyclooctadecyl-2-pentyl-3-pentyl-2-pentadecyl-8-tridecylcyclododecane
+---------------------------
+5-ethyl-3-heptadecyl-9-heptadecyl-11-heptadecyl-4-hexyl-9-hexadecyl-10-hexadecyl-10-methyl-5-nonyl-4-cyclononadecyl-11-cyclooctyl-8-octadecyl-6-octadecyl-7-cyclooctadecyl-2-pentyl-3-pentyl-2-pentadecyl-8-tridecylcyclododecane
+Should lead to: C: 232, H: 458
+Molecule has been set to: di[14-[1,4-difluoro]hexyl-1,3-diiodo-4-[6-nonadecyl-2-nonadecyl]undecyl]nonadecylether
+---------------------------
+di[14-[1,4-difluoro]hexyl-1,3-diiodo-4-[6-nonadecyl-2-nonadecyl]undecyl]nonadecylether
+Should lead to: C: 148, F: 4, H: 290, I: 4, O: 1
+Molecule has been set to: octan-1,8-dioic acid
+---------------------------
+octan-1,8-dioic acid
+Should lead to: C: 8, H: 14, O: 4
+Molecule has been set to: 1-[octyl]arsino-1,4-difluoro-4-[dodecyl]phosphinobutan-1,2,3,3-tetrathiol
+---------------------------
+1-[octyl]arsino-1,4-difluoro-4-[dodecyl]phosphinobutan-1,2,3,3-tetrathiol
+Should lead to: As: 1, C: 24, F: 2, H: 50, P: 1, S: 4
+Molecule has been set to: tridecan-13-[dihexadecyl]amine
+---------------------------
+tridecan-13-[dihexadecyl]amine
+Should lead to: C: 45, H: 93, N: 1
+Molecule has been set to: 3-[4,10,11,13,14,15-hexabromo]hexadecyl-7-[13-[12-pentadecyl]hexadecyl-5-[2,4,5,10,14,15-hexabromo-10-undecyl]pentadecyl]tetradecylundecane
+---------------------------
+3-[4,10,11,13,14,15-hexabromo]hexadecyl-7-[13-[12-pentadecyl]hexadecyl-5-[2,4,5,10,14,15-hexabromo-10-undecyl]pentadecyl]tetradecylundecane
+Should lead to: Br: 12, C: 98, H: 186
+Molecule has been set to: 10,15-dibromo-13-butyl-5,16-difluoro-9-hexyl-15-hexyl-7-hexadecyl-8,12-dihydroxy-3,16-diimino-4-iodo-6-nonyl-14-octadecyl-2-oxo-7-pentadecyl-11-phenyl-4-[butyloctyl]phosphinohexadecan-1-al
+---------------------------
+10,15-dibromo-13-butyl-5,16-difluoro-9-hexyl-15-hexyl-7-hexadecyl-8,12-dihydroxy-3,16-diimino-4-iodo-6-nonyl-14-octadecyl-2-oxo-7-pentadecyl-11-phenyl-4-[butyloctyl]phosphinohexadecan-1-al
+Should lead to: Br: 2, C: 108, F: 2, H: 200, I: 1, N: 2, O: 4, P: 1
+Molecule has been set to: 6-[4-bromo-6-[5-iodo-4-pentadecyl]pentyl]octylheptane
+---------------------------
+6-[4-bromo-6-[5-iodo-4-pentadecyl]pentyl]octylheptane
+Should lead to: Br: 1, C: 35, H: 70, I: 1
+Molecule has been set to: 8-ethylcyclotetradecane
+---------------------------
+8-ethylcyclotetradecane
+Should lead to: C: 16, H: 32
+Molecule has been set to: 3-butyl-2-hexyl-3-cyclohexadecyl-2-cyclotridecylcyclobutane
+---------------------------
+3-butyl-2-hexyl-3-cyclohexadecyl-2-cyclotridecylcyclobutane
+Should lead to: C: 43, H: 82
+Molecule has been set to: cycloheptan-1,7-diimine
+---------------------------
+cycloheptan-1,7-diimine
+Should lead to: C: 7, H: 12, N: 2
+Molecule has been set to: cyclonon-1,2,6,7-tetrayne
+---------------------------
+cyclonon-1,2,6,7-tetrayne
+Should lead to: C: 9, H: 2
+Molecule has been set to: 6-amido-3,6-dibromo-2,3,5-trifluoro-5-hydroxy-4-imino-6-tetradecoxycarbonylhexan-1-oic acid
+---------------------------
+6-amido-3,6-dibromo-2,3,5-trifluoro-5-hydroxy-4-imino-6-tetradecoxycarbonylhexan-1-oic acid
+Should lead to: Br: 2, C: 21, F: 3, H: 33, N: 2, O: 6
+Molecule has been set to: [5-[11,16-di[2-[2,3,4,6,7-pentahydroxy]heptyl-3,5-di[10,11-dihydroxy-12-nonadecyl]pentadecoxy-1,6-di[2,2,4-trichloro-4,6-diiodo]hexanoyloxy]hexoxy]heptadecyl]hexyl 3,5,8,9-tetraarsinodecan-1,10-dioate
+---------------------------
+[5-[11,16-di[2-[2,3,4,6,7-pentahydroxy]heptyl-3,5-di[10,11-dihydroxy-12-nonadecyl]pentadecoxy-1,6-di[2,2,4-trichloro-4,6-diiodo]hexanoyloxy]hexoxy]heptadecyl]hexyl 3,5,8,9-tetraarsinodecan-1,10-dioate
+Should lead to: As: 4, C: 428, Cl: 24, H: 802, I: 16, O: 68
+---------------------------
